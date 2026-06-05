@@ -1,0 +1,5 @@
+timestamp,multiplicador_round,cashout_alvo,valor_apostado,resultado,cashout_obtido,lucro_aposta,banca_acumulada,cadeia_pos,cofre,estrategia
+2026-06-04T14:24:34,2.38,2.00,21.10,ganhou,2.02,21.52,21.52,0,142.50,P4_hot_streak
+2026-06-04T14:24:56,3.01,1.70,10.00,perdeu,1.64,-10.00,11.52,0,142.50,P6_default
+2026-06-04T14:25:14,1.65,1.70,10.00,ganhou,1.70,7.00,18.52,0,142.50,P6_default
+2026-06-04T14:25:36,2.51,1.70,17.00,ganhou,1.70,11.90,30.42,0,154.40,P6_default

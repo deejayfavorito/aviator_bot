@@ -1,0 +1,7 @@
+timestamp,multiplicador_round,cashout_alvo,valor_apostado,resultado,cashout_obtido,lucro_aposta,banca_acumulada,cadeia_pos,cofre,estrategia
+2026-05-25T10:47:58,1.90,1.20,100.00,perdeu,1.13,-100.00,-357.38,0,0.00,default_1.20x
+2026-05-25T10:48:08,1.00,0.00,0.00,pulado,0.00,0.00,-357.38,0,0.00,pausado
+2026-05-25T10:48:18,1.08,0.00,0.00,pulado,0.00,0.00,-357.38,0,0.00,pausado
+2026-05-25T10:48:39,1.12,1.20,100.00,ganhou,1.20,20.00,-257.38,0,0.00,default_1.20x
+2026-05-25T10:48:59,2.46,1.20,120.00,ganhou,1.22,26.40,-137.38,0,0.00,default_1.20x
+2026-05-25T10:49:14,1.63,1.20,146.40,ganhou,1.21,30.74,9.02,0,30.74,default_1.20x

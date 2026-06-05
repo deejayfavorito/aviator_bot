@@ -1,0 +1,31 @@
+{
+  "padroes": {
+    "P6_default": {
+      "wins": 182,
+      "losses": 120,
+      "lucro": -23926.16677
+    },
+    "P5_rosa_queimada": {
+      "wins": 54,
+      "losses": 32,
+      "lucro": -2937.5039019999986
+    },
+    "P4_hot_streak": {
+      "wins": 184,
+      "losses": 185,
+      "lucro": -125140.0286833
+    },
+    "P3_combo_jackpot": {
+      "wins": 0,
+      "losses": 1,
+      "lucro": -65.0
+    },
+    "P2_regressao": {
+      "wins": 0,
+      "losses": 2,
+      "lucro": -1000.0
+    }
+  },
+  "total_apostas": 760,
+  "criado_em": "2026-05-27T11:25:50.742138"
+}

@@ -1,0 +1,42 @@
+{
+    "p1_pos_mega": {
+        "ativo": true,
+        "descricao": "Após mega-crash (>=N x), salta os próximos rounds (cold expectado).",
+        "limiar_mega": 100.0,
+        "rounds_skip": 3
+    },
+    "p2_seis_azuis": {
+        "ativo": true,
+        "descricao": "Após N+ crashes baixos seguidos, aposta cauteloso 2x (regressão à média).",
+        "min_azuis_seguidos": 6,
+        "cashout_alvo": 2.0,
+        "fraccao_banca": 0.5
+    },
+    "p3_combo_quente": {
+        "ativo": true,
+        "descricao": "Minuto quente + janela quente. Jackpot mode em minutos especiais.",
+        "min_azuis_recentes": 5,
+        "cashout_alvo_normal": 3.0,
+        "cashout_alvo_jackpot": 5.0,
+        "minuto_jackpot": 49,
+        "fraccao_banca_normal": 0.3,
+        "fraccao_banca_jackpot": 0.2
+    },
+    "p4_hot_streak": {
+        "ativo": true,
+        "descricao": "2+ rosas em 10 recentes = janela quente, segue.",
+        "min_rosas_em_10": 2,
+        "cashout_alvo": 1.5
+    },
+    "p5_rosa_queimada": {
+        "ativo": true,
+        "descricao": "Último crash foi alto (5x+), cauteloso no seguinte.",
+        "limiar_rosa_queimada": 5.0,
+        "cashout_alvo": 1.5
+    },
+    "p6_default": {
+        "ativo": true,
+        "descricao": "Nenhum padrão especial — comportamento default.",
+        "cashout_alvo": 1.5
+    }
+}

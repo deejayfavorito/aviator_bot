@@ -1,0 +1,8 @@
+{
+  "valor_atual": 17.2,
+  "valor_base": 10.0,
+  "limite_max": 5000.0,
+  "reset_apos_vitorias": 2,
+  "vitorias_seguidas": 1,
+  "lucro_cofre": 330.295
+}

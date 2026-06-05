@@ -1,0 +1,52 @@
+1. Instalar dependências Python:
+
+pip install -r requirements.txt
+
+2. Criar dados iniciais para treinar o modelo:
+
+python -c "import random, os; os.makedirs('data', exist_ok=True); f=open('data/historico.csv','w'); [f.write(f'2024-01-01T00:00:00,crash_registado,{round(random.uniform(1.01,15.0),2)}x\n') for _ in range(100)]; f.close(); print('OK: 100 registos criados')"
+
+3. Treinar o modelo de IA:
+
+python -m models.treinamento
+
+4. Calibrar as 5 áreas do ecrã:
+
+python -m calibrar.calibrar_area_lista
+python -m calibrar.calibrar_area_voo
+python -m calibrar.calibrar_area_apostar
+python -m calibrar.calibrar_area_cashout
+python -m calibrar.calibrar_area_vermelho
+python -m calibrar.calibrar_area_valor
+
+5. Garantir os parametros de calibração
+
+python adicionar_config_aposta.py
+
+6. Arrancar o robô:
+
+python main_autonomo.py
+
+7. Calibrar Inteligente
+
+python calibrar_inteligente.py
+
+8. Limpar os dados da sessão anterior:
+
+python limpar_dados.py
+
+9. ler o historico.csv
+
+python backtesting.py
+
+10. Analisar o melhor tempo a se apostar 
+
+python analise_temporal.py
+
+11. Ver as estatísticas das tuas apostas:
+
+python diagnostico_kelly.py
+
+12. Abrir Painel Principal
+
+python painel_principal.py

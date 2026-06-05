@@ -1,0 +1,2 @@
+timestamp,multiplicador_round,cashout_alvo,valor_apostado,resultado,cashout_obtido,lucro_aposta,banca_acumulada,cadeia_pos,cofre,estrategia
+2026-05-26T15:10:18,5.88,1.20,100.00,perdeu,1.00,-100.00,2066.72,0,245.32,default_1.20x

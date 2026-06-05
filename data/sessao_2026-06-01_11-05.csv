@@ -1,0 +1,6 @@
+timestamp,multiplicador_round,cashout_alvo,valor_apostado,resultado,cashout_obtido,lucro_aposta,banca_acumulada,cadeia_pos,cofre,estrategia
+2026-06-01T11:06:35,6.97,1.20,1000.00,ganhou,1.24,240.00,1000.00,0,0.00,P5_rosa_queimada
+2026-06-01T11:07:04,6.02,1.20,1240.00,perdeu,1.05,-1240.00,-240.00,0,0.00,P5_rosa_queimada
+2026-06-01T11:07:39,3.41,1.20,1000.00,ganhou,1.21,210.00,760.00,0,0.00,P6_default
+2026-06-01T11:08:29,17.81,1.30,1210.00,ganhou,1.31,375.10,1970.00,0,0.00,P4_hot_streak
+2026-06-01T11:08:46,1.89,1.20,1585.10,ganhou,1.28,443.83,3555.10,0,0.00,P6_default

@@ -1,0 +1,78 @@
+{
+    "limiar_conf": 0.65,
+    "saldo_inicial": 798.0,
+    "valor_aposta": 50.0,
+    "limiar_cashout": 1.5,
+    "offset_latencia_cashout": 0.0,
+    "meta_diaria": 400.0,
+    "limite_perda": 200.0,
+    "max_perdas_seguidas": 3,
+    "duracao_pausa_rounds": 3,
+    "tempo_min_entre_rodadas": 1.0,
+    "max_multiplicador_valido": 10000.0,
+    "min_multiplicador_valido": 1.0,
+    "aposta_base": 10.0,
+    "aposta_limite_max": 5000.0,
+    "reset_apos_vitorias": 2,
+    "kelly_modo": "off",
+    "adaptive_strategy": false,
+    "hot_cold_detection": false,
+    "preservar_banca": false,
+    "preservar_banca_limiar": 10000.0,
+    "regiao_lista_multiplicadores": [
+        807,
+        284,
+        727,
+        38
+    ],
+    "regiao_multiplicador_voo": [
+        881,
+        357,
+        560,
+        210
+    ],
+    "area_apostar": [
+        1157,
+        659,
+        73,
+        85
+    ],
+    "area_cashout": [
+        1158,
+        662,
+        65,
+        75
+    ],
+    "area_vermelho_final": [
+        808,
+        359,
+        766,
+        172
+    ],
+    "area_valor_aposta": [
+        996,
+        647,
+        88,
+        33
+    ],
+    "usar_estrategia_padroes": true,
+    "usar_estrategia_dados": false,
+    "banca_inicial": 152.0,
+    "objectivo_pct": 10,
+    "stop_loss_pct": 7,
+    "area_saldo": [
+        1370,
+        239,
+        115,
+        30
+    ],
+    "area_historico": [
+        806,
+        325,
+        760,
+        159
+    ],
+    "modo_observador": false,
+    "usar_estrategia_rosa": false,
+    "cashout_rosa": 1.9
+}

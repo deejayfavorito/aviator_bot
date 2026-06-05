@@ -1,0 +1,19 @@
+{
+  "estatisticas": {
+    "total": 80,
+    "azuis": 32,
+    "rosas": 8,
+    "megas": 2,
+    "pct_azuis": 40.0,
+    "pct_rosas": 10.0,
+    "pct_megas": 2.5,
+    "crash_mediano": 2.43,
+    "quantil_50": 2.43,
+    "quantil_67": 3.71,
+    "quantil_75": 4.97,
+    "max_visto": 180.51,
+    "classificacao": "normal",
+    "fonte": "dinamica"
+  },
+  "atualizado_em": "2026-06-04T15:34:43"
+}

@@ -1,0 +1,11 @@
+matplotlib
+numpy
+pandas
+opencv-python
+pyautogui
+pytesseract
+pillow
+pygetwindow
+joblib
+scikit-learn
+river

@@ -1,0 +1,436 @@
+2026-05-28 14:14:11,198 - INFO - 🚀 Robô Aviator iniciado...
+2026-05-28 14:14:11,199 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-05-28 14:14:11,199 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-05-28 14:14:11,199 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-05-28 14:14:11,199 - INFO -    📐 Padrões detectados em tempo real:
+2026-05-28 14:14:11,199 - INFO -       P1 Pós-mega       → não apostar
+2026-05-28 14:14:11,200 - INFO -       P2 6+ azuis       → cashout 2.0x (50% banca)
+2026-05-28 14:14:11,200 - INFO -       P3 Combo quente   → cashout 3-5x (jackpot)
+2026-05-28 14:14:11,200 - INFO -       P4 Hot streak     → cashout 1.30x
+2026-05-28 14:14:11,200 - INFO -       P5 Rosa queimada  → cashout 1.20x
+2026-05-28 14:14:11,200 - INFO -       P6 Default        → cashout 1.20x (cadeia)
+2026-05-28 14:14:11,200 - INFO -    🎯 Sistema de 3 FASES:
+2026-05-28 14:14:11,200 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-05-28 14:14:11,201 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-05-28 14:14:11,201 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-05-28 14:14:11,201 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-05-28 14:14:11,215 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-05-28 14:14:11,216 - INFO - 💰 Estado aposta: Cadeia: 0/4 | Aposta: 10 | Cofre: 58 AOA
+2026-05-28 14:14:11,218 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-05-28 14:14:13,794 - INFO - ✅ Sync: 13 crashes visíveis (último = 1.06x)
+2026-05-28 14:14:13,795 - INFO - 📊 Janela inicial Follow Patterns: 13 crashes
+2026-05-28 14:14:13,795 - INFO -    Recentes: ['1.06', '3.88', '1.10', '2.65', '1.60']...
+2026-05-28 14:14:13,795 - INFO -    A aguardar próximo round terminar...
+2026-05-28 14:14:13,796 - INFO - 🛑 Limite de banca atingido.
+2026-05-28 14:14:13,796 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-05-28 14:14:30,013 - INFO - 🚀 Robô Aviator iniciado...
+2026-05-28 14:14:30,013 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-05-28 14:14:30,013 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-05-28 14:14:30,014 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-05-28 14:14:30,014 - INFO -    📐 Padrões detectados em tempo real:
+2026-05-28 14:14:30,014 - INFO -       P1 Pós-mega       → não apostar
+2026-05-28 14:14:30,014 - INFO -       P2 6+ azuis       → cashout 2.0x (50% banca)
+2026-05-28 14:14:30,015 - INFO -       P3 Combo quente   → cashout 3-5x (jackpot)
+2026-05-28 14:14:30,015 - INFO -       P4 Hot streak     → cashout 1.30x
+2026-05-28 14:14:30,015 - INFO -       P5 Rosa queimada  → cashout 1.20x
+2026-05-28 14:14:30,015 - INFO -       P6 Default        → cashout 1.20x (cadeia)
+2026-05-28 14:14:30,015 - INFO -    🎯 Sistema de 3 FASES:
+2026-05-28 14:14:30,016 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-05-28 14:14:30,016 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-05-28 14:14:30,016 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-05-28 14:14:30,016 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-05-28 14:14:30,019 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-05-28 14:14:30,020 - INFO - 💰 Estado aposta: Cadeia: 0/4 | Aposta: 10 | Cofre: 0 AOA
+2026-05-28 14:14:30,024 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-05-28 14:14:30,923 - INFO - ✅ Sync: 13 crashes visíveis (último = 1.06x)
+2026-05-28 14:14:30,923 - INFO - 📊 Janela inicial Follow Patterns: 13 crashes
+2026-05-28 14:14:30,924 - INFO -    Recentes: ['1.06', '3.88', '1.10', '2.65', '1.60']...
+2026-05-28 14:14:30,924 - INFO -    A aguardar próximo round terminar...
+2026-05-28 14:14:37,429 - INFO - 📈 Round acabou: 7.13x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-05-28 14:14:37,430 - INFO - 💨 P5 Rosa queimada (7.1x) — default 1.20x cauteloso
+2026-05-28 14:14:37,430 - INFO - 💼 Cadeia composta: 10 AOA | 0 vitórias seguidas
+2026-05-28 14:14:37,430 - INFO - 🧠 Cashout alvo 1.20x | Valor 10 AOA | 0.0s decisão
+2026-05-28 14:14:48,569 - INFO - 💰 GANHOU em 1.24x | Cadeia: 1/4 | Aposta: 12 | Cofre: 0 AOA
+2026-05-28 14:14:49,689 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:15:15,214 - INFO - 📈 Round acabou: 10.28x — janela de aposta aberta! [FASE 2 (warm-up 2/3)]
+2026-05-28 14:15:15,215 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 14:15:15,216 - INFO - 💼 Cadeia composta: 12 AOA | 1 vitórias seguidas
+2026-05-28 14:15:15,216 - INFO - 🧠 Cashout alvo 1.30x | Valor 12 AOA | 0.0s decisão
+2026-05-28 14:15:26,345 - INFO - 💰 GANHOU em 1.30x | Cadeia: 2/4 | Aposta: 16 | Cofre: 0 AOA
+2026-05-28 14:15:26,374 - INFO - ✋ Round terminado. Paragem confirmada — a sair.
+2026-05-28 14:15:26,374 - INFO - 📊 Resumo final: 2W / 0L
+2026-05-28 14:15:26,374 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-05-28 14:23:07,881 - INFO - 🚀 Robô Aviator iniciado...
+2026-05-28 14:23:07,887 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-05-28 14:23:07,887 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-05-28 14:23:07,890 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-05-28 14:23:07,890 - INFO -    📐 Padrões detectados em tempo real:
+2026-05-28 14:23:07,890 - INFO -       P1 Pós-mega       → não apostar
+2026-05-28 14:23:07,891 - INFO -       P2 6+ azuis       → cashout 2.0x (50% banca)
+2026-05-28 14:23:07,891 - INFO -       P3 Combo quente   → cashout 3-5x (jackpot)
+2026-05-28 14:23:07,891 - INFO -       P4 Hot streak     → cashout 1.30x
+2026-05-28 14:23:07,891 - INFO -       P5 Rosa queimada  → cashout 1.20x
+2026-05-28 14:23:07,892 - INFO -       P6 Default        → cashout 1.20x (cadeia)
+2026-05-28 14:23:07,892 - INFO -    🎯 Sistema de 3 FASES:
+2026-05-28 14:23:07,892 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-05-28 14:23:07,892 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-05-28 14:23:07,892 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-05-28 14:23:07,892 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-05-28 14:23:07,923 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-05-28 14:23:07,925 - INFO - 💰 Estado aposta: Cadeia: 2/4 | Aposta: 16 | Cofre: 0 AOA
+2026-05-28 14:23:07,935 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-05-28 14:23:09,359 - INFO - ✅ Sync: 13 crashes visíveis (último = 3.48x)
+2026-05-28 14:23:09,360 - INFO - 📊 Janela inicial Follow Patterns: 13 crashes
+2026-05-28 14:23:09,360 - INFO -    Recentes: ['3.48', '4.76', '1.22', '6.36', '1.00']...
+2026-05-28 14:23:09,360 - INFO -    A aguardar próximo round terminar...
+2026-05-28 14:23:22,594 - INFO - 📈 Round acabou: 2.09x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-05-28 14:23:22,596 - INFO - ✅ P6 Default 1.20x (último 2.09x, 0 azuis)
+2026-05-28 14:23:22,598 - INFO - 💼 Cadeia composta: 16 AOA | 2 vitórias seguidas
+2026-05-28 14:23:22,599 - INFO - 🧠 Cashout alvo 1.20x | Valor 16 AOA | 0.0s decisão
+2026-05-28 14:23:33,575 - INFO - 💰 GANHOU em 1.21x | Cadeia: 3/4 | Aposta: 20 | Cofre: 0 AOA
+2026-05-28 14:23:34,467 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:23:38,973 - INFO - ✋ Paragem pedida — a sair.
+2026-05-28 14:23:38,973 - INFO - 📊 Resumo final: 1W / 0L
+2026-05-28 14:23:38,974 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-05-28 14:24:21,796 - INFO - 🚀 Robô Aviator iniciado...
+2026-05-28 14:24:21,796 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-05-28 14:24:21,796 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-05-28 14:24:21,797 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-05-28 14:24:21,797 - INFO -    📐 Padrões detectados em tempo real:
+2026-05-28 14:24:21,797 - INFO -       P1 Pós-mega       → não apostar
+2026-05-28 14:24:21,797 - INFO -       P2 6+ azuis       → cashout 2.0x (50% banca)
+2026-05-28 14:24:21,797 - INFO -       P3 Combo quente   → cashout 3-5x (jackpot)
+2026-05-28 14:24:21,797 - INFO -       P4 Hot streak     → cashout 1.30x
+2026-05-28 14:24:21,798 - INFO -       P5 Rosa queimada  → cashout 1.20x
+2026-05-28 14:24:21,798 - INFO -       P6 Default        → cashout 1.20x (cadeia)
+2026-05-28 14:24:21,798 - INFO -    🎯 Sistema de 3 FASES:
+2026-05-28 14:24:21,798 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-05-28 14:24:21,798 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-05-28 14:24:21,798 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-05-28 14:24:21,798 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-05-28 14:24:21,814 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-05-28 14:24:21,815 - INFO - 💰 Estado aposta: Cadeia: 3/4 | Aposta: 20 | Cofre: 0 AOA
+2026-05-28 14:24:21,816 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-05-28 14:24:22,823 - INFO - ✅ Sync: 13 crashes visíveis (último = 7.74x)
+2026-05-28 14:24:22,824 - INFO - 📊 Janela inicial Follow Patterns: 13 crashes
+2026-05-28 14:24:22,824 - INFO -    Recentes: ['7.74', '2.09', '3.48', '4.76', '1.22']...
+2026-05-28 14:24:22,824 - INFO -    A aguardar próximo round terminar...
+2026-05-28 14:24:30,900 - INFO - 📈 Round acabou: 8.58x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-05-28 14:24:30,900 - INFO - 💨 P5 Rosa queimada (8.6x) — default 1.20x cauteloso
+2026-05-28 14:24:30,900 - INFO - 💼 Cadeia composta: 20 AOA | 3 vitórias seguidas
+2026-05-28 14:24:30,901 - INFO - 🧠 Cashout alvo 1.20x | Valor 20 AOA | 0.0s decisão
+2026-05-28 14:24:42,212 - INFO - 💰 GANHOU em 1.23x | Cadeia: 0/4 | Aposta: 10 | Cofre: 4 AOA
+2026-05-28 14:24:43,220 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:24:45,476 - INFO - 📈 Round acabou: 1.49x — janela de aposta aberta! [FASE 2 (warm-up 2/3)]
+2026-05-28 14:24:45,476 - INFO - ✅ P6 Default 1.20x (último 1.49x, 1 azuis)
+2026-05-28 14:24:45,477 - INFO - 💼 Cadeia composta: 10 AOA | 0 vitórias seguidas
+2026-05-28 14:24:45,477 - INFO - 🧠 Cashout alvo 1.20x | Valor 10 AOA | 0.0s decisão
+2026-05-28 14:24:53,566 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/4 | Aposta: 10 | Cofre: 4 AOA
+2026-05-28 14:25:01,360 - INFO - ✋ Paragem pedida — a sair.
+2026-05-28 14:25:01,361 - INFO - 📊 Resumo final: 1W / 1L
+2026-05-28 14:25:01,361 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-05-28 14:26:32,963 - INFO - 🚀 Robô Aviator iniciado...
+2026-05-28 14:26:32,963 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-05-28 14:26:32,963 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-05-28 14:26:32,963 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-05-28 14:26:32,964 - INFO -    📐 Padrões detectados em tempo real:
+2026-05-28 14:26:32,964 - INFO -       P1 Pós-mega       → não apostar
+2026-05-28 14:26:32,964 - INFO -       P2 6+ azuis       → cashout 2.0x (50% banca)
+2026-05-28 14:26:32,964 - INFO -       P3 Combo quente   → cashout 3-5x (jackpot)
+2026-05-28 14:26:32,964 - INFO -       P4 Hot streak     → cashout 1.30x
+2026-05-28 14:26:32,964 - INFO -       P5 Rosa queimada  → cashout 1.20x
+2026-05-28 14:26:32,965 - INFO -       P6 Default        → cashout 1.20x (cadeia)
+2026-05-28 14:26:32,965 - INFO -    🎯 Sistema de 3 FASES:
+2026-05-28 14:26:32,965 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-05-28 14:26:32,965 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-05-28 14:26:32,965 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-05-28 14:26:32,965 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-05-28 14:26:32,980 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-05-28 14:26:32,980 - INFO - 💰 Estado aposta: Cadeia: 0/4 | Aposta: 1000 | Cofre: 0 AOA
+2026-05-28 14:26:32,982 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-05-28 14:26:33,849 - INFO - ✅ Sync: 12 crashes visíveis (último = 3713.51x)
+2026-05-28 14:26:33,849 - INFO - 📊 Janela inicial Follow Patterns: 12 crashes
+2026-05-28 14:26:33,849 - INFO -    Recentes: ['3713.51', '2.82', '1.00', '1.49', '8.58']...
+2026-05-28 14:26:33,849 - INFO -    A aguardar próximo round terminar...
+2026-05-28 14:26:57,073 - INFO - 📈 Round acabou: 14.24x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-05-28 14:26:57,073 - INFO - ❄️ P1 Pós-mega (3714x recente) — skip (cold expectado)
+2026-05-28 14:27:22,355 - INFO - 📈 Round acabou: 1.05x — janela de aposta aberta! [FASE 2 (warm-up 2/3)]
+2026-05-28 14:27:22,356 - INFO - ❄️ P1 Pós-mega (3714x recente) — skip (cold expectado)
+2026-05-28 14:27:23,174 - INFO - 📈 Round acabou: 4.05x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:27:23,175 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 14:27:23,175 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:27:23,175 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:27:31,930 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 0 AOA
+2026-05-28 14:28:15,680 - INFO - 📈 Round acabou: 16.16x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:28:15,681 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:28:15,681 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:28:15,681 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:28:27,105 - INFO - 💰 GANHOU em 1.31x | Cadeia: 1/4 | Aposta: 1310 | Cofre: 0 AOA
+2026-05-28 14:28:27,988 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:28:48,824 - INFO - 📈 Round acabou: 116.16x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:28:48,824 - INFO - ❄️ P1 Pós-mega (116x recente) — skip (cold expectado)
+2026-05-28 14:28:49,984 - INFO - 📈 Round acabou: 8.11x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:28:49,985 - INFO - ❄️ P1 Pós-mega (116x recente) — skip (cold expectado)
+2026-05-28 14:29:00,975 - INFO - 📈 Round acabou: 1.07x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:29:00,976 - INFO - ❄️ P1 Pós-mega (116x recente) — skip (cold expectado)
+2026-05-28 14:29:52,778 - INFO - 📈 Round acabou: 10.62x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:29:52,779 - INFO - 🔥 P4 Hot streak: 5 rosas em 10 → 1.30x
+2026-05-28 14:29:52,780 - INFO - 💼 Cadeia composta: 1310 AOA | 1 vitórias seguidas
+2026-05-28 14:29:52,781 - INFO - 🧠 Cashout alvo 1.30x | Valor 1310 AOA | 0.0s decisão
+2026-05-28 14:30:01,659 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 0 AOA
+2026-05-28 14:30:12,837 - INFO - 📈 Round acabou: 1.12x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:30:12,838 - INFO - 🔥 P4 Hot streak: 5 rosas em 10 → 1.30x
+2026-05-28 14:30:12,838 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:30:12,839 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:30:25,189 - INFO - 💰 GANHOU em 1.32x | Cadeia: 1/4 | Aposta: 1320 | Cofre: 0 AOA
+2026-05-28 14:30:40,762 - INFO - 📈 Round acabou: 1.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:30:40,763 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 1.30x
+2026-05-28 14:30:40,763 - INFO - 💼 Cadeia composta: 1320 AOA | 1 vitórias seguidas
+2026-05-28 14:30:40,764 - INFO - 🧠 Cashout alvo 1.30x | Valor 1320 AOA | 0.0s decisão
+2026-05-28 14:30:52,036 - INFO - 💰 GANHOU em 1.32x | Cadeia: 2/4 | Aposta: 1742 | Cofre: 0 AOA
+2026-05-28 14:30:53,111 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:31:13,645 - INFO - 📈 Round acabou: 7.52x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:31:13,646 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:31:13,646 - INFO - 💼 Cadeia composta: 1742 AOA | 2 vitórias seguidas
+2026-05-28 14:31:13,647 - INFO - 🧠 Cashout alvo 1.30x | Valor 1742 AOA | 0.0s decisão
+2026-05-28 14:31:25,516 - INFO - 💰 GANHOU em 1.31x | Cadeia: 3/4 | Aposta: 2283 | Cofre: 0 AOA
+2026-05-28 14:31:26,341 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:31:32,531 - INFO - 📈 Round acabou: 2.31x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:31:32,532 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:31:32,533 - INFO - 💼 Cadeia composta: 2283 AOA | 3 vitórias seguidas
+2026-05-28 14:31:32,533 - INFO - 🧠 Cashout alvo 1.30x | Valor 2283 AOA | 0.0s decisão
+2026-05-28 14:31:44,963 - INFO - 💰 GANHOU em 1.32x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 14:31:45,957 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:31:51,530 - INFO - 📈 Round acabou: 2.21x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:31:51,530 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:31:51,531 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:31:51,531 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:32:03,537 - INFO - 💰 GANHOU em 1.32x | Cadeia: 1/4 | Aposta: 1320 | Cofre: 730 AOA
+2026-05-28 14:32:04,404 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:32:21,490 - INFO - 📈 Round acabou: 932.21x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:32:21,490 - INFO - ❄️ P1 Pós-mega (932x recente) — skip (cold expectado)
+2026-05-28 14:32:22,302 - INFO - 📈 Round acabou: 5.93x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:32:22,302 - INFO - ❄️ P1 Pós-mega (932x recente) — skip (cold expectado)
+2026-05-28 14:32:40,912 - INFO - 📈 Round acabou: 2.20x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:32:40,913 - INFO - ❄️ P1 Pós-mega (932x recente) — skip (cold expectado)
+2026-05-28 14:32:54,766 - INFO - 📈 Round acabou: 1.48x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:32:54,767 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 14:32:54,767 - INFO - 💼 Cadeia composta: 1320 AOA | 1 vitórias seguidas
+2026-05-28 14:32:54,768 - INFO - 🧠 Cashout alvo 1.30x | Valor 1320 AOA | 0.0s decisão
+2026-05-28 14:33:06,623 - INFO - 💰 GANHOU em 1.31x | Cadeia: 2/4 | Aposta: 1729 | Cofre: 730 AOA
+2026-05-28 14:33:07,405 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:33:13,030 - INFO - 📈 Round acabou: 2.22x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:33:13,031 - INFO - ✅ P6 Default 1.20x (último 2.22x, 0 azuis)
+2026-05-28 14:33:13,032 - INFO - 💼 Cadeia composta: 1729 AOA | 2 vitórias seguidas
+2026-05-28 14:33:13,033 - INFO - 🧠 Cashout alvo 1.20x | Valor 1729 AOA | 0.0s decisão
+2026-05-28 14:33:24,698 - INFO - 💰 GANHOU em 1.22x | Cadeia: 3/4 | Aposta: 2110 | Cofre: 730 AOA
+2026-05-28 14:33:25,533 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:33:31,309 - INFO - 📈 Round acabou: 62.22x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:33:31,310 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 14:33:31,310 - INFO - 💼 Cadeia composta: 2110 AOA | 3 vitórias seguidas
+2026-05-28 14:33:31,311 - INFO - 🧠 Cashout alvo 1.30x | Valor 2110 AOA | 0.0s decisão
+2026-05-28 14:33:40,899 - INFO - 💥 PERDEU em 1.05x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 14:33:52,206 - INFO - 📈 Round acabou: 31.06x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:33:52,206 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:33:52,207 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:33:52,207 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:34:03,371 - INFO - 💰 GANHOU em 1.30x | Cadeia: 1/4 | Aposta: 1300 | Cofre: 730 AOA
+2026-05-28 14:34:04,162 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:34:06,487 - INFO - 📈 Round acabou: 1.08x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:34:06,487 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:34:06,488 - INFO - 💼 Cadeia composta: 1300 AOA | 1 vitórias seguidas
+2026-05-28 14:34:06,490 - INFO - 🧠 Cashout alvo 1.30x | Valor 1300 AOA | 0.0s decisão
+2026-05-28 14:34:31,239 - INFO - 💥 PERDEU em 1.08x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 14:34:45,332 - INFO - 📈 Round acabou: 1.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:34:45,333 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:34:45,333 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:34:45,334 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:34:57,971 - INFO - 💰 GANHOU em 1.31x | Cadeia: 1/4 | Aposta: 1310 | Cofre: 730 AOA
+2026-05-28 14:34:58,854 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:35:13,780 - INFO - 📈 Round acabou: 2.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:35:13,780 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:35:13,780 - INFO - 💼 Cadeia composta: 1310 AOA | 1 vitórias seguidas
+2026-05-28 14:35:13,781 - INFO - 🧠 Cashout alvo 1.30x | Valor 1310 AOA | 0.0s decisão
+2026-05-28 14:35:47,483 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 14:35:57,782 - INFO - 📈 Round acabou: 412.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:35:57,782 - INFO - ❄️ P1 Pós-mega (412x recente) — skip (cold expectado)
+2026-05-28 14:35:58,594 - INFO - 📈 Round acabou: 31.41x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:35:58,594 - INFO - ❄️ P1 Pós-mega (412x recente) — skip (cold expectado)
+2026-05-28 14:36:27,855 - INFO - 📈 Round acabou: 6.13x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:36:27,855 - INFO - ❄️ P1 Pós-mega (412x recente) — skip (cold expectado)
+2026-05-28 14:37:00,914 - INFO - 📈 Round acabou: 7.22x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:37:00,915 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 1.30x
+2026-05-28 14:37:00,917 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:37:00,917 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:37:12,724 - INFO - 💰 GANHOU em 1.30x | Cadeia: 1/4 | Aposta: 1300 | Cofre: 730 AOA
+2026-05-28 14:37:13,559 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:37:14,434 - INFO - 📈 Round acabou: 77.22x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:37:14,435 - INFO - 🔥 P4 Hot streak: 5 rosas em 10 → 1.30x
+2026-05-28 14:37:14,437 - INFO - 💼 Cadeia composta: 1300 AOA | 1 vitórias seguidas
+2026-05-28 14:37:14,438 - INFO - 🧠 Cashout alvo 1.30x | Valor 1300 AOA | 0.0s decisão
+2026-05-28 14:37:27,587 - INFO - 💰 GANHOU em 1.30x | Cadeia: 2/4 | Aposta: 1690 | Cofre: 730 AOA
+2026-05-28 14:37:28,700 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:37:29,814 - INFO - 📈 Round acabou: 1.57x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:37:29,815 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 1.30x
+2026-05-28 14:37:29,817 - INFO - 💼 Cadeia composta: 1690 AOA | 2 vitórias seguidas
+2026-05-28 14:37:29,819 - INFO - 🧠 Cashout alvo 1.30x | Valor 1690 AOA | 0.0s decisão
+2026-05-28 14:38:03,584 - INFO - 💥 PERDEU em 1.26x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 14:38:31,118 - INFO - 📈 Round acabou: 13.35x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:38:31,118 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 1.30x
+2026-05-28 14:38:31,119 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:38:31,120 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:38:43,855 - INFO - 💰 GANHOU em 1.32x | Cadeia: 1/4 | Aposta: 1320 | Cofre: 730 AOA
+2026-05-28 14:38:44,806 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:38:52,655 - INFO - 📈 Round acabou: 2.02x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:38:52,655 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 1.30x
+2026-05-28 14:38:52,656 - INFO - 💼 Cadeia composta: 1320 AOA | 1 vitórias seguidas
+2026-05-28 14:38:52,657 - INFO - 🧠 Cashout alvo 1.30x | Valor 1320 AOA | 0.0s decisão
+2026-05-28 14:39:01,505 - INFO - 💰 GANHOU em 1.34x | Cadeia: 2/4 | Aposta: 1769 | Cofre: 730 AOA
+2026-05-28 14:39:02,379 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:39:13,202 - INFO - 📈 Round acabou: 3.50x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:39:13,203 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 1.30x
+2026-05-28 14:39:13,204 - INFO - 💼 Cadeia composta: 1769 AOA | 2 vitórias seguidas
+2026-05-28 14:39:13,204 - INFO - 🧠 Cashout alvo 1.30x | Valor 1769 AOA | 0.0s decisão
+2026-05-28 14:39:28,168 - INFO - 💥 PERDEU em 1.13x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 14:39:38,985 - INFO - 📈 Round acabou: 1.32x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:39:38,985 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 1.30x
+2026-05-28 14:39:38,986 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:39:38,986 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:39:57,264 - INFO - 💰 GANHOU em 2.16x | Cadeia: 1/4 | Aposta: 2160 | Cofre: 730 AOA
+2026-05-28 14:39:58,048 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:40:18,563 - INFO - 📈 Round acabou: 3.59x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:40:18,563 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 1.30x
+2026-05-28 14:40:18,565 - INFO - 💼 Cadeia composta: 2160 AOA | 1 vitórias seguidas
+2026-05-28 14:40:18,566 - INFO - 🧠 Cashout alvo 1.30x | Valor 2160 AOA | 0.0s decisão
+2026-05-28 14:40:33,452 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 14:41:10,649 - INFO - 📈 Round acabou: 9.71x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:41:10,650 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 14:41:10,650 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:41:10,651 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:41:22,689 - INFO - 💰 GANHOU em 1.30x | Cadeia: 1/4 | Aposta: 1300 | Cofre: 730 AOA
+2026-05-28 14:41:23,518 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:41:25,942 - INFO - 📈 Round acabou: 1.70x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:41:25,943 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 14:41:25,943 - INFO - 💼 Cadeia composta: 1300 AOA | 1 vitórias seguidas
+2026-05-28 14:41:25,944 - INFO - 🧠 Cashout alvo 1.30x | Valor 1300 AOA | 0.0s decisão
+2026-05-28 14:41:38,045 - INFO - 💰 GANHOU em 1.30x | Cadeia: 2/4 | Aposta: 1690 | Cofre: 730 AOA
+2026-05-28 14:41:38,911 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:41:39,762 - INFO - 📈 Round acabou: 1.40x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:41:39,762 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 14:41:39,762 - INFO - 💼 Cadeia composta: 1690 AOA | 2 vitórias seguidas
+2026-05-28 14:41:39,763 - INFO - 🧠 Cashout alvo 1.30x | Valor 1690 AOA | 0.0s decisão
+2026-05-28 14:41:58,470 - INFO - 💥 PERDEU em 1.21x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 14:42:25,633 - INFO - 📈 Round acabou: 6.94x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:42:25,633 - INFO - 💨 P5 Rosa queimada (6.9x) — default 1.20x cauteloso
+2026-05-28 14:42:25,634 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 14:42:25,635 - INFO - 🧠 Cashout alvo 1.20x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 14:42:36,331 - INFO - 💰 GANHOU em 1.21x | Cadeia: 1/4 | Aposta: 1210 | Cofre: 730 AOA
+2026-05-28 14:42:37,103 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:42:47,070 - INFO - 📈 Round acabou: 36.94x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:42:47,071 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 14:42:47,071 - INFO - 💼 Cadeia composta: 1210 AOA | 1 vitórias seguidas
+2026-05-28 14:42:47,072 - INFO - 🧠 Cashout alvo 1.30x | Valor 1210 AOA | 0.0s decisão
+2026-05-28 14:43:13,699 - INFO - 💰 GANHOU em 1.31x | Cadeia: 2/4 | Aposta: 1585 | Cofre: 730 AOA
+2026-05-28 14:43:14,503 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 14:43:16,738 - INFO - 📈 Round acabou: 3.13x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 14:43:16,740 - INFO - ✅ P6 Default 1.20x (último 3.13x, 0 azuis)
+2026-05-28 14:43:16,743 - INFO - 💼 Cadeia composta: 1585 AOA | 2 vitórias seguidas
+2026-05-28 14:43:16,745 - INFO - 🧠 Cashout alvo 1.20x | Valor 1585 AOA | 0.0s decisão
+2026-05-28 14:43:23,487 - WARNING - ⚠️ Falhou a apostar.
+2026-05-28 15:01:39,768 - INFO - 🔄 Re-sincronização: lista divergiu (apenas 0 em comum). Retomando com 1.36x
+2026-05-28 15:01:39,778 - INFO - 📈 Round acabou: 1.36x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:01:39,781 - INFO - ✅ P6 Default 1.20x (último 1.36x, 1 azuis)
+2026-05-28 15:01:39,783 - INFO - 💼 Cadeia composta: 1585 AOA | 2 vitórias seguidas
+2026-05-28 15:01:39,784 - INFO - 🧠 Cashout alvo 1.20x | Valor 1585 AOA | 0.0s decisão
+2026-05-28 15:02:00,576 - INFO - 💥 PERDEU em 1.00x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 15:02:34,397 - INFO - 📈 Round acabou: 2.72x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:02:34,397 - INFO - ✅ P6 Default 1.20x (último 2.72x, 0 azuis)
+2026-05-28 15:02:34,398 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 15:02:34,398 - INFO - 🧠 Cashout alvo 1.20x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 15:02:41,928 - INFO - 💰 GANHOU em 1.24x | Cadeia: 1/4 | Aposta: 1240 | Cofre: 730 AOA
+2026-05-28 15:02:42,895 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:02:44,064 - INFO - 📈 Round acabou: 1.81x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:02:44,064 - INFO - ✅ P6 Default 1.20x (último 1.81x, 1 azuis)
+2026-05-28 15:02:44,065 - INFO - 💼 Cadeia composta: 1240 AOA | 1 vitórias seguidas
+2026-05-28 15:02:44,065 - INFO - 🧠 Cashout alvo 1.20x | Valor 1240 AOA | 0.0s decisão
+2026-05-28 15:03:11,158 - INFO - 💰 GANHOU em 1.20x | Cadeia: 2/4 | Aposta: 1488 | Cofre: 730 AOA
+2026-05-28 15:03:12,103 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:03:13,299 - INFO - 📈 Round acabou: 5.48x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:03:13,300 - INFO - 💨 P5 Rosa queimada (5.5x) — default 1.20x cauteloso
+2026-05-28 15:03:13,300 - INFO - 💼 Cadeia composta: 1488 AOA | 2 vitórias seguidas
+2026-05-28 15:03:13,301 - INFO - 🧠 Cashout alvo 1.20x | Valor 1488 AOA | 0.0s decisão
+2026-05-28 15:03:47,462 - INFO - 💥 PERDEU em 1.01x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 15:04:03,742 - INFO - 📈 Round acabou: 3.52x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:04:03,743 - INFO - ✅ P6 Default 1.20x (último 3.52x, 0 azuis)
+2026-05-28 15:04:03,744 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 15:04:03,746 - INFO - 🧠 Cashout alvo 1.20x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 15:04:13,914 - INFO - 💰 GANHOU em 1.21x | Cadeia: 1/4 | Aposta: 1210 | Cofre: 730 AOA
+2026-05-28 15:05:04,234 - INFO - 📈 Round acabou: 73.12x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:05:04,236 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 15:05:04,238 - INFO - 💼 Cadeia composta: 1210 AOA | 1 vitórias seguidas
+2026-05-28 15:05:04,239 - INFO - 🧠 Cashout alvo 1.30x | Valor 1210 AOA | 0.0s decisão
+2026-05-28 15:05:16,275 - INFO - 💥 PERDEU em 1.29x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 15:05:32,919 - INFO - 📈 Round acabou: 1.67x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:05:32,920 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 15:05:32,924 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 15:05:32,927 - INFO - 🧠 Cashout alvo 1.30x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 15:05:43,308 - INFO - 💰 GANHOU em 1.31x | Cadeia: 1/4 | Aposta: 1310 | Cofre: 730 AOA
+2026-05-28 15:05:44,719 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:05:54,412 - INFO - 📈 Round acabou: 3.26x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:05:54,412 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 1.30x
+2026-05-28 15:05:54,413 - INFO - 💼 Cadeia composta: 1310 AOA | 1 vitórias seguidas
+2026-05-28 15:05:54,414 - INFO - 🧠 Cashout alvo 1.30x | Valor 1310 AOA | 0.0s decisão
+2026-05-28 15:06:03,165 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 730 AOA
+2026-05-28 15:06:18,087 - INFO - 📈 Round acabou: 1.40x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:06:18,087 - INFO - ✅ P6 Default 1.20x (último 1.40x, 1 azuis)
+2026-05-28 15:06:18,088 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 15:06:18,089 - INFO - 🧠 Cashout alvo 1.20x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 15:06:27,401 - INFO - 💰 GANHOU em 1.20x | Cadeia: 1/4 | Aposta: 1200 | Cofre: 730 AOA
+2026-05-28 15:06:28,780 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:06:38,556 - INFO - 📈 Round acabou: 2.91x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:06:38,557 - INFO - ✅ P6 Default 1.20x (último 2.91x, 0 azuis)
+2026-05-28 15:06:38,557 - INFO - 💼 Cadeia composta: 1200 AOA | 1 vitórias seguidas
+2026-05-28 15:06:38,558 - INFO - 🧠 Cashout alvo 1.20x | Valor 1200 AOA | 0.0s decisão
+2026-05-28 15:06:50,360 - INFO - 💰 GANHOU em 1.29x | Cadeia: 2/4 | Aposta: 1548 | Cofre: 730 AOA
+2026-05-28 15:06:51,402 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:06:52,998 - INFO - 📈 Round acabou: 1.33x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:06:52,999 - INFO - ✅ P6 Default 1.20x (último 1.33x, 1 azuis)
+2026-05-28 15:06:53,013 - INFO - 💼 Cadeia composta: 1548 AOA | 2 vitórias seguidas
+2026-05-28 15:06:53,017 - INFO - 🧠 Cashout alvo 1.20x | Valor 1548 AOA | 0.0s decisão
+2026-05-28 15:07:02,253 - INFO - 💰 GANHOU em 1.20x | Cadeia: 3/4 | Aposta: 1858 | Cofre: 730 AOA
+2026-05-28 15:07:03,444 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:07:12,354 - INFO - 📈 Round acabou: 2.62x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:07:12,355 - INFO - ✅ P6 Default 1.20x (último 2.62x, 0 azuis)
+2026-05-28 15:07:12,356 - INFO - 💼 Cadeia composta: 1858 AOA | 3 vitórias seguidas
+2026-05-28 15:07:12,356 - INFO - 🧠 Cashout alvo 1.20x | Valor 1858 AOA | 0.0s decisão
+2026-05-28 15:07:22,532 - INFO - 💰 GANHOU em 1.20x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 1102 AOA
+2026-05-28 15:07:23,553 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:07:25,012 - INFO - 📈 Round acabou: 1.26x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:07:25,013 - INFO - ✅ P6 Default 1.20x (último 1.26x, 1 azuis)
+2026-05-28 15:07:25,014 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 15:07:25,015 - INFO - 🧠 Cashout alvo 1.20x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 15:07:35,266 - INFO - 💰 GANHOU em 1.27x | Cadeia: 1/4 | Aposta: 1270 | Cofre: 1102 AOA
+2026-05-28 15:07:52,404 - INFO - 📈 Round acabou: 1.48x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:07:52,404 - INFO - ✅ P6 Default 1.20x (último 1.48x, 2 azuis)
+2026-05-28 15:07:52,405 - INFO - 💼 Cadeia composta: 1270 AOA | 1 vitórias seguidas
+2026-05-28 15:07:52,406 - INFO - 🧠 Cashout alvo 1.20x | Valor 1270 AOA | 0.0s decisão
+2026-05-28 15:08:01,936 - INFO - 💰 GANHOU em 1.25x | Cadeia: 2/4 | Aposta: 1588 | Cofre: 1102 AOA
+2026-05-28 15:08:13,924 - INFO - 📈 Round acabou: 1.00x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:08:13,924 - INFO - ✅ P6 Default 1.20x (último 1.00x, 3 azuis)
+2026-05-28 15:08:13,927 - INFO - 💼 Cadeia composta: 1588 AOA | 2 vitórias seguidas
+2026-05-28 15:08:13,930 - INFO - 🧠 Cashout alvo 1.20x | Valor 1588 AOA | 0.0s decisão
+2026-05-28 15:08:22,002 - INFO - 💰 GANHOU em 1.25x | Cadeia: 3/4 | Aposta: 1984 | Cofre: 1102 AOA
+2026-05-28 15:08:23,341 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:08:44,054 - INFO - 📈 Round acabou: 6.79x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:08:44,056 - INFO - 💨 P5 Rosa queimada (6.8x) — default 1.20x cauteloso
+2026-05-28 15:08:44,058 - INFO - 💼 Cadeia composta: 1984 AOA | 3 vitórias seguidas
+2026-05-28 15:08:44,063 - INFO - 🧠 Cashout alvo 1.20x | Valor 1984 AOA | 0.0s decisão
+2026-05-28 15:08:53,933 - INFO - 💰 GANHOU em 1.20x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 1499 AOA
+2026-05-28 15:08:55,442 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-05-28 15:09:21,238 - INFO - 📈 Round acabou: 11.85x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-05-28 15:09:21,239 - INFO - 💨 P5 Rosa queimada (11.8x) — default 1.20x cauteloso
+2026-05-28 15:09:21,239 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-05-28 15:09:21,240 - INFO - 🧠 Cashout alvo 1.20x | Valor 1000 AOA | 0.0s decisão
+2026-05-28 15:09:30,793 - INFO - 💥 PERDEU em 1.02x | Cadeia: 0/4 | Aposta: 1000 | Cofre: 1499 AOA
+2026-05-28 15:09:36,116 - INFO - 🛑 Limite de banca atingido.
+2026-05-28 15:09:36,117 - INFO - 👋 Bot encerrado. Até à próxima!

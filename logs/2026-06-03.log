@@ -1,0 +1,2163 @@
+2026-06-03 09:06:59,194 - INFO - 🚀 Robô Aviator iniciado...
+2026-06-03 09:06:59,194 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-06-03 09:06:59,194 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-06-03 09:06:59,195 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-06-03 09:06:59,195 - INFO -    📐 Padrões detectados em tempo real (cashouts do JSON):
+2026-06-03 09:06:59,196 - INFO -       P1 Pós-mega       → não apostar
+2026-06-03 09:06:59,196 - INFO -       P2 6+ azuis       → cashout 2.00x (especulativo)
+2026-06-03 09:06:59,196 - INFO -       P3 Combo quente   → cashout 3.0-5.0x (jackpot)
+2026-06-03 09:06:59,196 - INFO -       P4 Hot streak     → cashout 1.50x
+2026-06-03 09:06:59,196 - INFO -       P5 Rosa queimada  → cashout 1.50x
+2026-06-03 09:06:59,196 - INFO -       P6 Default        → cashout 1.50x (cadeia)
+2026-06-03 09:06:59,197 - INFO -    🎯 Sistema de 3 FASES:
+2026-06-03 09:06:59,197 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-06-03 09:06:59,197 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-06-03 09:06:59,197 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-06-03 09:06:59,197 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-06-03 09:06:59,220 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-06-03 09:06:59,221 - INFO - 💰 Estado aposta: Cadeia: 0/3 | Aposta: 1000 | Cofre: 12417 AOA
+2026-06-03 09:06:59,225 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-06-03 09:07:00,206 - INFO - ✅ Sync: 11 crashes visíveis (último = 2.84x)
+2026-06-03 09:07:00,226 - INFO - 📊 Janela inicial Follow Patterns: 11 crashes
+2026-06-03 09:07:00,226 - INFO -    Recentes: ['2.84', '2.07', '1.00', '11.11', '1.05']...
+2026-06-03 09:07:00,226 - INFO -    A aguardar próximo round terminar...
+2026-06-03 09:07:16,669 - INFO - ☕ Pausa humanizada (12.4s)
+2026-06-03 09:07:17,550 - INFO - 📈 Round acabou: 1.32x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-06-03 09:07:17,551 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.57 → 2.00x]
+2026-06-03 09:07:17,551 - INFO - 💼 Cadeia composta: 1000 AOA | 0 vitórias seguidas
+2026-06-03 09:07:17,552 - INFO - 🧠 Cashout alvo 2.00x | Valor 1000 AOA | 0.0s decisão
+2026-06-03 09:07:38,891 - INFO - ✅ Cashout confirmado pelo saldo (+1140 real vs +1020 esperado)
+2026-06-03 09:07:38,953 - INFO - 💰 GANHOU em 2.02x | Cadeia: 1/3 | Aposta: 2020 | Cofre: 12417 AOA
+2026-06-03 09:07:41,484 - INFO - ✋ Paragem pedida — a sair.
+2026-06-03 09:07:41,484 - INFO - 📊 Resumo final: 1W / 0L
+2026-06-03 09:07:41,485 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-06-03 09:25:04,303 - INFO - 🚀 Robô Aviator iniciado...
+2026-06-03 09:25:04,303 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-06-03 09:25:04,304 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-06-03 09:25:04,305 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-06-03 09:25:04,305 - INFO -    📐 Padrões detectados em tempo real (cashouts do JSON):
+2026-06-03 09:25:04,306 - INFO -       P1 Pós-mega       → não apostar
+2026-06-03 09:25:04,306 - INFO -       P2 6+ azuis       → cashout 2.00x (especulativo)
+2026-06-03 09:25:04,306 - INFO -       P3 Combo quente   → cashout 3.0-5.0x (jackpot)
+2026-06-03 09:25:04,306 - INFO -       P4 Hot streak     → cashout 1.50x
+2026-06-03 09:25:04,306 - INFO -       P5 Rosa queimada  → cashout 1.50x
+2026-06-03 09:25:04,306 - INFO -       P6 Default        → cashout 1.50x (cadeia)
+2026-06-03 09:25:04,307 - INFO -    🎯 Sistema de 3 FASES:
+2026-06-03 09:25:04,307 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-06-03 09:25:04,307 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-06-03 09:25:04,307 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-06-03 09:25:04,307 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-06-03 09:25:04,312 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-06-03 09:25:04,314 - INFO - 💰 Estado aposta: Cadeia: 1/3 | Aposta: 2020 | Cofre: 12417 AOA
+2026-06-03 09:25:04,319 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-06-03 09:25:05,190 - INFO - ✅ Sync: 13 crashes visíveis (último = 3.39x)
+2026-06-03 09:25:05,191 - INFO - 📊 Histórico expandido: 23 crashes capturados + 0 novos durante setup
+2026-06-03 09:25:05,191 - INFO - 📈 Estatísticas: 4.3% rosas | mediana 2.64x | q67 2.98x
+2026-06-03 09:25:05,192 - INFO - 🌡️ Classificação da sessão: ❄️ FRIA
+2026-06-03 09:25:05,192 - INFO - 🎯 Cashout adaptado: ❄️ Sessão FRIA (4.3% rosas) — defensivo 1.30x
+2026-06-03 09:25:05,192 - INFO - 📊 Janela inicial Follow Patterns: 35 crashes
+2026-06-03 09:25:05,193 - INFO -    Recentes: ['3.39', '1.81', '9.21', '1.89', '12.65']...
+2026-06-03 09:25:05,193 - INFO -    A aguardar próximo round terminar...
+2026-06-03 09:25:21,162 - INFO - 📈 Round acabou: 2.88x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-06-03 09:25:21,163 - INFO - ✅ P6 Default 1.50x (último 2.88x, 0 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 09:25:21,163 - INFO - 💼 Cadeia composta: 2020 AOA | 1 vitórias seguidas
+2026-06-03 09:25:21,164 - INFO - 🧠 Cashout alvo 1.50x | Valor 2020 AOA | 0.0s decisão
+2026-06-03 09:25:26,267 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 12417 AOA
+2026-06-03 09:25:44,831 - INFO - ☕ Pausa humanizada (6.8s)
+2026-06-03 09:25:50,076 - INFO - 📈 Round acabou: 6.99x — janela de aposta aberta! [FASE 2 (warm-up 2/3)]
+2026-06-03 09:25:50,133 - INFO - 💨 P5 Rosa queimada (7.0x) — cauteloso 1.50x [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 09:25:50,135 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:25:50,136 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.1s decisão
+2026-06-03 09:26:04,390 - INFO - ✅ Cashout confirmado pelo saldo (+295 real vs +250 esperado)
+2026-06-03 09:26:04,421 - INFO - 💰 GANHOU em 1.50x | Cadeia: 1/3 | Aposta: 750 | Cofre: 12417 AOA
+2026-06-03 09:26:36,771 - INFO - 📈 Round acabou: 22.70x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:26:36,772 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.98 → 2.00x]
+2026-06-03 09:26:36,773 - INFO - 💼 Cadeia composta: 750 AOA | 1 vitórias seguidas
+2026-06-03 09:26:36,775 - INFO - 🧠 Cashout alvo 2.00x | Valor 750 AOA | 0.0s decisão
+2026-06-03 09:26:54,797 - INFO - ✅ Cashout confirmado pelo saldo (+870 real vs +750 esperado)
+2026-06-03 09:26:54,842 - INFO - 💰 GANHOU em 2.00x | Cadeia: 2/3 | Aposta: 1500 | Cofre: 12417 AOA
+2026-06-03 09:26:55,796 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:26:59,231 - INFO - 📈 Round acabou: 3.06x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:26:59,232 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.98 → 2.00x]
+2026-06-03 09:26:59,233 - INFO - 💼 Cadeia composta: 1500 AOA | 2 vitórias seguidas
+2026-06-03 09:26:59,233 - INFO - 🧠 Cashout alvo 2.00x | Valor 1500 AOA | 0.0s decisão
+2026-06-03 09:27:17,245 - INFO - ✅ Cashout confirmado pelo saldo (+1740 real vs +1530 esperado)
+2026-06-03 09:27:17,283 - INFO - 💰 GANHOU em 2.02x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:27:37,928 - INFO - ☕ Pausa humanizada (13.2s)
+2026-06-03 09:27:38,995 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 5)
+2026-06-03 09:27:38,995 - INFO - 📈 Round acabou: 9.46x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:27:38,996 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.98 → 2.00x]
+2026-06-03 09:27:38,996 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:27:38,997 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.2s decisão
+2026-06-03 09:27:43,685 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:27:44,586 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:27:51,053 - INFO - 📈 Round acabou: 1.66x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:27:51,054 - INFO - ✅ P6 Default 1.50x (último 1.66x, 1 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 09:27:51,054 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:27:51,055 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:28:02,620 - INFO - 💥 PERDEU em 1.33x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:28:34,272 - INFO - ☕ Pausa humanizada (8.5s)
+2026-06-03 09:28:45,251 - INFO - 📈 Round acabou: 15.88x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:28:45,252 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.98 → 2.00x]
+2026-06-03 09:28:45,253 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:28:45,253 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:29:05,336 - INFO - 💥 PERDEU em 1.68x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:29:23,797 - INFO - ☕ Pausa humanizada (11.2s)
+2026-06-03 09:29:24,669 - INFO - 📈 Round acabou: 1.00x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:29:24,670 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.98 → 2.00x]
+2026-06-03 09:29:24,671 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:29:24,671 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:29:37,568 - INFO - 💥 PERDEU em 1.14x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:29:53,320 - INFO - 📈 Round acabou: 1.61x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:29:53,321 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.98 → 2.00x]
+2026-06-03 09:29:53,322 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:29:53,322 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:30:11,182 - INFO - ✅ Cashout confirmado pelo saldo (+570 real vs +500 esperado)
+2026-06-03 09:30:11,215 - INFO - 💰 GANHOU em 2.00x | Cadeia: 1/3 | Aposta: 1000 | Cofre: 13947 AOA
+2026-06-03 09:30:12,176 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:30:19,011 - INFO - 🌡️ Temperatura recalculada (round 10): 🟡 NORMAL | 11.1% rosas | q67 3.38x
+2026-06-03 09:30:19,178 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 10)
+2026-06-03 09:30:19,178 - INFO - 📈 Round acabou: 4.16x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:30:19,179 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:30:19,179 - INFO - 💼 Cadeia composta: 1000 AOA | 1 vitórias seguidas
+2026-06-03 09:30:19,180 - INFO - 🧠 Cashout alvo 2.00x | Valor 1000 AOA | 0.2s decisão
+2026-06-03 09:30:32,218 - INFO - 💥 PERDEU em 1.35x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:31:15,139 - INFO - 📈 Round acabou: 7.96x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:31:15,139 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:31:15,140 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:31:15,140 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:31:21,242 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:31:27,195 - INFO - 📈 Round acabou: 1.11x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:31:27,196 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:31:27,196 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:31:27,197 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:31:39,695 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:31:53,609 - INFO - 📈 Round acabou: 1.51x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:31:53,610 - INFO - ✅ P6 Default 1.70x (último 1.51x, 2 azuis) [IA: 🟡 q67=3.38 → 1.70x]
+2026-06-03 09:31:53,610 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:31:53,611 - INFO - 🧠 Cashout alvo 1.70x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:32:04,150 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:32:27,609 - INFO - ☕ Pausa humanizada (13.7s)
+2026-06-03 09:32:36,181 - INFO - 📈 Round acabou: 71.11x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:32:36,182 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:32:36,183 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:32:36,183 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:32:45,513 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:33:00,665 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 15)
+2026-06-03 09:33:00,665 - INFO - 📈 Round acabou: 1.56x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:33:00,666 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:33:00,666 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:33:00,667 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.2s decisão
+2026-06-03 09:33:10,862 - INFO - 💥 PERDEU em 1.17x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:33:54,825 - INFO - ☕ Pausa humanizada (10.3s)
+2026-06-03 09:33:55,638 - INFO - 📈 Round acabou: 10.08x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:33:55,639 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:33:55,639 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:33:55,640 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:34:13,991 - INFO - 💥 PERDEU em 1.80x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:35:09,893 - INFO - 📈 Round acabou: 1.08x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:35:09,894 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:35:09,895 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:35:09,895 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:35:20,448 - INFO - 💥 PERDEU em 1.05x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:36:01,574 - INFO - 📈 Round acabou: 51.51x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:36:01,575 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:36:01,575 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:36:01,576 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:36:13,199 - INFO - 💥 PERDEU em 1.11x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:36:47,583 - INFO - ☕ Pausa humanizada (14.5s)
+2026-06-03 09:36:48,452 - INFO - 📈 Round acabou: 6.03x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:36:48,453 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🟡 q67=3.38 → 2.00x]
+2026-06-03 09:36:48,453 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:36:48,454 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:36:53,342 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:36:56,764 - INFO - 🌡️ Temperatura recalculada (round 20): 🔥 QUENTE | 16.4% rosas | q67 4.16x
+2026-06-03 09:36:56,934 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 20)
+2026-06-03 09:36:56,934 - INFO - 📈 Round acabou: 226.03x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:36:56,935 - INFO - ❄️ P1 Pós-mega (226x recente) — skip (cold expectado)
+2026-06-03 09:36:57,888 - INFO - 📈 Round acabou: 1.22x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:36:57,889 - INFO - ❄️ P1 Pós-mega (226x recente) — skip (cold expectado)
+2026-06-03 09:37:12,085 - INFO - 📈 Round acabou: 1.81x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:37:12,087 - INFO - ❄️ P1 Pós-mega (226x recente) — skip (cold expectado)
+2026-06-03 09:37:38,273 - INFO - ☕ Pausa humanizada (8.8s)
+2026-06-03 09:37:40,160 - INFO - 📈 Round acabou: 3.35x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:37:40,161 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 2.00x [IA: 🔥 q67=4.16 → 2.00x]
+2026-06-03 09:37:40,161 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:37:40,162 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:37:43,332 - WARNING - ⚠️ Falhou a apostar.
+2026-06-03 09:37:59,721 - INFO - 📈 Round acabou: 73.35x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:37:59,722 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 2.00x [IA: 🔥 q67=4.16 → 2.00x]
+2026-06-03 09:37:59,722 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:37:59,722 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:38:15,943 - INFO - ✅ Cashout confirmado pelo saldo (+580 real vs +510 esperado)
+2026-06-03 09:38:15,969 - INFO - 💰 GANHOU em 2.02x | Cadeia: 1/3 | Aposta: 1010 | Cofre: 13947 AOA
+2026-06-03 09:38:16,817 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:38:18,231 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 25)
+2026-06-03 09:38:18,231 - INFO - 📈 Round acabou: 3.05x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:38:18,232 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 2.00x [IA: 🔥 q67=4.16 → 2.00x]
+2026-06-03 09:38:18,232 - INFO - 💼 Cadeia composta: 1010 AOA | 1 vitórias seguidas
+2026-06-03 09:38:18,233 - INFO - 🧠 Cashout alvo 2.00x | Valor 1010 AOA | 0.2s decisão
+2026-06-03 09:38:52,242 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:38:53,244 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:38:54,417 - INFO - 📈 Round acabou: 1.73x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:38:54,418 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🔥 q67=4.16 → 2.00x]
+2026-06-03 09:38:54,418 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:38:54,418 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:39:21,946 - WARNING - 👻 FANTASMA DETECTADA: cashout dizia +520 mas saldo só mudou -500 AOA. A registar como PERDA.
+2026-06-03 09:39:21,969 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:39:37,785 - INFO - 📈 Round acabou: 1.35x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:39:37,785 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🔥 q67=4.16 → 2.00x]
+2026-06-03 09:39:37,786 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:39:37,786 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:39:48,512 - INFO - 💥 PERDEU em 1.09x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:40:01,132 - INFO - ☕ Pausa humanizada (9.3s)
+2026-06-03 09:40:01,967 - INFO - 📈 Round acabou: 1.20x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:40:01,967 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=4.16 → 2.00x]
+2026-06-03 09:40:01,968 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:40:01,968 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:40:24,277 - INFO - ✅ Cashout confirmado pelo saldo (+560 real vs +500 esperado)
+2026-06-03 09:40:24,299 - INFO - 💰 GANHOU em 2.00x | Cadeia: 1/3 | Aposta: 1000 | Cofre: 13947 AOA
+2026-06-03 09:40:25,165 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:40:26,489 - INFO - 📈 Round acabou: 1.08x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:40:26,490 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=4.16 → 2.00x]
+2026-06-03 09:40:26,491 - INFO - 💼 Cadeia composta: 1000 AOA | 1 vitórias seguidas
+2026-06-03 09:40:26,492 - INFO - 🧠 Cashout alvo 2.00x | Valor 1000 AOA | 0.0s decisão
+2026-06-03 09:40:45,712 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:40:46,541 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:40:47,385 - INFO - 🌡️ Temperatura recalculada (round 30): 🔥 QUENTE | 15.4% rosas | q67 3.39x
+2026-06-03 09:40:47,616 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 30)
+2026-06-03 09:40:47,617 - INFO - 📈 Round acabou: 4.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:40:47,618 - INFO - ✅ P6 Default 2.00x (último 4.49x, 0 azuis) [IA: 🔥 q67=3.39 → 2.00x]
+2026-06-03 09:40:47,619 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:40:47,620 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.2s decisão
+2026-06-03 09:41:00,748 - INFO - 💥 PERDEU em 1.44x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:41:17,001 - INFO - 📈 Round acabou: 41.51x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:41:17,002 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=3.39 → 2.00x]
+2026-06-03 09:41:17,002 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:41:17,003 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:41:34,867 - INFO - 💥 PERDEU em 1.97x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:41:45,905 - INFO - 📈 Round acabou: 1.07x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:41:45,906 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=3.39 → 2.00x]
+2026-06-03 09:41:45,907 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:41:45,907 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:41:53,825 - INFO - 💥 PERDEU em 1.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:42:17,199 - INFO - 📈 Round acabou: 3.06x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:42:17,200 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=3.39 → 2.00x]
+2026-06-03 09:42:17,200 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:42:17,200 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:42:32,235 - INFO - 💥 PERDEU em 1.53x | Cadeia: 0/3 | Aposta: 500 | Cofre: 13947 AOA
+2026-06-03 09:42:45,909 - INFO - ☕ Pausa humanizada (7.1s)
+2026-06-03 09:42:53,757 - INFO - 📈 Round acabou: 2.61x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:42:53,758 - INFO - ✅ P6 Default 2.00x (último 2.61x, 0 azuis) [IA: 🔥 q67=3.39 → 2.00x]
+2026-06-03 09:42:53,759 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:42:53,760 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:43:11,402 - INFO - ✅ Cashout confirmado pelo saldo (+580 real vs +510 esperado)
+2026-06-03 09:43:11,428 - INFO - 💰 GANHOU em 2.02x | Cadeia: 1/3 | Aposta: 1010 | Cofre: 13947 AOA
+2026-06-03 09:43:12,198 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:43:22,151 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 35)
+2026-06-03 09:43:22,151 - INFO - 📈 Round acabou: 5.12x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:43:22,152 - INFO - 💨 P5 Rosa queimada (5.1x) — cauteloso 1.50x [IA: 🔥 q67=3.39 → 1.50x]
+2026-06-03 09:43:22,152 - INFO - 💼 Cadeia composta: 1010 AOA | 1 vitórias seguidas
+2026-06-03 09:43:22,152 - INFO - 🧠 Cashout alvo 1.50x | Valor 1010 AOA | 0.3s decisão
+2026-06-03 09:43:36,957 - INFO - ✅ Cashout confirmado pelo saldo (+656 real vs +525 esperado)
+2026-06-03 09:43:36,984 - INFO - 💰 GANHOU em 1.52x | Cadeia: 2/3 | Aposta: 1535 | Cofre: 13947 AOA
+2026-06-03 09:43:37,813 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:43:40,300 - INFO - 📈 Round acabou: 2.15x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:43:40,301 - INFO - ✅ P6 Default 2.00x (último 2.15x, 0 azuis) [IA: 🔥 q67=3.39 → 2.00x]
+2026-06-03 09:43:40,302 - INFO - 💼 Cadeia composta: 1535 AOA | 2 vitórias seguidas
+2026-06-03 09:43:40,304 - INFO - 🧠 Cashout alvo 2.00x | Valor 1535 AOA | 0.0s decisão
+2026-06-03 09:43:58,360 - INFO - ✅ Cashout confirmado pelo saldo (+1719 real vs +1597 esperado)
+2026-06-03 09:43:58,395 - INFO - 💰 GANHOU em 2.04x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:44:09,972 - INFO - ☕ Pausa humanizada (9.3s)
+2026-06-03 09:44:15,088 - INFO - 📈 Round acabou: 8.61x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:44:15,091 - INFO - 💨 P5 Rosa queimada (8.6x) — cauteloso 1.50x [IA: 🔥 q67=3.39 → 1.50x]
+2026-06-03 09:44:15,092 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:44:15,093 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:44:24,770 - INFO - 💥 PERDEU em 1.06x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:44:45,434 - INFO - ☕ Pausa humanizada (14.7s)
+2026-06-03 09:44:46,264 - INFO - 📈 Round acabou: 1.31x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:44:46,265 - INFO - ✅ P6 Default 2.00x (último 1.31x, 1 azuis) [IA: 🔥 q67=3.39 → 2.00x]
+2026-06-03 09:44:46,265 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:44:46,266 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:45:01,436 - INFO - 💥 PERDEU em 1.47x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:45:18,753 - INFO - 📈 Round acabou: 1.67x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:45:18,756 - INFO - ✅ P6 Default 2.00x (último 1.67x, 2 azuis) [IA: 🔥 q67=3.39 → 2.00x]
+2026-06-03 09:45:18,758 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:45:18,759 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:45:35,149 - INFO - ✅ Cashout confirmado pelo saldo (+600 real vs +500 esperado)
+2026-06-03 09:45:35,232 - INFO - 💰 GANHOU em 2.00x | Cadeia: 1/3 | Aposta: 1000 | Cofre: 15544 AOA
+2026-06-03 09:45:36,042 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:45:47,920 - INFO - 🌡️ Temperatura recalculada (round 40): 🔥 QUENTE | 14.7% rosas | q67 4.16x
+2026-06-03 09:45:48,221 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 40)
+2026-06-03 09:45:48,221 - INFO - 📈 Round acabou: 5.99x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:45:48,248 - INFO - 💨 P5 Rosa queimada (6.0x) — cauteloso 1.50x [IA: 🔥 q67=4.16 → 1.50x]
+2026-06-03 09:45:48,249 - INFO - 💼 Cadeia composta: 1000 AOA | 1 vitórias seguidas
+2026-06-03 09:45:48,250 - INFO - 🧠 Cashout alvo 1.50x | Valor 1000 AOA | 0.3s decisão
+2026-06-03 09:46:00,285 - INFO - 💥 PERDEU em 1.39x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:46:17,804 - INFO - ☕ Pausa humanizada (10.7s)
+2026-06-03 09:46:18,756 - INFO - 📈 Round acabou: 1.20x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:46:18,757 - INFO - ✅ P6 Default 2.00x (último 1.20x, 1 azuis) [IA: 🔥 q67=4.16 → 2.00x]
+2026-06-03 09:46:18,758 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:46:18,758 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:46:31,188 - INFO - 💥 PERDEU em 1.10x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:46:45,425 - INFO - ☕ Pausa humanizada (13.3s)
+2026-06-03 09:47:08,512 - INFO - ☕ Pausa humanizada (13.9s)
+2026-06-03 09:47:09,317 - INFO - 📈 Round acabou: 8.77x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:47:09,318 - INFO - 💨 P5 Rosa queimada (8.8x) — cauteloso 1.50x [IA: 🔥 q67=4.16 → 1.50x]
+2026-06-03 09:47:09,319 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:47:09,319 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:47:21,232 - INFO - ✅ Cashout confirmado pelo saldo (+305 real vs +255 esperado)
+2026-06-03 09:47:21,261 - INFO - 💰 GANHOU em 1.51x | Cadeia: 1/3 | Aposta: 755 | Cofre: 15544 AOA
+2026-06-03 09:47:22,114 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:47:27,082 - INFO - 📈 Round acabou: 718.77x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:47:27,083 - INFO - ❄️ P1 Pós-mega (719x recente) — skip (cold expectado)
+2026-06-03 09:47:39,919 - INFO - ☕ Pausa humanizada (12.8s)
+2026-06-03 09:47:40,700 - INFO - 📈 Round acabou: 2.71x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:47:40,701 - INFO - ❄️ P1 Pós-mega (719x recente) — skip (cold expectado)
+2026-06-03 09:47:58,936 - INFO - ☕ Pausa humanizada (9.9s)
+2026-06-03 09:48:10,777 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 45)
+2026-06-03 09:48:10,777 - INFO - 📈 Round acabou: 132.71x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:48:10,778 - INFO - ❄️ P1 Pós-mega (133x recente) — skip (cold expectado)
+2026-06-03 09:48:11,597 - INFO - 📈 Round acabou: 18.21x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:48:11,597 - INFO - ❄️ P1 Pós-mega (133x recente) — skip (cold expectado)
+2026-06-03 09:48:28,336 - INFO - ☕ Pausa humanizada (9.0s)
+2026-06-03 09:48:37,726 - INFO - 📈 Round acabou: 918.21x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:48:37,727 - INFO - ❄️ P1 Pós-mega (918x recente) — skip (cold expectado)
+2026-06-03 09:48:38,562 - INFO - 📈 Round acabou: 4.29x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:48:38,563 - INFO - ❄️ P1 Pós-mega (918x recente) — skip (cold expectado)
+2026-06-03 09:48:53,337 - INFO - ☕ Pausa humanizada (7.7s)
+2026-06-03 09:48:54,081 - INFO - 📈 Round acabou: 1.57x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:48:54,082 - INFO - ❄️ P1 Pós-mega (918x recente) — skip (cold expectado)
+2026-06-03 09:49:11,571 - INFO - 🌡️ Temperatura recalculada (round 50): 🔥 QUENTE | 18.8% rosas | q67 4.74x
+2026-06-03 09:49:11,843 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 50)
+2026-06-03 09:49:11,843 - INFO - 📈 Round acabou: 2.06x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:49:11,844 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:49:11,844 - INFO - 💼 Cadeia composta: 755 AOA | 1 vitórias seguidas
+2026-06-03 09:49:11,845 - INFO - 🧠 Cashout alvo 2.00x | Valor 755 AOA | 0.3s decisão
+2026-06-03 09:49:22,041 - INFO - 💥 PERDEU em 1.17x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:49:54,274 - INFO - ☕ Pausa humanizada (6.2s)
+2026-06-03 09:50:14,317 - INFO - ☕ Pausa humanizada (14.7s)
+2026-06-03 09:50:21,470 - INFO - 📈 Round acabou: 60.98x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:50:21,471 - INFO - 🔥 P4 Hot streak: 5 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:50:21,471 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:50:21,472 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:50:37,050 - INFO - 💥 PERDEU em 1.81x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:50:48,099 - INFO - ☕ Pausa humanizada (7.6s)
+2026-06-03 09:50:49,182 - INFO - 📈 Round acabou: 1.11x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:50:49,183 - INFO - 🔥 P4 Hot streak: 5 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:50:49,184 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:50:49,184 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:51:05,497 - INFO - ✅ Cashout confirmado pelo saldo (+560 real vs +520 esperado)
+2026-06-03 09:51:05,526 - INFO - 💰 GANHOU em 2.04x | Cadeia: 1/3 | Aposta: 1020 | Cofre: 15544 AOA
+2026-06-03 09:51:06,409 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:51:15,625 - INFO - 📈 Round acabou: 5.02x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:51:15,625 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:51:15,626 - INFO - 💼 Cadeia composta: 1020 AOA | 1 vitórias seguidas
+2026-06-03 09:51:15,627 - INFO - 🧠 Cashout alvo 2.00x | Valor 1020 AOA | 0.0s decisão
+2026-06-03 09:51:34,078 - INFO - ✅ Cashout confirmado pelo saldo (+1162 real vs +1040 esperado)
+2026-06-03 09:51:34,108 - INFO - 💰 GANHOU em 2.02x | Cadeia: 2/3 | Aposta: 2060 | Cofre: 15544 AOA
+2026-06-03 09:51:34,974 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:52:13,696 - INFO - ☕ Pausa humanizada (9.7s)
+2026-06-03 09:52:14,521 - INFO - 📈 Round acabou: 26.96x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:52:14,522 - INFO - 🔥 P4 Hot streak: 5 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:52:14,522 - INFO - 💼 Cadeia composta: 2060 AOA | 2 vitórias seguidas
+2026-06-03 09:52:14,523 - INFO - 🧠 Cashout alvo 2.00x | Valor 2060 AOA | 0.0s decisão
+2026-06-03 09:52:23,764 - INFO - 💥 PERDEU em 1.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:52:45,225 - INFO - ☕ Pausa humanizada (13.6s)
+2026-06-03 09:52:46,362 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 55)
+2026-06-03 09:52:46,362 - INFO - 📈 Round acabou: 1.08x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:52:46,363 - INFO - 🔥 P4 Hot streak: 4 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:52:46,363 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:52:46,364 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.2s decisão
+2026-06-03 09:52:59,906 - INFO - 💥 PERDEU em 1.68x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:53:30,144 - INFO - ☕ Pausa humanizada (13.0s)
+2026-06-03 09:53:33,206 - INFO - 📈 Round acabou: 1.82x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:53:33,208 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:53:33,209 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:53:33,211 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:53:47,951 - INFO - ✅ Cashout confirmado pelo saldo (+560 real vs +510 esperado)
+2026-06-03 09:53:47,975 - INFO - 💰 GANHOU em 2.02x | Cadeia: 1/3 | Aposta: 1010 | Cofre: 15544 AOA
+2026-06-03 09:53:48,823 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:53:57,098 - INFO - 📈 Round acabou: 4.59x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:53:57,098 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:53:57,099 - INFO - 💼 Cadeia composta: 1010 AOA | 1 vitórias seguidas
+2026-06-03 09:53:57,099 - INFO - 🧠 Cashout alvo 2.00x | Valor 1010 AOA | 0.0s decisão
+2026-06-03 09:54:11,700 - INFO - 💥 PERDEU em 1.45x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:54:31,381 - INFO - ☕ Pausa humanizada (10.3s)
+2026-06-03 09:54:32,302 - INFO - 📈 Round acabou: 1.43x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:54:32,303 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:54:32,305 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:54:32,308 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:55:07,117 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 15544 AOA
+2026-06-03 09:55:20,058 - INFO - ☕ Pausa humanizada (9.3s)
+2026-06-03 09:55:27,427 - INFO - 📈 Round acabou: 3.92x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:55:27,427 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=4.74 → 2.00x]
+2026-06-03 09:55:27,428 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:55:27,429 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:55:45,547 - INFO - ✅ Cashout confirmado pelo saldo (+605 real vs +535 esperado)
+2026-06-03 09:55:45,612 - INFO - 💰 GANHOU em 2.07x | Cadeia: 1/3 | Aposta: 1035 | Cofre: 15544 AOA
+2026-06-03 09:55:46,577 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:56:00,158 - INFO - 🌡️ Temperatura recalculada (round 60): 🔥 QUENTE | 20.0% rosas | q67 5.02x
+2026-06-03 09:56:00,459 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 60)
+2026-06-03 09:56:00,460 - INFO - 📈 Round acabou: 6.59x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:56:00,460 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=5.02 → 2.00x]
+2026-06-03 09:56:00,461 - INFO - 💼 Cadeia composta: 1035 AOA | 1 vitórias seguidas
+2026-06-03 09:56:00,461 - INFO - 🧠 Cashout alvo 2.00x | Valor 1035 AOA | 0.3s decisão
+2026-06-03 09:56:18,607 - WARNING - ⚠️ OCR saldo deu ganho suspeito (+437482 vs esperado +1335) — confio no cashout original.
+2026-06-03 09:56:18,639 - INFO - 💰 GANHOU em 2.29x | Cadeia: 2/3 | Aposta: 2370 | Cofre: 15544 AOA
+2026-06-03 09:56:19,443 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:56:38,904 - INFO - ☕ Pausa humanizada (9.8s)
+2026-06-03 09:56:39,775 - INFO - 📈 Round acabou: 6.36x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:56:39,776 - INFO - 💨 P5 Rosa queimada (6.4x) — cauteloso 1.50x [IA: 🔥 q67=5.02 → 1.50x]
+2026-06-03 09:56:39,776 - INFO - 💼 Cadeia composta: 2370 AOA | 2 vitórias seguidas
+2026-06-03 09:56:39,777 - INFO - 🧠 Cashout alvo 1.50x | Valor 2370 AOA | 0.0s decisão
+2026-06-03 09:56:55,949 - WARNING - ⚠️ OCR saldo deu delta impossível (-434584 para aposta 2370) — OCR leu lixo, confio no cashout.
+2026-06-03 09:56:56,002 - INFO - 💰 GANHOU em 1.50x | Cadeia: 0/3 | Aposta: 500 | Cofre: 16729 AOA
+2026-06-03 09:56:56,805 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:56:57,949 - INFO - 📈 Round acabou: 1.21x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:56:57,952 - INFO - ✅ P6 Default 2.00x (último 1.21x, 1 azuis) [IA: 🔥 q67=5.02 → 2.00x]
+2026-06-03 09:56:57,953 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:56:57,953 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 09:57:26,284 - INFO - ✅ Cashout confirmado pelo saldo (+590 real vs +525 esperado)
+2026-06-03 09:57:26,341 - INFO - 💰 GANHOU em 2.05x | Cadeia: 1/3 | Aposta: 1025 | Cofre: 16729 AOA
+2026-06-03 09:57:43,222 - INFO - 📈 Round acabou: 8.22x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:57:43,223 - INFO - 💨 P5 Rosa queimada (8.2x) — cauteloso 1.50x [IA: 🔥 q67=5.02 → 1.50x]
+2026-06-03 09:57:43,224 - INFO - 💼 Cadeia composta: 1025 AOA | 1 vitórias seguidas
+2026-06-03 09:57:43,225 - INFO - 🧠 Cashout alvo 1.50x | Valor 1025 AOA | 0.0s decisão
+2026-06-03 09:57:56,897 - INFO - ✅ Cashout confirmado pelo saldo (+615 real vs +512 esperado)
+2026-06-03 09:57:56,922 - INFO - 💰 GANHOU em 1.50x | Cadeia: 2/3 | Aposta: 1538 | Cofre: 16729 AOA
+2026-06-03 09:57:57,722 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:58:14,475 - INFO - ☕ Pausa humanizada (10.3s)
+2026-06-03 09:58:18,476 - INFO - 📈 Round acabou: 9.41x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:58:18,477 - INFO - 💨 P5 Rosa queimada (9.4x) — cauteloso 1.50x [IA: 🔥 q67=5.02 → 1.50x]
+2026-06-03 09:58:18,477 - INFO - 💼 Cadeia composta: 1538 AOA | 2 vitórias seguidas
+2026-06-03 09:58:18,478 - INFO - 🧠 Cashout alvo 1.50x | Valor 1538 AOA | 0.0s decisão
+2026-06-03 09:58:27,165 - INFO - 💥 PERDEU em 1.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 16729 AOA
+2026-06-03 09:58:47,644 - INFO - ☕ Pausa humanizada (7.0s)
+2026-06-03 09:59:16,117 - INFO - ☕ Pausa humanizada (8.9s)
+2026-06-03 09:59:20,477 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 65)
+2026-06-03 09:59:20,477 - INFO - 📈 Round acabou: 38.67x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:59:20,478 - INFO - 💨 P5 Rosa queimada (38.7x) — cauteloso 1.50x [IA: 🔥 q67=5.02 → 1.50x]
+2026-06-03 09:59:20,478 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 09:59:20,479 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.3s decisão
+2026-06-03 09:59:35,149 - INFO - ✅ Cashout confirmado pelo saldo (+295 real vs +250 esperado)
+2026-06-03 09:59:35,173 - INFO - 💰 GANHOU em 1.50x | Cadeia: 1/3 | Aposta: 750 | Cofre: 16729 AOA
+2026-06-03 09:59:36,041 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 09:59:36,871 - INFO - 📈 Round acabou: 1.82x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 09:59:36,872 - INFO - ✅ P6 Default 2.00x (último 1.82x, 1 azuis) [IA: 🔥 q67=5.02 → 2.00x]
+2026-06-03 09:59:36,872 - INFO - 💼 Cadeia composta: 750 AOA | 1 vitórias seguidas
+2026-06-03 09:59:36,873 - INFO - 🧠 Cashout alvo 2.00x | Valor 750 AOA | 0.0s decisão
+2026-06-03 10:00:08,229 - WARNING - 👻 FANTASMA DETECTADA: cashout dizia +750 mas saldo só mudou -750 AOA. A registar como PERDA.
+2026-06-03 10:00:08,253 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 16729 AOA
+2026-06-03 10:00:21,053 - INFO - 📈 Round acabou: 6.08x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:00:21,054 - INFO - 💨 P5 Rosa queimada (6.1x) — cauteloso 1.50x [IA: 🔥 q67=5.02 → 1.50x]
+2026-06-03 10:00:21,055 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:00:21,056 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:00:35,736 - INFO - ✅ Cashout confirmado pelo saldo (+305 real vs +250 esperado)
+2026-06-03 10:00:35,768 - INFO - 💰 GANHOU em 1.50x | Cadeia: 1/3 | Aposta: 750 | Cofre: 16729 AOA
+2026-06-03 10:00:46,095 - INFO - 📈 Round acabou: 3.77x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:00:46,098 - INFO - ✅ P6 Default 2.00x (último 3.77x, 0 azuis) [IA: 🔥 q67=5.02 → 2.00x]
+2026-06-03 10:00:46,100 - INFO - 💼 Cadeia composta: 750 AOA | 1 vitórias seguidas
+2026-06-03 10:00:46,101 - INFO - 🧠 Cashout alvo 2.00x | Valor 750 AOA | 0.0s decisão
+2026-06-03 10:00:56,400 - INFO - 💥 PERDEU em 1.16x | Cadeia: 0/3 | Aposta: 500 | Cofre: 16729 AOA
+2026-06-03 10:01:16,058 - INFO - ☕ Pausa humanizada (13.6s)
+2026-06-03 10:01:16,914 - INFO - 📈 Round acabou: 1.06x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:01:16,916 - INFO - ✅ P6 Default 2.00x (último 1.06x, 1 azuis) [IA: 🔥 q67=5.02 → 2.00x]
+2026-06-03 10:01:16,917 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:01:16,918 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:01:39,396 - INFO - ✅ Cashout confirmado pelo saldo (+580 real vs +510 esperado)
+2026-06-03 10:01:39,421 - INFO - 💰 GANHOU em 2.02x | Cadeia: 1/3 | Aposta: 1010 | Cofre: 16729 AOA
+2026-06-03 10:01:40,279 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:01:41,502 - INFO - 🌡️ Temperatura recalculada (round 70): 🔥 QUENTE | 20.0% rosas | q67 6.08x
+2026-06-03 10:01:41,669 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 70)
+2026-06-03 10:01:41,669 - INFO - 📈 Round acabou: 1.54x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:01:41,670 - INFO - ✅ P6 Default 2.00x (último 1.54x, 2 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:01:41,671 - INFO - 💼 Cadeia composta: 1010 AOA | 1 vitórias seguidas
+2026-06-03 10:01:41,672 - INFO - 🧠 Cashout alvo 2.00x | Valor 1010 AOA | 0.2s decisão
+2026-06-03 10:02:05,672 - INFO - ✅ Cashout confirmado pelo saldo (+1131 real vs +1010 esperado)
+2026-06-03 10:02:05,701 - INFO - 💰 GANHOU em 2.00x | Cadeia: 2/3 | Aposta: 2020 | Cofre: 16729 AOA
+2026-06-03 10:02:32,046 - INFO - ☕ Pausa humanizada (13.3s)
+2026-06-03 10:02:32,826 - INFO - 📈 Round acabou: 7.96x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:02:32,826 - INFO - 💨 P5 Rosa queimada (8.0x) — cauteloso 1.50x [IA: 🔥 q67=6.08 → 1.50x]
+2026-06-03 10:02:32,827 - INFO - 💼 Cadeia composta: 2020 AOA | 2 vitórias seguidas
+2026-06-03 10:02:32,827 - INFO - 🧠 Cashout alvo 1.50x | Valor 2020 AOA | 0.0s decisão
+2026-06-03 10:02:51,150 - WARNING - ⚠️ OCR saldo deu ganho suspeito (+41919 vs esperado +1616) — confio no cashout original.
+2026-06-03 10:02:51,176 - INFO - 💰 GANHOU em 1.80x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:02:52,013 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:02:53,150 - INFO - 📈 Round acabou: 1.33x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:02:53,152 - INFO - ✅ P6 Default 2.00x (último 1.33x, 1 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:02:53,153 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:02:53,154 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:03:14,236 - INFO - 💥 PERDEU em 1.51x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:03:32,350 - INFO - ☕ Pausa humanizada (12.5s)
+2026-06-03 10:03:33,127 - INFO - 📈 Round acabou: 1.01x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:03:33,128 - INFO - ✅ P6 Default 2.00x (último 1.01x, 2 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:03:33,128 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:03:33,129 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:03:44,687 - INFO - 💥 PERDEU em 1.12x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:03:59,183 - INFO - 📈 Round acabou: 1.50x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:03:59,184 - INFO - ✅ P6 Default 2.00x (último 1.50x, 3 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:03:59,186 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:03:59,233 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.1s decisão
+2026-06-03 10:04:17,311 - WARNING - ⚠️ OCR saldo deu delta impossível (-39410 para aposta 500) — OCR leu lixo, confio no cashout.
+2026-06-03 10:04:17,375 - INFO - 💰 GANHOU em 2.05x | Cadeia: 1/3 | Aposta: 1025 | Cofre: 18345 AOA
+2026-06-03 10:04:18,266 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:04:34,441 - INFO - ☕ Pausa humanizada (11.0s)
+2026-06-03 10:04:35,417 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 75)
+2026-06-03 10:04:35,417 - INFO - 📈 Round acabou: 8.57x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:04:35,418 - INFO - 💨 P5 Rosa queimada (8.6x) — cauteloso 1.50x [IA: 🔥 q67=6.08 → 1.50x]
+2026-06-03 10:04:35,419 - INFO - 💼 Cadeia composta: 1025 AOA | 1 vitórias seguidas
+2026-06-03 10:04:35,420 - INFO - 🧠 Cashout alvo 1.50x | Valor 1025 AOA | 0.2s decisão
+2026-06-03 10:04:44,701 - INFO - 💥 PERDEU em 1.16x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:05:08,353 - INFO - 📈 Round acabou: 3.00x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:05:08,354 - INFO - ✅ P6 Default 2.00x (último 3.00x, 0 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:05:08,355 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:05:08,357 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:05:31,623 - INFO - 💥 PERDEU em 1.13x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:05:51,949 - INFO - ☕ Pausa humanizada (12.1s)
+2026-06-03 10:06:05,665 - INFO - ☕ Pausa humanizada (10.4s)
+2026-06-03 10:06:06,495 - INFO - 📈 Round acabou: 1.31x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:06:06,498 - INFO - ✅ P6 Default 2.00x (último 1.31x, 1 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:06:06,500 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:06:06,502 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:06:40,966 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:06:56,312 - INFO - ☕ Pausa humanizada (7.2s)
+2026-06-03 10:07:16,709 - INFO - 📈 Round acabou: 4.82x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:07:16,710 - INFO - ✅ P6 Default 2.00x (último 4.82x, 0 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:07:16,711 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:07:16,712 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:07:42,672 - INFO - 💥 PERDEU em 1.34x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:07:57,778 - INFO - 📈 Round acabou: 1.65x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:07:57,779 - INFO - ✅ P6 Default 2.00x (último 1.65x, 1 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:07:57,779 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:07:57,780 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:08:08,301 - INFO - 💥 PERDEU em 1.15x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:08:21,427 - INFO - 🌡️ Temperatura recalculada (round 80): 🔥 QUENTE | 18.8% rosas | q67 6.08x
+2026-06-03 10:08:21,602 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 80)
+2026-06-03 10:08:21,603 - INFO - 📈 Round acabou: 1.39x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:08:21,604 - INFO - ✅ P6 Default 2.00x (último 1.39x, 2 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:08:21,605 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:08:21,606 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.2s decisão
+2026-06-03 10:08:37,338 - INFO - 💥 PERDEU em 1.78x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:08:53,836 - INFO - ☕ Pausa humanizada (10.5s)
+2026-06-03 10:09:00,042 - INFO - 📈 Round acabou: 71.81x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:09:00,042 - INFO - 💨 P5 Rosa queimada (71.8x) — cauteloso 1.50x [IA: 🔥 q67=6.08 → 1.50x]
+2026-06-03 10:09:00,043 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:09:00,043 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:09:14,780 - INFO - ✅ Cashout confirmado pelo saldo (+280 real vs +255 esperado)
+2026-06-03 10:09:14,805 - INFO - 💰 GANHOU em 1.51x | Cadeia: 1/3 | Aposta: 755 | Cofre: 18345 AOA
+2026-06-03 10:09:15,662 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:09:16,889 - INFO - 📈 Round acabou: 3.07x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:09:16,890 - INFO - ✅ P6 Default 2.00x (último 3.07x, 0 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:09:16,891 - INFO - 💼 Cadeia composta: 755 AOA | 1 vitórias seguidas
+2026-06-03 10:09:16,891 - INFO - 🧠 Cashout alvo 2.00x | Valor 755 AOA | 0.0s decisão
+2026-06-03 10:09:39,795 - INFO - 💥 PERDEU em 1.09x | Cadeia: 0/3 | Aposta: 500 | Cofre: 18345 AOA
+2026-06-03 10:09:55,299 - INFO - 📈 Round acabou: 1.63x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:09:55,300 - INFO - ✅ P6 Default 2.00x (último 1.63x, 1 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:09:55,301 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:09:55,302 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:10:13,275 - INFO - ✅ Cashout confirmado pelo saldo (+560 real vs +500 esperado)
+2026-06-03 10:10:13,335 - INFO - 💰 GANHOU em 2.00x | Cadeia: 1/3 | Aposta: 1000 | Cofre: 18345 AOA
+2026-06-03 10:10:51,179 - INFO - 📈 Round acabou: 47.55x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:10:51,179 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:10:51,180 - INFO - 💼 Cadeia composta: 1000 AOA | 1 vitórias seguidas
+2026-06-03 10:10:51,180 - INFO - 🧠 Cashout alvo 2.00x | Valor 1000 AOA | 0.0s decisão
+2026-06-03 10:11:08,874 - INFO - ✅ Cashout confirmado pelo saldo (+1140 real vs +1040 esperado)
+2026-06-03 10:11:08,900 - INFO - 💰 GANHOU em 2.04x | Cadeia: 2/3 | Aposta: 2040 | Cofre: 18345 AOA
+2026-06-03 10:11:18,452 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 85)
+2026-06-03 10:11:18,453 - INFO - 📈 Round acabou: 4.67x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:11:18,453 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:11:18,454 - INFO - 💼 Cadeia composta: 2040 AOA | 2 vitórias seguidas
+2026-06-03 10:11:18,454 - INFO - 🧠 Cashout alvo 2.00x | Valor 2040 AOA | 0.2s decisão
+2026-06-03 10:11:36,526 - WARNING - ⚠️ OCR saldo deu ganho suspeito (+542325 vs esperado +2081) — confio no cashout original.
+2026-06-03 10:11:36,557 - INFO - 💰 GANHOU em 2.02x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:11:37,404 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:11:49,106 - INFO - 📈 Round acabou: 6.06x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:11:49,108 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:11:49,109 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:11:49,110 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:12:02,792 - INFO - 💥 PERDEU em 1.48x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:12:23,016 - INFO - ☕ Pausa humanizada (12.8s)
+2026-06-03 10:12:40,645 - INFO - ☕ Pausa humanizada (10.2s)
+2026-06-03 10:12:41,401 - INFO - 📈 Round acabou: 7.12x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:12:41,403 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:12:41,403 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:12:41,404 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:13:01,297 - INFO - 💥 PERDEU em 1.02x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:13:38,584 - INFO - 📈 Round acabou: 9.72x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:13:38,585 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:13:38,585 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:13:38,585 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:13:50,874 - INFO - 💥 PERDEU em 1.32x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:14:05,495 - INFO - 📈 Round acabou: 1.51x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:14:05,496 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:14:05,497 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:14:05,497 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:14:21,157 - INFO - 💥 PERDEU em 1.83x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:14:36,149 - INFO - 🌡️ Temperatura recalculada (round 90): 🔥 QUENTE | 18.8% rosas | q67 6.08x
+2026-06-03 10:14:36,383 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 90)
+2026-06-03 10:14:36,384 - INFO - 📈 Round acabou: 1.59x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:14:36,384 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:14:36,385 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:14:36,385 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.2s decisão
+2026-06-03 10:14:49,695 - INFO - 💥 PERDEU em 1.47x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:15:14,372 - INFO - 📈 Round acabou: 3.63x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:15:14,373 - INFO - ✅ P6 Default 2.00x (último 3.63x, 0 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:15:14,373 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:15:14,374 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:15:29,693 - INFO - 💥 PERDEU em 1.68x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:16:00,464 - INFO - ☕ Pausa humanizada (10.8s)
+2026-06-03 10:16:01,292 - INFO - 📈 Round acabou: 2.95x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:16:01,293 - INFO - ✅ P6 Default 2.00x (último 2.95x, 0 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:16:01,294 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:16:01,294 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:16:21,708 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:16:22,674 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:16:23,589 - INFO - 📈 Round acabou: 1.95x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:16:23,589 - INFO - ✅ P6 Default 2.00x (último 1.95x, 1 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:16:23,590 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:16:23,591 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:16:56,277 - INFO - ✅ Cashout confirmado pelo saldo (+600 real vs +525 esperado)
+2026-06-03 10:16:56,308 - INFO - 💰 GANHOU em 2.05x | Cadeia: 1/3 | Aposta: 1025 | Cofre: 20426 AOA
+2026-06-03 10:16:57,209 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:16:58,095 - INFO - 📈 Round acabou: 2.23x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:16:58,096 - INFO - ✅ P6 Default 2.00x (último 2.23x, 0 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:16:58,099 - INFO - 💼 Cadeia composta: 1025 AOA | 1 vitórias seguidas
+2026-06-03 10:16:58,103 - INFO - 🧠 Cashout alvo 2.00x | Valor 1025 AOA | 0.0s decisão
+2026-06-03 10:17:10,236 - INFO - 💥 PERDEU em 1.41x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:17:40,773 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 95)
+2026-06-03 10:17:40,774 - INFO - 📈 Round acabou: 5.09x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:17:40,775 - INFO - 💨 P5 Rosa queimada (5.1x) — cauteloso 1.50x [IA: 🔥 q67=6.08 → 1.50x]
+2026-06-03 10:17:40,775 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:17:40,776 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.3s decisão
+2026-06-03 10:18:06,774 - INFO - 💥 PERDEU em 1.44x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:18:26,845 - INFO - 📈 Round acabou: 1.70x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:18:26,847 - INFO - ✅ P6 Default 2.00x (último 1.70x, 1 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:18:26,848 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:18:26,849 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:19:01,599 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:19:13,836 - INFO - ☕ Pausa humanizada (7.5s)
+2026-06-03 10:19:16,857 - INFO - 📈 Round acabou: 5.03x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:19:16,857 - INFO - 💨 P5 Rosa queimada (5.0x) — cauteloso 1.50x [IA: 🔥 q67=6.08 → 1.50x]
+2026-06-03 10:19:16,858 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:19:16,858 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:19:32,261 - WARNING - 👻 FANTASMA DETECTADA: cashout dizia +260 mas saldo só mudou -115 AOA. A registar como PERDA.
+2026-06-03 10:19:32,291 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 20426 AOA
+2026-06-03 10:19:33,092 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:20:23,191 - INFO - ☕ Pausa humanizada (12.0s)
+2026-06-03 10:20:55,617 - INFO - ☕ Pausa humanizada (10.8s)
+2026-06-03 10:21:16,278 - INFO - ☕ Pausa humanizada (9.8s)
+2026-06-03 10:22:03,733 - INFO - ☕ Pausa humanizada (12.3s)
+2026-06-03 10:22:24,080 - INFO - ☕ Pausa humanizada (6.5s)
+2026-06-03 10:22:59,220 - INFO - ☕ Pausa humanizada (9.4s)
+2026-06-03 10:23:39,594 - INFO - ☕ Pausa humanizada (12.5s)
+2026-06-03 10:23:55,029 - INFO - ☕ Pausa humanizada (11.2s)
+2026-06-03 10:24:10,925 - INFO - ☕ Pausa humanizada (13.7s)
+2026-06-03 10:25:47,944 - INFO - ☕ Pausa humanizada (6.3s)
+2026-06-03 10:26:19,213 - INFO - ☕ Pausa humanizada (13.2s)
+2026-06-03 10:26:51,939 - INFO - ☕ Pausa humanizada (13.6s)
+2026-06-03 10:28:03,241 - INFO - ☕ Pausa humanizada (9.6s)
+2026-06-03 10:29:06,537 - INFO - ☕ Pausa humanizada (7.7s)
+2026-06-03 10:29:34,174 - INFO - ☕ Pausa humanizada (7.7s)
+2026-06-03 10:29:49,676 - INFO - ☕ Pausa humanizada (10.3s)
+2026-06-03 10:29:50,430 - INFO - 🔄 Re-sincronização: lista divergiu (apenas 0 em comum). Retomando com 13.10x
+2026-06-03 10:29:50,433 - INFO - 📈 Round acabou: 13.10x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:29:50,434 - INFO - 💨 P5 Rosa queimada (13.1x) — cauteloso 1.50x [IA: 🔥 q67=6.08 → 1.50x]
+2026-06-03 10:29:50,435 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:29:50,435 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:30:02,804 - INFO - ✅ Cashout confirmado pelo saldo (+2320 real vs +275 esperado)
+2026-06-03 10:30:02,830 - INFO - 💰 GANHOU em 1.55x | Cadeia: 1/3 | Aposta: 775 | Cofre: 20426 AOA
+2026-06-03 10:30:03,674 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:30:15,996 - INFO - ☕ Pausa humanizada (10.9s)
+2026-06-03 10:30:16,821 - INFO - 📈 Round acabou: 2.32x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:30:16,822 - INFO - ✅ P6 Default 2.00x (último 2.32x, 0 azuis) [IA: 🔥 q67=6.08 → 2.00x]
+2026-06-03 10:30:16,823 - INFO - 💼 Cadeia composta: 775 AOA | 1 vitórias seguidas
+2026-06-03 10:30:16,823 - INFO - 🧠 Cashout alvo 2.00x | Valor 775 AOA | 0.0s decisão
+2026-06-03 10:30:46,805 - INFO - ✅ Cashout confirmado pelo saldo (+899 real vs +790 esperado)
+2026-06-03 10:30:46,870 - INFO - 💰 GANHOU em 2.02x | Cadeia: 2/3 | Aposta: 1566 | Cofre: 20426 AOA
+2026-06-03 10:30:47,719 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:30:48,797 - INFO - 🌡️ Temperatura recalculada (round 100): 🔥 QUENTE | 15.0% rosas | q67 5.09x
+2026-06-03 10:30:48,980 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 100)
+2026-06-03 10:30:48,981 - INFO - 📈 Round acabou: 2.78x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:30:48,981 - INFO - ✅ P6 Default 2.00x (último 2.78x, 0 azuis) [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:30:48,982 - INFO - 💼 Cadeia composta: 1566 AOA | 2 vitórias seguidas
+2026-06-03 10:30:48,982 - INFO - 🧠 Cashout alvo 2.00x | Valor 1566 AOA | 0.2s decisão
+2026-06-03 10:31:10,292 - INFO - ✅ Cashout confirmado pelo saldo (+1816 real vs +1628 esperado)
+2026-06-03 10:31:10,347 - INFO - 💰 GANHOU em 2.04x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:31:25,969 - INFO - 📈 Round acabou: 7.00x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:31:25,970 - INFO - 💨 P5 Rosa queimada (7.0x) — cauteloso 1.50x [IA: 🔥 q67=5.09 → 1.50x]
+2026-06-03 10:31:25,970 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:31:25,971 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:31:33,192 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:31:51,762 - INFO - 📈 Round acabou: 51.00x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:31:51,763 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:31:51,764 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:31:51,764 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:32:05,496 - INFO - 💥 PERDEU em 1.41x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:32:24,664 - INFO - ☕ Pausa humanizada (9.8s)
+2026-06-03 10:32:25,430 - INFO - 📈 Round acabou: 1.01x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:32:25,431 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:32:25,432 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:32:25,432 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:32:42,488 - INFO - ✅ Cashout confirmado pelo saldo (+570 real vs +500 esperado)
+2026-06-03 10:32:42,515 - INFO - 💰 GANHOU em 2.00x | Cadeia: 1/3 | Aposta: 1000 | Cofre: 22054 AOA
+2026-06-03 10:32:43,285 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:32:47,022 - INFO - 📈 Round acabou: 3.07x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:32:47,024 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:32:47,025 - INFO - 💼 Cadeia composta: 1000 AOA | 1 vitórias seguidas
+2026-06-03 10:32:47,025 - INFO - 🧠 Cashout alvo 2.00x | Valor 1000 AOA | 0.0s decisão
+2026-06-03 10:33:04,971 - INFO - ✅ Cashout confirmado pelo saldo (+1120 real vs +1000 esperado)
+2026-06-03 10:33:05,001 - INFO - 💰 GANHOU em 2.00x | Cadeia: 2/3 | Aposta: 2000 | Cofre: 22054 AOA
+2026-06-03 10:33:05,777 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:33:29,438 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 105)
+2026-06-03 10:33:29,438 - INFO - 📈 Round acabou: 8.07x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:33:29,439 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:33:29,440 - INFO - 💼 Cadeia composta: 2000 AOA | 2 vitórias seguidas
+2026-06-03 10:33:29,441 - INFO - 🧠 Cashout alvo 2.00x | Valor 2000 AOA | 0.2s decisão
+2026-06-03 10:33:46,340 - INFO - 💥 PERDEU em 1.83x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:34:10,419 - INFO - 📈 Round acabou: 3.36x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:34:10,420 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:34:10,421 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:34:10,421 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:34:28,856 - INFO - ✅ Cashout confirmado pelo saldo (+590 real vs +520 esperado)
+2026-06-03 10:34:28,883 - INFO - 💰 GANHOU em 2.04x | Cadeia: 1/3 | Aposta: 1020 | Cofre: 22054 AOA
+2026-06-03 10:34:29,690 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:34:42,744 - INFO - ☕ Pausa humanizada (11.7s)
+2026-06-03 10:34:43,520 - INFO - 📈 Round acabou: 3.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:34:43,520 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:34:43,521 - INFO - 💼 Cadeia composta: 1020 AOA | 1 vitórias seguidas
+2026-06-03 10:34:43,521 - INFO - 🧠 Cashout alvo 2.00x | Valor 1020 AOA | 0.0s decisão
+2026-06-03 10:35:18,454 - INFO - 💥 PERDEU em 1.51x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:35:20,144 - INFO - 📈 Round acabou: 3.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:35:20,145 - INFO - ✅ P6 Default 2.00x (último 3.49x, 0 azuis) [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:35:20,145 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:35:20,146 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:35:36,359 - INFO - 💥 PERDEU em 1.71x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:35:55,904 - INFO - 📈 Round acabou: 2.32x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:35:55,905 - INFO - ✅ P6 Default 2.00x (último 2.32x, 0 azuis) [IA: 🔥 q67=5.09 → 2.00x]
+2026-06-03 10:35:55,906 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:35:55,907 - INFO - 🧠 Cashout alvo 2.00x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:36:07,835 - INFO - 💥 PERDEU em 1.03x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:36:42,622 - INFO - ☕ Pausa humanizada (13.9s)
+2026-06-03 10:36:43,368 - INFO - 🌡️ Temperatura recalculada (round 110): 🔥 QUENTE | 15.0% rosas | q67 5.99x
+2026-06-03 10:36:43,535 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 110)
+2026-06-03 10:36:43,535 - INFO - 📈 Round acabou: 5.30x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:36:43,536 - INFO - 💨 P5 Rosa queimada (5.3x) — cauteloso 1.50x [IA: 🔥 q67=5.99 → 1.50x]
+2026-06-03 10:36:43,537 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:36:43,537 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.2s decisão
+2026-06-03 10:37:15,022 - INFO - 💥 PERDEU em 1.45x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:37:36,175 - INFO - ☕ Pausa humanizada (6.4s)
+2026-06-03 10:37:51,735 - INFO - 📈 Round acabou: 9.54x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:37:51,736 - INFO - 💨 P5 Rosa queimada (9.5x) — cauteloso 1.50x [IA: 🔥 q67=5.99 → 1.50x]
+2026-06-03 10:37:51,737 - INFO - 💼 Cadeia composta: 500 AOA | 0 vitórias seguidas
+2026-06-03 10:37:51,737 - INFO - 🧠 Cashout alvo 1.50x | Valor 500 AOA | 0.0s decisão
+2026-06-03 10:38:06,799 - INFO - 💥 PERDEU em 1.48x | Cadeia: 0/3 | Aposta: 500 | Cofre: 22054 AOA
+2026-06-03 10:38:38,764 - INFO - ☕ Pausa humanizada (13.2s)
+2026-06-03 10:38:39,969 - INFO - ✋ Paragem pedida — a sair.
+2026-06-03 10:38:39,971 - INFO - 📊 Resumo final: 36W / 64L
+2026-06-03 10:38:39,972 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-06-03 10:54:55,695 - INFO - 🚀 Robô Aviator iniciado...
+2026-06-03 10:54:55,696 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-06-03 10:54:55,696 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-06-03 10:54:55,698 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-06-03 10:54:55,698 - INFO -    📐 Padrões detectados em tempo real (cashouts do JSON):
+2026-06-03 10:54:55,698 - INFO -       P1 Pós-mega       → não apostar
+2026-06-03 10:54:55,698 - INFO -       P2 6+ azuis       → cashout 2.00x (especulativo)
+2026-06-03 10:54:55,699 - INFO -       P3 Combo quente   → cashout 3.0-5.0x (jackpot)
+2026-06-03 10:54:55,699 - INFO -       P4 Hot streak     → cashout 1.50x
+2026-06-03 10:54:55,699 - INFO -       P5 Rosa queimada  → cashout 1.50x
+2026-06-03 10:54:55,699 - INFO -       P6 Default        → cashout 1.50x (cadeia)
+2026-06-03 10:54:55,699 - INFO -    🎯 Sistema de 3 FASES:
+2026-06-03 10:54:55,699 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-06-03 10:54:55,699 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-06-03 10:54:55,699 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-06-03 10:54:55,700 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-06-03 10:54:55,704 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-06-03 10:54:55,705 - INFO - 💰 Estado aposta: Cadeia: 0/3 | Aposta: 10000 | Cofre: 0 AOA
+2026-06-03 10:54:55,710 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-06-03 10:54:56,762 - INFO - ✅ Sync: 11 crashes visíveis (último = 1.46x)
+2026-06-03 10:54:56,765 - INFO - 📊 Histórico expandido: 23 crashes capturados (sem sync com lista live — alguns rounds perdidos)
+2026-06-03 10:54:56,765 - INFO - 📈 Estatísticas: 4.3% rosas | mediana 2.64x | q67 2.98x
+2026-06-03 10:54:56,765 - INFO - 🌡️ Classificação da sessão: ❄️ FRIA
+2026-06-03 10:54:56,766 - INFO - 🎯 Cashout adaptado: ❄️ Sessão FRIA (4.3% rosas) — defensivo 1.30x
+2026-06-03 10:54:56,766 - INFO - 📊 Janela inicial Follow Patterns: 23 crashes
+2026-06-03 10:54:56,766 - INFO -    Recentes: ['3.39', '2.56', '2.07', '2.49', '4.74']...
+2026-06-03 10:54:56,766 - INFO -    A aguardar próximo round terminar...
+2026-06-03 10:55:09,162 - INFO - 📈 Round acabou: 7.58x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-06-03 10:55:09,164 - INFO - 💨 P5 Rosa queimada (7.6x) — cauteloso 1.50x [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 10:55:09,165 - INFO - 💼 Cadeia composta: 5000 AOA (limite atingido) | 0 vitórias
+2026-06-03 10:55:09,166 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 10:55:24,641 - INFO - ✅ Cashout confirmado pelo saldo (+3200 real vs +2550 esperado)
+2026-06-03 10:55:24,676 - INFO - 💰 GANHOU em 1.51x | Cadeia: 1/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 10:55:26,762 - INFO - 📈 Round acabou: 1.94x — janela de aposta aberta! [FASE 2 (warm-up 2/3)]
+2026-06-03 10:55:26,763 - INFO - ✅ P6 Default 1.50x (último 1.94x, 1 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 10:55:26,764 - INFO - 💼 Cadeia composta: 5000 AOA | 1 vitórias seguidas
+2026-06-03 10:55:26,764 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 10:55:36,667 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 10:55:37,822 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:55:40,928 - INFO - ✋ Paragem pedida — a sair.
+2026-06-03 10:55:40,928 - INFO - 📊 Resumo final: 1W / 1L
+2026-06-03 10:55:40,929 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-06-03 10:57:17,576 - INFO - 🚀 Robô Aviator iniciado...
+2026-06-03 10:57:17,576 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-06-03 10:57:17,577 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-06-03 10:57:17,579 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-06-03 10:57:17,580 - INFO -    📐 Padrões detectados em tempo real (cashouts do JSON):
+2026-06-03 10:57:17,580 - INFO -       P1 Pós-mega       → não apostar
+2026-06-03 10:57:17,581 - INFO -       P2 6+ azuis       → cashout 2.00x (especulativo)
+2026-06-03 10:57:17,582 - INFO -       P3 Combo quente   → cashout 3.0-5.0x (jackpot)
+2026-06-03 10:57:17,582 - INFO -       P4 Hot streak     → cashout 1.50x
+2026-06-03 10:57:17,583 - INFO -       P5 Rosa queimada  → cashout 1.50x
+2026-06-03 10:57:17,583 - INFO -       P6 Default        → cashout 1.50x (cadeia)
+2026-06-03 10:57:17,584 - INFO -    🎯 Sistema de 3 FASES:
+2026-06-03 10:57:17,584 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-06-03 10:57:17,584 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-06-03 10:57:17,584 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-06-03 10:57:17,585 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-06-03 10:57:17,604 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-06-03 10:57:17,605 - INFO - 💰 Estado aposta: Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 10:57:17,606 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-06-03 10:57:18,512 - INFO - ✅ Sync: 12 crashes visíveis (último = 2.24x)
+2026-06-03 10:57:18,514 - INFO - 📊 Histórico expandido: 23 crashes capturados (sem sync com lista live — alguns rounds perdidos)
+2026-06-03 10:57:18,514 - INFO - 📈 Estatísticas: 4.3% rosas | mediana 2.64x | q67 2.98x
+2026-06-03 10:57:18,515 - INFO - 🌡️ Classificação da sessão: ❄️ FRIA
+2026-06-03 10:57:18,515 - INFO - 🎯 Cashout adaptado: ❄️ Sessão FRIA (4.3% rosas) — defensivo 1.30x
+2026-06-03 10:57:18,515 - INFO - 📊 Janela inicial Follow Patterns: 23 crashes
+2026-06-03 10:57:18,515 - INFO -    Recentes: ['3.39', '2.56', '2.07', '2.49', '4.74']...
+2026-06-03 10:57:18,516 - INFO -    A aguardar próximo round terminar...
+2026-06-03 10:57:33,238 - INFO - 📈 Round acabou: 2.09x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-06-03 10:57:33,240 - INFO - ✅ P6 Default 1.50x (último 2.09x, 0 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 10:57:33,241 - INFO - 💼 Cadeia composta: 5000 AOA | 0 vitórias seguidas
+2026-06-03 10:57:33,241 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 10:57:48,232 - INFO - ✅ Cashout confirmado pelo saldo (+3050 real vs +2600 esperado)
+2026-06-03 10:57:48,260 - INFO - 💰 GANHOU em 1.52x | Cadeia: 1/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 10:57:49,118 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:58:01,026 - INFO - ☕ Pausa humanizada (7.2s)
+2026-06-03 10:58:01,866 - INFO - 📈 Round acabou: 4.07x — janela de aposta aberta! [FASE 2 (warm-up 2/3)]
+2026-06-03 10:58:01,867 - INFO - ✅ P6 Default 1.50x (último 4.07x, 0 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 10:58:01,868 - INFO - 💼 Cadeia composta: 5000 AOA | 1 vitórias seguidas
+2026-06-03 10:58:01,870 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 10:58:11,470 - INFO - 💥 PERDEU em 1.25x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 10:58:38,395 - INFO - ☕ Pausa humanizada (14.2s)
+2026-06-03 10:58:39,208 - INFO - 📈 Round acabou: 1.17x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:58:39,209 - INFO - ✅ P6 Default 1.50x (último 1.17x, 1 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 10:58:39,210 - INFO - 💼 Cadeia composta: 5000 AOA | 0 vitórias seguidas
+2026-06-03 10:58:39,210 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 10:58:52,893 - INFO - ✅ Cashout confirmado pelo saldo (+4600 real vs +2500 esperado)
+2026-06-03 10:58:52,938 - INFO - 💰 GANHOU em 1.50x | Cadeia: 1/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 10:58:53,779 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 10:59:08,071 - INFO - ☕ Pausa humanizada (11.1s)
+2026-06-03 10:59:08,845 - INFO - 📈 Round acabou: 3.46x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 10:59:08,845 - INFO - ✅ P6 Default 1.50x (último 3.46x, 0 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 10:59:08,846 - INFO - 💼 Cadeia composta: 5000 AOA | 1 vitórias seguidas
+2026-06-03 10:59:08,846 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 10:59:43,544 - INFO - 💥 PERDEU em 1.05x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:00:05,788 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 5)
+2026-06-03 11:00:05,789 - INFO - 📈 Round acabou: 17.91x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:00:05,789 - INFO - 💨 P5 Rosa queimada (17.9x) — cauteloso 1.50x [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 11:00:05,790 - INFO - 💼 Cadeia composta: 5000 AOA | 0 vitórias seguidas
+2026-06-03 11:00:05,790 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.3s decisão
+2026-06-03 11:00:21,434 - WARNING - 👻 FANTASMA DETECTADA: cashout dizia +2650 mas saldo só mudou -5000 AOA. A registar como PERDA.
+2026-06-03 11:00:21,452 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:00:33,136 - INFO - 📈 Round acabou: 1.25x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:00:33,137 - INFO - ✅ P6 Default 1.50x (último 1.25x, 1 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 11:00:33,137 - INFO - 💼 Cadeia composta: 5000 AOA | 0 vitórias seguidas
+2026-06-03 11:00:33,138 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 11:00:47,746 - INFO - ✅ Cashout confirmado pelo saldo (+3000 real vs +2550 esperado)
+2026-06-03 11:00:47,765 - INFO - 💰 GANHOU em 1.51x | Cadeia: 1/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:00:48,648 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 11:00:54,995 - INFO - 📈 Round acabou: 2.69x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:00:54,996 - INFO - ✅ P6 Default 1.50x (último 2.69x, 0 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 11:00:54,996 - INFO - 💼 Cadeia composta: 5000 AOA | 1 vitórias seguidas
+2026-06-03 11:00:54,997 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 11:01:05,695 - INFO - 💥 PERDEU em 1.21x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:01:17,114 - INFO - 📈 Round acabou: 1.14x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:01:17,115 - INFO - ✅ P6 Default 1.50x (último 1.14x, 1 azuis) [IA: ❄️ q67=2.98 → 1.50x]
+2026-06-03 11:01:17,115 - INFO - 💼 Cadeia composta: 5000 AOA | 0 vitórias seguidas
+2026-06-03 11:01:17,116 - INFO - 🧠 Cashout alvo 1.50x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 11:01:35,267 - INFO - ✅ Cashout confirmado pelo saldo (+6150 real vs +5450 esperado)
+2026-06-03 11:01:35,292 - INFO - 💰 GANHOU em 2.09x | Cadeia: 1/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:02:21,150 - INFO - ☕ Pausa humanizada (6.1s)
+2026-06-03 11:02:28,666 - INFO - 📈 Round acabou: 190.14x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:02:28,667 - INFO - ❄️ P1 Pós-mega (190x recente) — skip (cold expectado)
+2026-06-03 11:02:42,652 - INFO - 🌡️ Temperatura recalculada (round 10): 🟡 NORMAL | 9.1% rosas | q67 3.21x
+2026-06-03 11:02:42,864 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 10)
+2026-06-03 11:02:42,865 - INFO - 📈 Round acabou: 1.47x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:02:42,866 - INFO - ❄️ P1 Pós-mega (190x recente) — skip (cold expectado)
+2026-06-03 11:02:57,959 - INFO - ☕ Pausa humanizada (7.0s)
+2026-06-03 11:03:00,910 - INFO - 📈 Round acabou: 11.47x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:03:00,911 - INFO - ❄️ P1 Pós-mega (190x recente) — skip (cold expectado)
+2026-06-03 11:03:01,718 - INFO - 📈 Round acabou: 2.21x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:03:01,719 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🟡 q67=3.21 → 2.00x]
+2026-06-03 11:03:01,719 - INFO - 💼 Cadeia composta: 5000 AOA | 1 vitórias seguidas
+2026-06-03 11:03:01,719 - INFO - 🧠 Cashout alvo 2.00x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 11:03:16,859 - INFO - 💥 PERDEU em 1.72x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:03:27,436 - INFO - 📈 Round acabou: 1.00x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:03:27,438 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🟡 q67=3.21 → 2.00x]
+2026-06-03 11:03:27,439 - INFO - 💼 Cadeia composta: 5000 AOA | 0 vitórias seguidas
+2026-06-03 11:03:27,439 - INFO - 🧠 Cashout alvo 2.00x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 11:03:48,300 - WARNING - 👻 FANTASMA DETECTADA: cashout dizia +6250 mas saldo só mudou -5000 AOA. A registar como PERDA.
+2026-06-03 11:03:48,319 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:03:51,016 - INFO - 📈 Round acabou: 2.27x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:03:51,017 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🟡 q67=3.21 → 2.00x]
+2026-06-03 11:03:51,018 - INFO - 💼 Cadeia composta: 5000 AOA | 0 vitórias seguidas
+2026-06-03 11:03:51,019 - INFO - 🧠 Cashout alvo 2.00x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 11:04:20,337 - INFO - ✅ Cashout confirmado pelo saldo (+5550 real vs +5100 esperado)
+2026-06-03 11:04:20,361 - INFO - 💰 GANHOU em 2.02x | Cadeia: 1/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:04:21,206 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 11:04:22,259 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 15)
+2026-06-03 11:04:22,259 - INFO - 📈 Round acabou: 1.89x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:04:22,261 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.21 → 2.00x]
+2026-06-03 11:04:22,261 - INFO - 💼 Cadeia composta: 5000 AOA | 1 vitórias seguidas
+2026-06-03 11:04:22,261 - INFO - 🧠 Cashout alvo 2.00x | Valor 5000 AOA | 0.2s decisão
+2026-06-03 11:04:56,735 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:05:14,553 - INFO - ☕ Pausa humanizada (14.8s)
+2026-06-03 11:05:15,471 - INFO - 📈 Round acabou: 1.09x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 11:05:15,472 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.21 → 2.00x]
+2026-06-03 11:05:15,473 - INFO - 💼 Cadeia composta: 5000 AOA | 0 vitórias seguidas
+2026-06-03 11:05:15,474 - INFO - 🧠 Cashout alvo 2.00x | Valor 5000 AOA | 0.0s decisão
+2026-06-03 11:05:33,622 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:05:34,542 - INFO - 
+2026-06-03 11:05:34,543 - INFO - 🔬 ═══════════════════════════════════════════════
+2026-06-03 11:05:34,543 - INFO - 🔬  MODO OBSERVADOR ACTIVADO (meta/stop atingido)
+2026-06-03 11:05:34,543 - INFO - 🔬  O bot PAROU de apostar mas continua a OBSERVAR
+2026-06-03 11:05:34,543 - INFO - 🔬  as fases para aprender as transições do jogo.
+2026-06-03 11:05:34,544 - INFO - 🔬  A cada ~4 min faz 1 aposta mínima (anti-inatividade).
+2026-06-03 11:05:34,544 - INFO - 🔬  Carrega PARAR quando quiseres terminar.
+2026-06-03 11:05:34,544 - INFO - 🔬 ═══════════════════════════════════════════════
+2026-06-03 11:05:34,544 - INFO - 
+2026-06-03 11:05:52,783 - INFO - ☕ Pausa humanizada (9.0s)
+2026-06-03 11:06:01,238 - INFO - 🔬 [obs] crash 4.52x | fase normal | 10% rosas | q67 2.98
+2026-06-03 11:06:34,400 - INFO - 🔬 [obs] crash 7.43x | fase normal | 10% rosas | q67 3.21
+2026-06-03 11:06:49,445 - INFO - 🔬 [obs] crash 1.59x | fase normal | 10% rosas | q67 3.21
+2026-06-03 11:07:01,073 - INFO - 🔬 [obs] crash 1.22x | fase normal | 9% rosas | q67 2.98
+2026-06-03 11:07:20,309 - INFO - 🔬 [obs] crash 2.13x | fase normal | 9% rosas | q67 2.98
+2026-06-03 11:07:47,656 - INFO - 🔬 [obs] crash 12.13x | fase normal | 11% rosas | q67 3.21
+2026-06-03 11:07:49,466 - INFO - 🔬 [obs] crash 5.49x | fase normal | 11% rosas | q67 3.21
+2026-06-03 11:08:14,723 - INFO - 🔬 [obs] crash 4.10x | fase normal | 11% rosas | q67 3.38
+2026-06-03 11:08:24,292 - INFO - ☕ Pausa humanizada (8.6s)
+2026-06-03 11:08:37,731 - INFO - ☕ Pausa humanizada (6.1s)
+2026-06-03 11:08:38,529 - INFO - 🔬 [obs] crash 2.51x | fase normal | 10% rosas | q67 3.38
+2026-06-03 11:08:47,736 - INFO - 🔬 [obs] crash 362.51x | fase normal | 12% rosas | q67 3.38
+2026-06-03 11:08:56,234 - INFO - ☕ Pausa humanizada (7.5s)
+2026-06-03 11:08:57,109 - INFO - 🔬 [obs] crash 1.36x | fase normal | 12% rosas | q67 3.38
+2026-06-03 11:09:02,679 - INFO - 🔬 [obs] crash 1.46x | fase normal | 12% rosas | q67 3.38
+2026-06-03 11:09:29,307 - INFO - 🔬 [obs] crash 4.49x | fase normal | 12% rosas | q67 3.38
+2026-06-03 11:09:34,935 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 11:09:34,935 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 11:09:56,835 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 11:10:10,426 - INFO - ☕ Pausa humanizada (12.6s)
+2026-06-03 11:10:11,234 - INFO - 🔬 [obs] crash 1.60x | fase normal | 11% rosas | q67 3.38
+2026-06-03 11:10:13,036 - INFO - 🔬 [obs] crash 1.30x | fase normal | 11% rosas | q67 3.38
+2026-06-03 11:10:54,906 - INFO - 🔬 [obs] crash 14.89x | fase normal | 13% rosas | q67 3.38
+2026-06-03 11:11:15,023 - INFO - ☕ Pausa humanizada (13.6s)
+2026-06-03 11:11:15,842 - INFO - 🔬 [obs] crash 1.72x | fase normal | 12% rosas | q67 3.38
+2026-06-03 11:11:50,039 - INFO - 🔬 [obs] crash 14.89x | fase quente | 14% rosas | q67 3.39
+2026-06-03 11:11:52,188 - INFO - 🔬 [obs] crash 13.36x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:12:17,061 - INFO - ☕ Pausa humanizada (13.2s)
+2026-06-03 11:12:17,914 - INFO - 🔬 [obs] crash 1.70x | fase quente | 15% rosas | q67 3.39
+2026-06-03 11:12:26,938 - INFO - ☕ Pausa humanizada (6.3s)
+2026-06-03 11:13:03,051 - INFO - 🔬 [obs] crash 13.36x | fase quente | 17% rosas | q67 3.46
+2026-06-03 11:13:05,127 - INFO - 🔬 [obs] crash 39.38x | fase quente | 18% rosas | q67 3.46
+2026-06-03 11:13:12,405 - INFO - 🔬 [obs] crash 1.05x | fase quente | 18% rosas | q67 3.46
+2026-06-03 11:13:36,058 - INFO - 🔬 [obs] crash 4.11x | fase quente | 17% rosas | q67 4.07
+2026-06-03 11:13:57,352 - INFO - ☕ Pausa humanizada (10.8s)
+2026-06-03 11:13:58,172 - INFO - 🔬 [obs] crash 2.66x | fase quente | 17% rosas | q67 3.46
+2026-06-03 11:13:58,172 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 11:13:58,173 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 11:14:21,197 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 11:14:46,421 - INFO - 🔬 [obs] crash 6.72x | fase quente | 17% rosas | q67 4.07
+2026-06-03 11:14:55,957 - INFO - 🔬 [obs] crash 1.46x | fase quente | 17% rosas | q67 4.07
+2026-06-03 11:15:07,337 - INFO - 🔬 [obs] crash 1.19x | fase quente | 16% rosas | q67 3.46
+2026-06-03 11:15:26,129 - INFO - 🔬 [obs] crash 261.19x | fase quente | 18% rosas | q67 4.07
+2026-06-03 11:15:33,808 - INFO - ☕ Pausa humanizada (6.7s)
+2026-06-03 11:15:34,631 - INFO - 🔬 [obs] crash 2.26x | fase quente | 17% rosas | q67 4.07
+2026-06-03 11:15:40,543 - INFO - 🔬 [obs] crash 1.49x | fase quente | 17% rosas | q67 3.46
+2026-06-03 11:15:50,093 - INFO - 🔬 [obs] crash 1.05x | fase quente | 17% rosas | q67 3.46
+2026-06-03 11:16:01,371 - INFO - 🔬 [obs] crash 1.16x | fase quente | 17% rosas | q67 3.46
+2026-06-03 11:16:10,595 - INFO - ☕ Pausa humanizada (8.2s)
+2026-06-03 11:16:18,573 - INFO - 🔬 [obs] crash 1.85x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:16:38,490 - INFO - ☕ Pausa humanizada (9.4s)
+2026-06-03 11:16:39,272 - INFO - 🔬 [obs] crash 2.27x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:16:50,117 - INFO - ☕ Pausa humanizada (7.9s)
+2026-06-03 11:16:59,804 - INFO - 🔬 [obs] crash 1.13x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:17:36,799 - INFO - ☕ Pausa humanizada (11.9s)
+2026-06-03 11:17:37,632 - INFO - 🔬 [obs] crash 6.30x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:17:41,731 - INFO - 🔬 [obs] crash 1.13x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:18:11,841 - INFO - ☕ Pausa humanizada (10.3s)
+2026-06-03 11:18:21,704 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 11:18:21,705 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 11:18:44,705 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 11:18:46,534 - INFO - 🔬 [obs] crash 1.21x | fase quente | 15% rosas | q67 3.39
+2026-06-03 11:19:24,979 - INFO - ☕ Pausa humanizada (8.0s)
+2026-06-03 11:19:25,871 - INFO - 🔬 [obs] crash 11.42x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:19:39,804 - INFO - ☕ Pausa humanizada (10.8s)
+2026-06-03 11:20:07,438 - INFO - ☕ Pausa humanizada (15.0s)
+2026-06-03 11:20:08,358 - INFO - 🔬 [obs] crash 6.09x | fase quente | 16% rosas | q67 3.46
+2026-06-03 11:20:24,329 - INFO - ☕ Pausa humanizada (8.9s)
+2026-06-03 11:20:25,147 - INFO - 🔬 [obs] crash 3.07x | fase quente | 16% rosas | q67 3.46
+2026-06-03 11:20:36,249 - INFO - ☕ Pausa humanizada (10.1s)
+2026-06-03 11:20:37,220 - INFO - 🔬 [obs] crash 1.19x | fase quente | 16% rosas | q67 3.46
+2026-06-03 11:20:39,374 - INFO - 🔬 [obs] crash 1.12x | fase quente | 16% rosas | q67 3.46
+2026-06-03 11:20:52,297 - INFO - 🔬 [obs] crash 1.31x | fase quente | 16% rosas | q67 3.46
+2026-06-03 11:21:04,955 - INFO - ☕ Pausa humanizada (7.4s)
+2026-06-03 11:21:07,605 - INFO - 🔬 [obs] crash 1.75x | fase quente | 16% rosas | q67 3.46
+2026-06-03 11:21:17,600 - INFO - ☕ Pausa humanizada (7.0s)
+2026-06-03 11:21:31,098 - INFO - 🔬 [obs] crash 3.37x | fase quente | 16% rosas | q67 3.46
+2026-06-03 11:22:45,710 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 11:22:45,710 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 11:23:17,318 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 11:23:19,121 - INFO - 🔬 [obs] crash 277.41x | fase quente | 18% rosas | q67 4.07
+2026-06-03 11:23:26,840 - INFO - 🔬 [obs] crash 2.17x | fase quente | 18% rosas | q67 4.07
+2026-06-03 11:23:40,070 - INFO - 🔬 [obs] crash 1.45x | fase quente | 18% rosas | q67 3.46
+2026-06-03 11:23:55,038 - INFO - 🔬 [obs] crash 1.59x | fase quente | 18% rosas | q67 3.46
+2026-06-03 11:24:06,597 - INFO - 🔬 [obs] crash 1.26x | fase quente | 18% rosas | q67 3.46
+2026-06-03 11:24:16,103 - INFO - 🔬 [obs] crash 1.07x | fase quente | 18% rosas | q67 3.46
+2026-06-03 11:24:46,989 - INFO - ☕ Pausa humanizada (10.9s)
+2026-06-03 11:24:47,846 - INFO - 🔬 [obs] crash 3.07x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:24:51,915 - INFO - 🔬 [obs] crash 1.39x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:25:01,579 - INFO - 🔬 [obs] crash 1.00x | fase quente | 16% rosas | q67 3.39
+2026-06-03 11:25:13,939 - INFO - ✋ Paragem pedida — a sair do loop principal.
+2026-06-03 11:25:13,939 - INFO - 📊 Resumo final: 5W / 8L
+2026-06-03 11:25:13,940 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-06-03 11:29:18,653 - INFO - 🚀 Robô Aviator iniciado...
+2026-06-03 11:29:18,654 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-06-03 11:29:18,655 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-06-03 11:29:18,659 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-06-03 11:29:18,660 - INFO -    📐 Padrões detectados em tempo real (cashouts do JSON):
+2026-06-03 11:29:18,660 - INFO -       P1 Pós-mega       → não apostar
+2026-06-03 11:29:18,661 - INFO -       P2 6+ azuis       → cashout 2.00x (especulativo)
+2026-06-03 11:29:18,661 - INFO -       P3 Combo quente   → cashout 3.0-5.0x (jackpot)
+2026-06-03 11:29:18,662 - INFO -       P4 Hot streak     → cashout 1.50x
+2026-06-03 11:29:18,662 - INFO -       P5 Rosa queimada  → cashout 1.50x
+2026-06-03 11:29:18,662 - INFO -       P6 Default        → cashout 1.50x (cadeia)
+2026-06-03 11:29:18,663 - INFO -    🎯 Sistema de 3 FASES:
+2026-06-03 11:29:18,663 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-06-03 11:29:18,664 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-06-03 11:29:18,664 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-06-03 11:29:18,664 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-06-03 11:29:18,667 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-06-03 11:29:18,670 - INFO - 💰 Estado aposta: Cadeia: 0/3 | Aposta: 5000 | Cofre: 0 AOA
+2026-06-03 11:29:18,674 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-06-03 11:29:19,718 - INFO - ✅ Sync: 13 crashes visíveis (último = 23.66x)
+2026-06-03 11:29:19,731 - INFO - 📊 Histórico expandido: 22 crashes capturados (sem sync com lista live — alguns rounds perdidos)
+2026-06-03 11:29:19,732 - INFO - 📈 Estatísticas: 4.5% rosas | mediana 2.26x | q67 2.96x
+2026-06-03 11:29:19,732 - INFO - 🌡️ Classificação da sessão: ❄️ FRIA
+2026-06-03 11:29:19,732 - INFO - 🎯 Cashout adaptado: ❄️ Sessão FRIA (4.5% rosas) — defensivo 1.30x
+2026-06-03 11:29:19,733 - INFO - 📊 Janela inicial Follow Patterns: 22 crashes
+2026-06-03 11:29:19,733 - INFO -    Recentes: ['2.96', '5.09', '1.71', '1.94', '2.82']...
+2026-06-03 11:29:19,733 - INFO -    A aguardar próximo round terminar...
+2026-06-03 11:29:19,734 - INFO - 
+2026-06-03 11:29:19,735 - INFO - 🔬 ═══════════════════════════════════════════════
+2026-06-03 11:29:19,735 - INFO - 🔬  MODO OBSERVADOR ACTIVADO (meta/stop atingido)
+2026-06-03 11:29:19,735 - INFO - 🔬  O bot PAROU de apostar mas continua a OBSERVAR
+2026-06-03 11:29:19,735 - INFO - 🔬  as fases para aprender as transições do jogo.
+2026-06-03 11:29:19,736 - INFO - 🔬  A cada ~4 min faz 1 aposta mínima (anti-inatividade).
+2026-06-03 11:29:19,736 - INFO - 🔬  Carrega PARAR quando quiseres terminar.
+2026-06-03 11:29:19,736 - INFO - 🔬 ═══════════════════════════════════════════════
+2026-06-03 11:29:19,736 - INFO - 
+2026-06-03 11:29:35,771 - INFO - 🔬 [obs] crash 6.51x | fase fria | 4% rosas | q67 3.07
+2026-06-03 11:29:50,586 - INFO - ☕ Pausa humanizada (6.3s)
+2026-06-03 11:30:11,647 - INFO - 🔬 [obs] crash 3.20x | fase fria | 4% rosas | q67 3.08
+2026-06-03 11:30:29,991 - INFO - ☕ Pausa humanizada (13.8s)
+2026-06-03 11:30:30,830 - INFO - 🔬 [obs] crash 1.08x | fase fria | 4% rosas | q67 3.07
+2026-06-03 11:30:47,218 - INFO - ☕ Pausa humanizada (13.6s)
+2026-06-03 11:30:48,045 - INFO - 🔬 [obs] crash 2.35x | fase fria | 4% rosas | q67 3.07
+2026-06-03 11:30:49,945 - INFO - 🔬 [obs] crash 62.35x | fase normal | 7% rosas | q67 3.08
+2026-06-03 11:30:51,784 - INFO - 🔬 [obs] crash 1.06x | fase normal | 7% rosas | q67 3.07
+2026-06-03 11:31:08,113 - INFO - 🔬 [obs] crash 1.79x | fase normal | 7% rosas | q67 3.07
+2026-06-03 11:31:21,439 - INFO - 🔬 [obs] crash 1.47x | fase normal | 7% rosas | q67 3.07
+2026-06-03 11:31:30,394 - INFO - 🔬 [obs] crash 1.01x | fase normal | 6% rosas | q67 2.96
+2026-06-03 11:31:48,439 - INFO - 🔬 [obs] crash 1.99x | fase normal | 6% rosas | q67 2.96
+2026-06-03 11:32:01,338 - INFO - 🔬 [obs] crash 1.53x | fase normal | 6% rosas | q67 2.96
+2026-06-03 11:32:40,497 - INFO - ☕ Pausa humanizada (9.5s)
+2026-06-03 11:32:41,359 - INFO - 🔬 [obs] crash 5.70x | fase fria | 6% rosas | q67 2.96
+2026-06-03 11:32:51,171 - INFO - ☕ Pausa humanizada (6.7s)
+2026-06-03 11:32:51,963 - INFO - 🔬 [obs] crash 1.68x | fase fria | 6% rosas | q67 2.96
+2026-06-03 11:33:09,894 - INFO - 🔬 [obs] crash 2.90x | fase fria | 6% rosas | q67 2.96
+2026-06-03 11:33:21,699 - INFO - ☕ Pausa humanizada (10.8s)
+2026-06-03 11:33:23,375 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 11:33:23,376 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 11:34:02,131 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 11:34:03,922 - INFO - 🔬 [obs] crash 5.92x | fase fria | 5% rosas | q67 2.96
+2026-06-03 11:34:47,321 - INFO - ☕ Pausa humanizada (14.7s)
+2026-06-03 11:35:09,924 - INFO - 🔬 [obs] crash 88.29x | fase normal | 8% rosas | q67 3.07
+2026-06-03 11:35:12,038 - INFO - 🔬 [obs] crash 288.29x | fase normal | 10% rosas | q67 3.08
+2026-06-03 11:35:46,700 - INFO - 🔬 [obs] crash 8.56x | fase normal | 10% rosas | q67 3.08
+2026-06-03 11:36:13,367 - INFO - ☕ Pausa humanizada (10.9s)
+2026-06-03 11:36:14,201 - INFO - 🔬 [obs] crash 3.80x | fase normal | 10% rosas | q67 3.20
+2026-06-03 11:36:21,800 - INFO - 🔬 [obs] crash 1.15x | fase normal | 10% rosas | q67 3.20
+2026-06-03 11:36:32,295 - INFO - ☕ Pausa humanizada (9.5s)
+2026-06-03 11:36:46,022 - INFO - ☕ Pausa humanizada (11.9s)
+2026-06-03 11:36:54,133 - INFO - 🔬 [obs] crash 2.39x | fase normal | 9% rosas | q67 3.08
+2026-06-03 11:37:25,176 - INFO - 🔬 [obs] crash 5.33x | fase normal | 9% rosas | q67 3.20
+2026-06-03 11:37:27,401 - INFO - 🔬 [obs] crash 6.33x | fase normal | 9% rosas | q67 3.80
+2026-06-03 11:37:54,225 - INFO - 🔬 [obs] crash 4.72x | fase normal | 9% rosas | q67 3.80
+2026-06-03 11:38:03,146 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 11:38:03,147 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 11:38:20,291 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 11:38:22,163 - INFO - 🔬 [obs] crash 1.03x | fase normal | 9% rosas | q67 3.80
+2026-06-03 11:38:38,787 - INFO - ☕ Pausa humanizada (11.6s)
+2026-06-03 11:38:39,608 - INFO - 🔬 [obs] crash 1.66x | fase normal | 8% rosas | q67 3.80
+2026-06-03 11:38:49,080 - INFO - 🔬 [obs] crash 1.38x | fase normal | 8% rosas | q67 3.20
+2026-06-03 11:39:20,125 - INFO - 🔬 [obs] crash 6.37x | fase normal | 8% rosas | q67 3.80
+2026-06-03 11:39:49,075 - INFO - 🔬 [obs] crash 3.34x | fase normal | 8% rosas | q67 3.80
+2026-06-03 11:40:23,414 - INFO - ☕ Pausa humanizada (13.3s)
+2026-06-03 11:40:24,225 - INFO - 🔬 [obs] crash 5.71x | fase normal | 8% rosas | q67 3.80
+2026-06-03 11:40:30,052 - INFO - 🔬 [obs] crash 1.11x | fase normal | 8% rosas | q67 3.80
+2026-06-03 11:40:39,533 - INFO - 🔬 [obs] crash 1.15x | fase normal | 7% rosas | q67 3.80
+2026-06-03 11:41:01,995 - INFO - ☕ Pausa humanizada (10.3s)
+2026-06-03 11:41:02,828 - INFO - 🔬 [obs] crash 1.94x | fase normal | 7% rosas | q67 3.34
+2026-06-03 11:41:16,454 - INFO - ☕ Pausa humanizada (12.6s)
+2026-06-03 11:41:17,278 - INFO - 🔬 [obs] crash 1.35x | fase normal | 7% rosas | q67 3.34
+2026-06-03 11:41:19,269 - INFO - 🔬 [obs] crash 1.02x | fase normal | 7% rosas | q67 3.34
+2026-06-03 11:41:35,409 - INFO - 🔬 [obs] crash 1.76x | fase normal | 7% rosas | q67 3.20
+2026-06-03 11:42:00,938 - INFO - 🔬 [obs] crash 71.76x | fase normal | 8% rosas | q67 3.34
+2026-06-03 11:42:03,090 - INFO - 🔬 [obs] crash 4.27x | fase normal | 8% rosas | q67 3.80
+2026-06-03 11:42:21,737 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 11:42:21,737 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 11:42:39,616 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 11:42:43,200 - INFO - 🔬 [obs] crash 1.27x | fase normal | 8% rosas | q67 3.34
+2026-06-03 11:43:08,901 - INFO - 🔬 [obs] crash 4.88x | fase normal | 8% rosas | q67 3.80
+2026-06-03 11:43:18,486 - INFO - 🔬 [obs] crash 1.04x | fase normal | 8% rosas | q67 3.80
+2026-06-03 11:43:31,547 - INFO - 🔬 [obs] crash 1.37x | fase normal | 8% rosas | q67 3.34
+2026-06-03 11:43:42,804 - INFO - 🔬 [obs] crash 1.16x | fase normal | 8% rosas | q67 3.34
+2026-06-03 11:43:56,609 - INFO - ☕ Pausa humanizada (6.9s)
+2026-06-03 11:44:11,782 - INFO - 🔬 [obs] crash 1.62x | fase normal | 8% rosas | q67 3.34
+2026-06-03 11:44:23,097 - INFO - 🔬 [obs] crash 1.18x | fase normal | 7% rosas | q67 3.20
+2026-06-03 11:44:37,964 - INFO - 🔬 [obs] crash 761.18x | fase normal | 9% rosas | q67 3.34
+2026-06-03 11:44:40,003 - INFO - 🔬 [obs] crash 1.76x | fase normal | 9% rosas | q67 3.34
+2026-06-03 11:45:04,048 - INFO - 🔬 [obs] crash 4.24x | fase normal | 9% rosas | q67 3.34
+2026-06-03 11:45:28,935 - INFO - ☕ Pausa humanizada (14.0s)
+2026-06-03 11:45:29,707 - INFO - ✋ Paragem pedida — fim da observação (16.2 min).
+2026-06-03 11:45:29,707 - INFO - 📊 Resumo final: 0W / 0L
+2026-06-03 11:45:29,708 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-06-03 11:54:54,939 - INFO - 🚀 Robô Aviator iniciado...
+2026-06-03 11:54:54,939 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-06-03 11:54:54,939 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-06-03 11:54:54,940 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-06-03 11:54:54,940 - INFO -    📐 Padrões detectados em tempo real (cashouts do JSON):
+2026-06-03 11:54:54,940 - INFO -       P1 Pós-mega       → não apostar
+2026-06-03 11:54:54,941 - INFO -       P2 6+ azuis       → cashout 2.00x (especulativo)
+2026-06-03 11:54:54,941 - INFO -       P3 Combo quente   → cashout 3.0-5.0x (jackpot)
+2026-06-03 11:54:54,941 - INFO -       P4 Hot streak     → cashout 1.50x
+2026-06-03 11:54:54,942 - INFO -       P5 Rosa queimada  → cashout 1.50x
+2026-06-03 11:54:54,942 - INFO -       P6 Default        → cashout 1.50x (cadeia)
+2026-06-03 11:54:54,943 - INFO -    🎯 Sistema de 3 FASES:
+2026-06-03 11:54:54,943 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-06-03 11:54:54,944 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-06-03 11:54:54,945 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-06-03 11:54:54,945 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-06-03 11:54:54,949 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-06-03 11:54:54,950 - INFO - 💰 Estado aposta: Cadeia: 0/3 | Aposta: 50 | Cofre: 0 AOA
+2026-06-03 11:54:54,951 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-06-03 11:54:55,751 - INFO - ✅ Sync: 13 crashes visíveis (último = 2.04x)
+2026-06-03 11:54:55,752 - INFO - 📊 Janela inicial Follow Patterns: 13 crashes
+2026-06-03 11:54:55,752 - INFO -    Recentes: ['2.04', '1.53', '1.13', '2.06', '1.81']...
+2026-06-03 11:54:55,753 - INFO -    A aguardar próximo round terminar...
+2026-06-03 11:55:13,402 - INFO - ☕ Pausa humanizada (10.7s)
+2026-06-03 11:55:14,265 - INFO - 📈 Round acabou: 1.57x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-06-03 11:55:14,266 - INFO - ✅ P6 Default 1.50x (último 1.57x, 1 azuis) [IA: ❄️ q67=3.07 → 1.50x]
+2026-06-03 11:55:14,267 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 11:55:14,267 - INFO - 🧠 Cashout alvo 1.50x | Valor 50 AOA | 0.0s decisão
+2026-06-03 11:55:48,902 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 50 | Cofre: 0 AOA
+2026-06-03 11:55:59,730 - INFO - ☕ Pausa humanizada (9.9s)
+2026-06-03 11:56:00,700 - INFO - ✋ Paragem pedida — a sair.
+2026-06-03 11:56:00,700 - INFO - 📊 Resumo final: 0W / 1L
+2026-06-03 11:56:00,701 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-06-03 11:58:41,281 - INFO - 🚀 Robô Aviator iniciado...
+2026-06-03 11:58:41,282 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-06-03 11:58:41,282 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-06-03 11:58:41,284 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-06-03 11:58:41,285 - INFO -    📐 Padrões detectados em tempo real (cashouts do JSON):
+2026-06-03 11:58:41,285 - INFO -       P1 Pós-mega       → não apostar
+2026-06-03 11:58:41,285 - INFO -       P2 6+ azuis       → cashout 2.00x (especulativo)
+2026-06-03 11:58:41,286 - INFO -       P3 Combo quente   → cashout 3.0-5.0x (jackpot)
+2026-06-03 11:58:41,286 - INFO -       P4 Hot streak     → cashout 1.50x
+2026-06-03 11:58:41,286 - INFO -       P5 Rosa queimada  → cashout 1.50x
+2026-06-03 11:58:41,287 - INFO -       P6 Default        → cashout 1.50x (cadeia)
+2026-06-03 11:58:41,287 - INFO -    🎯 Sistema de 3 FASES:
+2026-06-03 11:58:41,287 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-06-03 11:58:41,287 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-06-03 11:58:41,287 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-06-03 11:58:41,288 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-06-03 11:58:41,306 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-06-03 11:58:41,306 - INFO - 💰 Estado aposta: Cadeia: 0/3 | Aposta: 50 | Cofre: 0 AOA
+2026-06-03 11:58:41,308 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-06-03 11:58:42,235 - INFO - ✅ Sync: 13 crashes visíveis (último = 4.45x)
+2026-06-03 11:58:42,235 - INFO - 📊 Janela inicial Follow Patterns: 13 crashes
+2026-06-03 11:58:42,236 - INFO -    Recentes: ['4.45', '1.07', '1.20', '2.01', '10.17']...
+2026-06-03 11:58:42,236 - INFO -    A aguardar próximo round terminar...
+2026-06-03 11:59:05,649 - INFO - ☕ Pausa humanizada (7.0s)
+2026-06-03 11:59:06,527 - INFO - 📈 Round acabou: 1.69x — janela de aposta aberta! [FASE 2 (warm-up 1/3)]
+2026-06-03 11:59:06,528 - INFO - ✅ P6 Default 1.50x (último 1.69x, 1 azuis) [IA: ❄️ q67=2.82 → 1.50x]
+2026-06-03 11:59:06,528 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 11:59:06,529 - INFO - 🧠 Cashout alvo 1.50x | Valor 50 AOA | 0.0s decisão
+2026-06-03 11:59:41,298 - INFO - ✅ Cashout confirmado pelo saldo (+0 real vs +26 esperado)
+2026-06-03 11:59:41,332 - INFO - 💰 GANHOU em 1.51x | Cadeia: 1/3 | Aposta: 76 | Cofre: 0 AOA
+2026-06-03 11:59:42,316 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 11:59:43,211 - INFO - 📈 Round acabou: 2.58x — janela de aposta aberta! [FASE 2 (warm-up 2/3)]
+2026-06-03 11:59:43,212 - INFO - ✅ P6 Default 1.50x (último 2.58x, 0 azuis) [IA: ❄️ q67=2.82 → 1.50x]
+2026-06-03 11:59:43,213 - INFO - 💼 Cadeia composta: 76 AOA | 1 vitórias seguidas
+2026-06-03 11:59:43,214 - INFO - 🧠 Cashout alvo 1.50x | Valor 76 AOA | 0.0s decisão
+2026-06-03 12:00:09,225 - INFO - ✅ Cashout confirmado pelo saldo (+57 real vs +38 esperado)
+2026-06-03 12:00:09,271 - INFO - 💰 GANHOU em 1.50x | Cadeia: 2/3 | Aposta: 113 | Cofre: 0 AOA
+2026-06-03 12:00:13,606 - INFO - 📈 Round acabou: 32.96x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:00:13,607 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.82 → 2.00x]
+2026-06-03 12:00:13,608 - INFO - 💼 Cadeia composta: 113 AOA | 2 vitórias seguidas
+2026-06-03 12:00:13,609 - INFO - 🧠 Cashout alvo 2.00x | Valor 113 AOA | 0.0s decisão
+2026-06-03 12:00:26,005 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 50 | Cofre: 0 AOA
+2026-06-03 12:00:52,179 - INFO - ☕ Pausa humanizada (10.8s)
+2026-06-03 12:00:53,381 - INFO - 📈 Round acabou: 1.79x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:00:53,383 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.82 → 2.00x]
+2026-06-03 12:00:53,384 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 12:00:53,385 - INFO - 🧠 Cashout alvo 2.00x | Valor 50 AOA | 0.0s decisão
+2026-06-03 12:01:00,428 - WARNING - ⚠️ Falhou a apostar.
+2026-06-03 12:01:19,746 - INFO - ☕ Pausa humanizada (14.0s)
+2026-06-03 12:01:20,855 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 5)
+2026-06-03 12:01:20,855 - INFO - 📈 Round acabou: 1.81x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:01:20,857 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: ❄️ q67=2.82 → 2.00x]
+2026-06-03 12:01:20,858 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 12:01:20,858 - INFO - 🧠 Cashout alvo 2.00x | Valor 50 AOA | 0.3s decisão
+2026-06-03 12:01:55,556 - INFO - 💥 PERDEU em 1.44x | Cadeia: 0/3 | Aposta: 50 | Cofre: 0 AOA
+2026-06-03 12:02:27,138 - INFO - ☕ Pausa humanizada (14.9s)
+2026-06-03 12:02:27,996 - INFO - 📈 Round acabou: 8.41x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:02:27,998 - INFO - 💨 P5 Rosa queimada (8.4x) — cauteloso 1.50x [IA: ❄️ q67=2.82 → 1.50x]
+2026-06-03 12:02:28,000 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 12:02:28,001 - INFO - 🧠 Cashout alvo 1.50x | Valor 50 AOA | 0.0s decisão
+2026-06-03 12:02:59,804 - INFO - ✅ Cashout confirmado pelo saldo (+10 real vs +25 esperado)
+2026-06-03 12:02:59,829 - INFO - 💰 GANHOU em 1.50x | Cadeia: 1/3 | Aposta: 75 | Cofre: 0 AOA
+2026-06-03 12:03:00,700 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 12:03:01,786 - INFO - 📈 Round acabou: 2.65x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:03:01,786 - INFO - ✅ P6 Default 1.50x (último 2.65x, 0 azuis) [IA: ❄️ q67=2.82 → 1.50x]
+2026-06-03 12:03:01,787 - INFO - 💼 Cadeia composta: 75 AOA | 1 vitórias seguidas
+2026-06-03 12:03:01,788 - INFO - 🧠 Cashout alvo 1.50x | Valor 75 AOA | 0.1s decisão
+2026-06-03 12:03:32,714 - INFO - ℹ️ OCR saldo pós-cashout falhou — confio no cashout (fase).
+2026-06-03 12:03:32,738 - INFO - 💰 GANHOU em 1.50x | Cadeia: 2/3 | Aposta: 112 | Cofre: 0 AOA
+2026-06-03 12:03:33,543 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 12:03:36,656 - INFO - 📈 Round acabou: 4.15x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:03:36,657 - INFO - ✅ P6 Default 1.50x (último 4.15x, 0 azuis) [IA: ❄️ q67=2.82 → 1.50x]
+2026-06-03 12:03:36,658 - INFO - 💼 Cadeia composta: 112 AOA | 2 vitórias seguidas
+2026-06-03 12:03:36,658 - INFO - 🧠 Cashout alvo 1.50x | Valor 112 AOA | 0.0s decisão
+2026-06-03 12:03:58,915 - INFO - 💰 GANHOU em 1.50x | Cadeia: 0/3 | Aposta: 50 | Cofre: 56 AOA
+2026-06-03 12:03:59,744 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 12:04:02,290 - INFO - 📈 Round acabou: 3.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:04:02,292 - INFO - ✅ P6 Default 1.50x (último 3.49x, 0 azuis) [IA: ❄️ q67=2.82 → 1.50x]
+2026-06-03 12:04:02,295 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 12:04:02,299 - INFO - 🧠 Cashout alvo 1.50x | Valor 50 AOA | 0.0s decisão
+2026-06-03 12:04:29,238 - INFO - ✅ Cashout confirmado pelo saldo (-1 real vs +25 esperado)
+2026-06-03 12:04:29,270 - INFO - 💰 GANHOU em 1.50x | Cadeia: 1/3 | Aposta: 75 | Cofre: 56 AOA
+2026-06-03 12:04:30,080 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 12:04:31,367 - INFO - 🌡️ Temperatura recalculada (round 10): 🟡 NORMAL | 8.7% rosas | q67 3.47x
+2026-06-03 12:04:31,618 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 10)
+2026-06-03 12:04:31,618 - INFO - 📈 Round acabou: 3.47x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:04:31,619 - INFO - ✅ P6 Default 1.70x (último 3.47x, 0 azuis) [IA: 🟡 q67=3.47 → 1.70x]
+2026-06-03 12:04:31,620 - INFO - 💼 Cadeia composta: 75 AOA | 1 vitórias seguidas
+2026-06-03 12:04:31,621 - INFO - 🧠 Cashout alvo 1.70x | Valor 75 AOA | 0.3s decisão
+2026-06-03 12:05:06,431 - INFO - 💥 PERDEU em 0.00x | Cadeia: 0/3 | Aposta: 50 | Cofre: 56 AOA
+2026-06-03 12:05:22,227 - INFO - 📈 Round acabou: 3.49x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:05:22,229 - INFO - ✅ P6 Default 1.70x (último 3.49x, 0 azuis) [IA: 🟡 q67=3.47 → 1.70x]
+2026-06-03 12:05:22,229 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 12:05:22,230 - INFO - 🧠 Cashout alvo 1.70x | Valor 50 AOA | 0.0s decisão
+2026-06-03 12:05:46,587 - INFO - ✅ Cashout confirmado pelo saldo (-8 real vs +36 esperado)
+2026-06-03 12:05:46,631 - INFO - 💰 GANHOU em 1.72x | Cadeia: 1/3 | Aposta: 86 | Cofre: 56 AOA
+2026-06-03 12:05:47,894 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 12:05:48,833 - INFO - 📈 Round acabou: 139.64x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:05:48,834 - INFO - ❄️ P1 Pós-mega (140x recente) — skip (cold expectado)
+2026-06-03 12:05:56,719 - INFO - 📈 Round acabou: 3.65x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:05:56,720 - INFO - ❄️ P1 Pós-mega (140x recente) — skip (cold expectado)
+2026-06-03 12:06:23,012 - INFO - 📈 Round acabou: 139.64x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:06:23,013 - INFO - ❄️ P1 Pós-mega (140x recente) — skip (cold expectado)
+2026-06-03 12:06:24,065 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 15)
+2026-06-03 12:06:24,066 - INFO - 📈 Round acabou: 2.18x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:06:24,068 - INFO - ❄️ P1 Pós-mega (140x recente) — skip (cold expectado)
+2026-06-03 12:06:43,513 - INFO - 📈 Round acabou: 1.39x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:06:43,514 - INFO - ❄️ P1 Pós-mega (140x recente) — skip (cold expectado)
+2026-06-03 12:07:17,028 - INFO - 📈 Round acabou: 4.48x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:07:17,030 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.47 → 2.00x]
+2026-06-03 12:07:17,032 - INFO - 💼 Cadeia composta: 86 AOA | 1 vitórias seguidas
+2026-06-03 12:07:17,032 - INFO - 🧠 Cashout alvo 2.00x | Valor 86 AOA | 0.0s decisão
+2026-06-03 12:07:39,109 - INFO - 💥 PERDEU em 1.95x | Cadeia: 0/3 | Aposta: 50 | Cofre: 56 AOA
+2026-06-03 12:07:42,245 - INFO - 📈 Round acabou: 2.01x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:07:42,246 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.47 → 2.00x]
+2026-06-03 12:07:42,247 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 12:07:42,249 - INFO - 🧠 Cashout alvo 2.00x | Valor 50 AOA | 0.0s decisão
+2026-06-03 12:08:02,703 - INFO - ✅ Cashout confirmado pelo saldo (-43 real vs +50 esperado)
+2026-06-03 12:08:02,727 - INFO - 💰 GANHOU em 2.00x | Cadeia: 1/3 | Aposta: 100 | Cofre: 56 AOA
+2026-06-03 12:08:03,589 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 12:08:17,826 - INFO - 📈 Round acabou: 6.62x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:08:17,828 - INFO - 🔥 P4 Hot streak: 2 rosas em 10 → 2.00x [IA: 🟡 q67=3.47 → 2.00x]
+2026-06-03 12:08:17,829 - INFO - 💼 Cadeia composta: 100 AOA | 1 vitórias seguidas
+2026-06-03 12:08:17,829 - INFO - 🧠 Cashout alvo 2.00x | Valor 100 AOA | 0.0s decisão
+2026-06-03 12:08:39,883 - INFO - ✅ Cashout confirmado pelo saldo (+2 real vs +100 esperado)
+2026-06-03 12:08:39,923 - INFO - 💰 GANHOU em 2.00x | Cadeia: 2/3 | Aposta: 200 | Cofre: 56 AOA
+2026-06-03 12:08:40,822 - INFO - ⚠️ Lista pós-voo inválida — a manter referência anterior
+2026-06-03 12:09:00,039 - INFO - 🌡️ Temperatura recalculada (round 20): 🔥 QUENTE | 15.2% rosas | q67 4.15x
+2026-06-03 12:09:00,203 - INFO - 🏠 Página estabilizada (Ctrl+Home, round 20)
+2026-06-03 12:09:00,204 - INFO - 📈 Round acabou: 11.27x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:09:00,205 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🔥 q67=4.15 → 2.00x]
+2026-06-03 12:09:00,205 - INFO - 💼 Cadeia composta: 200 AOA | 2 vitórias seguidas
+2026-06-03 12:09:00,206 - INFO - 🧠 Cashout alvo 2.00x | Valor 200 AOA | 0.2s decisão
+2026-06-03 12:09:20,045 - INFO - 💥 PERDEU em 1.65x | Cadeia: 0/3 | Aposta: 50 | Cofre: 56 AOA
+2026-06-03 12:09:21,725 - INFO - 📈 Round acabou: 1.66x — janela de aposta aberta! [FASE 3 (operação normal)]
+2026-06-03 12:09:21,727 - INFO - 🔥 P4 Hot streak: 3 rosas em 10 → 2.00x [IA: 🔥 q67=4.15 → 2.00x]
+2026-06-03 12:09:21,728 - INFO - 💼 Cadeia composta: 50 AOA | 0 vitórias seguidas
+2026-06-03 12:09:21,729 - INFO - 🧠 Cashout alvo 2.00x | Valor 50 AOA | 0.0s decisão
+2026-06-03 12:09:38,421 - INFO - 💥 PERDEU em 1.38x | Cadeia: 0/3 | Aposta: 50 | Cofre: 56 AOA
+2026-06-03 12:09:39,338 - INFO - 
+2026-06-03 12:09:39,338 - INFO - 🔬 ═══════════════════════════════════════════════
+2026-06-03 12:09:39,338 - INFO - 🔬  MODO OBSERVADOR ACTIVADO (meta/stop atingido)
+2026-06-03 12:09:39,339 - INFO - 🔬  O bot PAROU de apostar mas continua a OBSERVAR
+2026-06-03 12:09:39,339 - INFO - 🔬  as fases para aprender as transições do jogo.
+2026-06-03 12:09:39,339 - INFO - 🔬  A cada ~4 min faz 1 aposta mínima (anti-inatividade).
+2026-06-03 12:09:39,339 - INFO - 🔬  Carrega PARAR quando quiseres terminar.
+2026-06-03 12:09:39,339 - INFO - 🔬 ═══════════════════════════════════════════════
+2026-06-03 12:09:39,340 - INFO - 
+2026-06-03 12:09:40,239 - INFO - 🔬 [obs] crash 1.40x | fase quente | 14% rosas | q67 3.65
+2026-06-03 12:09:55,059 - INFO - 🔬 [obs] crash 1.11x | fase quente | 14% rosas | q67 3.65
+2026-06-03 12:10:11,475 - INFO - 🔬 [obs] crash 1.50x | fase quente | 14% rosas | q67 3.49
+2026-06-03 12:10:26,658 - INFO - 🔬 [obs] crash 1.07x | fase quente | 13% rosas | q67 3.49
+2026-06-03 12:10:47,443 - INFO - 🔬 [obs] crash 2.07x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:11:02,403 - INFO - ☕ Pausa humanizada (14.0s)
+2026-06-03 12:11:05,016 - INFO - 🔬 [obs] crash 1.56x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:11:26,376 - INFO - 🔬 [obs] crash 1.85x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:11:48,907 - INFO - ☕ Pausa humanizada (11.5s)
+2026-06-03 12:11:49,738 - INFO - 🔬 [obs] crash 1.00x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:12:00,026 - INFO - 🔬 [obs] crash 1.14x | fase normal | 12% rosas | q67 3.47
+2026-06-03 12:12:26,413 - INFO - 🔬 [obs] crash 3.30x | fase normal | 11% rosas | q67 3.47
+2026-06-03 12:12:53,473 - INFO - 🔬 [obs] crash 23.30x | fase quente | 13% rosas | q67 3.49
+2026-06-03 12:12:55,552 - INFO - 🔬 [obs] crash 4.02x | fase quente | 13% rosas | q67 3.49
+2026-06-03 12:13:23,676 - INFO - 🔬 [obs] crash 4.06x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:13:40,112 - INFO - 🔬 [obs] crash 1.33x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:13:40,112 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:13:40,113 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:13:50,086 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:14:07,002 - INFO - ☕ Pausa humanizada (13.9s)
+2026-06-03 12:14:07,804 - INFO - 🔬 [obs] crash 3.34x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:14:32,051 - INFO - ☕ Pausa humanizada (11.6s)
+2026-06-03 12:14:32,906 - INFO - 🔬 [obs] crash 1.62x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:14:39,443 - INFO - 🔬 [obs] crash 1.34x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:15:04,474 - INFO - 🔬 [obs] crash 2.88x | fase normal | 12% rosas | q67 3.47
+2026-06-03 12:15:21,837 - INFO - ☕ Pausa humanizada (8.4s)
+2026-06-03 12:15:26,741 - INFO - 🔬 [obs] crash 2.03x | fase normal | 11% rosas | q67 3.47
+2026-06-03 12:16:05,333 - INFO - ☕ Pausa humanizada (12.4s)
+2026-06-03 12:16:06,150 - INFO - 🔬 [obs] crash 11.42x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:16:19,893 - INFO - 🔬 [obs] crash 1.11x | fase normal | 13% rosas | q67 3.47
+2026-06-03 12:16:33,496 - INFO - 🔬 [obs] crash 1.02x | fase normal | 12% rosas | q67 3.47
+2026-06-03 12:16:57,804 - INFO - ☕ Pausa humanizada (7.4s)
+2026-06-03 12:17:02,334 - INFO - 🔬 [obs] crash 4.93x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:17:19,369 - INFO - 🔬 [obs] crash 1.67x | fase normal | 12% rosas | q67 3.47
+2026-06-03 12:17:47,686 - INFO - 🔬 [obs] crash 3.82x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:17:52,041 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:17:52,041 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:18:27,979 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:18:29,826 - INFO - 🔬 [obs] crash 4.20x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:18:58,130 - INFO - ☕ Pausa humanizada (10.9s)
+2026-06-03 12:18:58,964 - INFO - 🔬 [obs] crash 12.45x | fase quente | 13% rosas | q67 3.49
+2026-06-03 12:19:14,402 - INFO - ☕ Pausa humanizada (8.3s)
+2026-06-03 12:19:22,288 - INFO - 🔬 [obs] crash 2.60x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:19:35,063 - INFO - ☕ Pausa humanizada (11.8s)
+2026-06-03 12:19:42,955 - INFO - 🔬 [obs] crash 2.37x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:20:12,635 - INFO - ☕ Pausa humanizada (10.4s)
+2026-06-03 12:20:18,766 - INFO - 🔬 [obs] crash 6.59x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:20:39,094 - INFO - 🔬 [obs] crash 2.05x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:20:58,556 - INFO - ☕ Pausa humanizada (9.0s)
+2026-06-03 12:21:02,952 - INFO - 🔬 [obs] crash 2.68x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:21:16,172 - INFO - 🔬 [obs] crash 1.12x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:21:29,192 - INFO - 🔬 [obs] crash 1.22x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:21:53,108 - INFO - 🔬 [obs] crash 161.22x | fase quente | 13% rosas | q67 3.49
+2026-06-03 12:21:55,167 - INFO - 🔬 [obs] crash 3.06x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:22:14,790 - INFO - 🔬 [obs] crash 1.86x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:22:29,494 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:22:29,495 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:22:57,972 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:22:59,713 - INFO - 🔬 [obs] crash 1.03x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:23:13,909 - INFO - ☕ Pausa humanizada (11.2s)
+2026-06-03 12:23:47,028 - INFO - 🔬 [obs] crash 19.51x | fase quente | 14% rosas | q67 3.49
+2026-06-03 12:24:00,096 - INFO - 🔬 [obs] crash 1.00x | fase quente | 14% rosas | q67 3.49
+2026-06-03 12:24:21,573 - INFO - ☕ Pausa humanizada (11.0s)
+2026-06-03 12:24:22,416 - INFO - 🔬 [obs] crash 1.39x | fase quente | 13% rosas | q67 3.49
+2026-06-03 12:24:42,551 - INFO - 🔬 [obs] crash 3.72x | fase quente | 13% rosas | q67 3.49
+2026-06-03 12:25:04,020 - INFO - ☕ Pausa humanizada (8.5s)
+2026-06-03 12:25:04,913 - INFO - 🔬 [obs] crash 1.54x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:25:19,222 - INFO - ☕ Pausa humanizada (13.3s)
+2026-06-03 12:25:20,178 - INFO - 🔬 [obs] crash 1.09x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:25:46,805 - INFO - 🔬 [obs] crash 6.16x | fase normal | 13% rosas | q67 3.49
+2026-06-03 12:26:11,688 - INFO - ☕ Pausa humanizada (12.2s)
+2026-06-03 12:26:26,833 - INFO - 🔬 [obs] crash 1.26x | fase normal | 12% rosas | q67 3.49
+2026-06-03 12:26:42,400 - INFO - ☕ Pausa humanizada (14.6s)
+2026-06-03 12:26:43,296 - INFO - 🔬 [obs] crash 12.26x | fase quente | 14% rosas | q67 3.49
+2026-06-03 12:27:03,944 - INFO - ☕ Pausa humanizada (11.4s)
+2026-06-03 12:27:05,197 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:27:05,198 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:27:18,985 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:27:20,887 - INFO - 🔬 [obs] crash 8.93x | fase quente | 14% rosas | q67 3.65
+2026-06-03 12:27:25,203 - INFO - 🔬 [obs] crash 1.65x | fase quente | 14% rosas | q67 3.65
+2026-06-03 12:27:38,695 - INFO - 🔬 [obs] crash 8.93x | fase quente | 14% rosas | q67 3.72
+2026-06-03 12:27:40,794 - INFO - 🔬 [obs] crash 1.28x | fase quente | 14% rosas | q67 3.72
+2026-06-03 12:28:10,188 - INFO - 🔬 [obs] crash 5.13x | fase quente | 14% rosas | q67 3.72
+2026-06-03 12:28:45,852 - INFO - 🔬 [obs] crash 6.32x | fase quente | 14% rosas | q67 3.82
+2026-06-03 12:28:59,652 - INFO - ☕ Pausa humanizada (12.8s)
+2026-06-03 12:29:04,071 - INFO - 🔬 [obs] crash 1.61x | fase quente | 14% rosas | q67 3.82
+2026-06-03 12:29:22,314 - INFO - 🔬 [obs] crash 771.61x | fase quente | 14% rosas | q67 3.82
+2026-06-03 12:29:24,392 - INFO - 🔬 [obs] crash 1.77x | fase quente | 14% rosas | q67 3.82
+2026-06-03 12:29:47,698 - INFO - 🔬 [obs] crash 2.71x | fase quente | 14% rosas | q67 3.82
+2026-06-03 12:29:58,875 - INFO - ☕ Pausa humanizada (8.2s)
+2026-06-03 12:30:01,567 - INFO - 🔬 [obs] crash 1.05x | fase quente | 14% rosas | q67 3.82
+2026-06-03 12:30:19,923 - INFO - 🔬 [obs] crash 31.05x | fase quente | 15% rosas | q67 3.82
+2026-06-03 12:30:21,885 - INFO - 🔬 [obs] crash 1.98x | fase quente | 15% rosas | q67 3.82
+2026-06-03 12:30:46,108 - INFO - 🔬 [obs] crash 2.60x | fase quente | 15% rosas | q67 3.82
+2026-06-03 12:31:04,419 - INFO - 🔬 [obs] crash 1.93x | fase quente | 14% rosas | q67 3.72
+2026-06-03 12:31:19,239 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:31:19,239 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:31:39,608 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:31:41,379 - INFO - 🔬 [obs] crash 2.88x | fase quente | 14% rosas | q67 3.72
+2026-06-03 12:31:43,411 - INFO - 🔬 [obs] crash 1.02x | fase quente | 14% rosas | q67 3.72
+2026-06-03 12:32:14,447 - INFO - 🔬 [obs] crash 6.00x | fase quente | 14% rosas | q67 3.72
+2026-06-03 12:32:40,137 - INFO - ☕ Pausa humanizada (11.4s)
+2026-06-03 12:32:40,921 - INFO - 🔬 [obs] crash 1.18x | fase quente | 14% rosas | q67 3.72
+2026-06-03 12:32:50,481 - INFO - 🔬 [obs] crash 2.26x | fase quente | 14% rosas | q67 3.65
+2026-06-03 12:33:05,786 - INFO - ☕ Pausa humanizada (6.6s)
+2026-06-03 12:33:08,447 - INFO - 🔬 [obs] crash 712.26x | fase quente | 15% rosas | q67 3.72
+2026-06-03 12:33:10,607 - INFO - 🔬 [obs] crash 1.71x | fase quente | 15% rosas | q67 3.72
+2026-06-03 12:33:19,888 - INFO - 🔬 [obs] crash 1.00x | fase quente | 15% rosas | q67 3.72
+2026-06-03 12:33:38,379 - INFO - 🔬 [obs] crash 1.63x | fase quente | 14% rosas | q67 3.65
+2026-06-03 12:33:58,805 - INFO - 🔬 [obs] crash 2.61x | fase quente | 14% rosas | q67 3.34
+2026-06-03 12:34:21,120 - INFO - 🔬 [obs] crash 22.61x | fase quente | 14% rosas | q67 3.34
+2026-06-03 12:34:23,175 - INFO - 🔬 [obs] crash 2.72x | fase quente | 14% rosas | q67 3.34
+2026-06-03 12:34:47,457 - INFO - 🔬 [obs] crash 3.22x | fase quente | 14% rosas | q67 3.34
+2026-06-03 12:34:58,821 - INFO - 🔬 [obs] crash 1.00x | fase quente | 14% rosas | q67 3.30
+2026-06-03 12:35:13,713 - INFO - 🔬 [obs] crash 1.44x | fase quente | 14% rosas | q67 3.30
+2026-06-03 12:35:40,602 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:35:40,603 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:35:51,238 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:35:53,065 - INFO - 🔬 [obs] crash 1.00x | fase quente | 14% rosas | q67 3.22
+2026-06-03 12:36:16,877 - INFO - 🔬 [obs] crash 2.72x | fase normal | 12% rosas | q67 3.06
+2026-06-03 12:36:33,749 - INFO - ☕ Pausa humanizada (9.7s)
+2026-06-03 12:36:34,644 - INFO - 🔬 [obs] crash 1.63x | fase normal | 12% rosas | q67 3.06
+2026-06-03 12:37:02,325 - INFO - 🔬 [obs] crash 4.04x | fase normal | 12% rosas | q67 3.22
+2026-06-03 12:37:22,332 - INFO - ☕ Pausa humanizada (9.3s)
+2026-06-03 12:37:23,127 - INFO - 🔬 [obs] crash 1.82x | fase normal | 12% rosas | q67 3.22
+2026-06-03 12:38:27,583 - INFO - ☕ Pausa humanizada (13.7s)
+2026-06-03 12:38:28,514 - INFO - 🔬 [obs] crash 69.92x | fase quente | 14% rosas | q67 3.30
+2026-06-03 12:38:44,153 - INFO - ☕ Pausa humanizada (10.4s)
+2026-06-03 12:38:44,948 - INFO - 🔬 [obs] crash 1.44x | fase quente | 14% rosas | q67 3.30
+2026-06-03 12:38:54,416 - INFO - 🔬 [obs] crash 1.43x | fase quente | 14% rosas | q67 3.30
+2026-06-03 12:39:04,400 - INFO - 🔬 [obs] crash 81.43x | fase quente | 15% rosas | q67 3.34
+2026-06-03 12:39:06,444 - INFO - 🔬 [obs] crash 1.08x | fase quente | 15% rosas | q67 3.34
+2026-06-03 12:39:33,491 - INFO - 🔬 [obs] crash 3.79x | fase quente | 15% rosas | q67 3.72
+2026-06-03 12:39:52,090 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:39:52,090 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:40:25,004 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:40:35,546 - INFO - ☕ Pausa humanizada (9.5s)
+2026-06-03 12:40:36,328 - INFO - 🔬 [obs] crash 10.89x | fase quente | 16% rosas | q67 3.79
+2026-06-03 12:40:38,447 - INFO - 🔬 [obs] crash 2.69x | fase quente | 16% rosas | q67 3.79
+2026-06-03 12:40:56,569 - INFO - ☕ Pausa humanizada (8.0s)
+2026-06-03 12:40:57,374 - INFO - 🔬 [obs] crash 1.53x | fase quente | 15% rosas | q67 3.72
+2026-06-03 12:41:24,308 - INFO - ☕ Pausa humanizada (7.2s)
+2026-06-03 12:41:25,133 - INFO - 🔬 [obs] crash 2.97x | fase quente | 15% rosas | q67 3.34
+2026-06-03 12:41:34,557 - INFO - 🔬 [obs] crash 12.97x | fase quente | 16% rosas | q67 3.34
+2026-06-03 12:41:36,651 - INFO - 🔬 [obs] crash 1.44x | fase quente | 16% rosas | q67 3.34
+2026-06-03 12:41:56,311 - INFO - ☕ Pausa humanizada (9.5s)
+2026-06-03 12:42:26,850 - INFO - ☕ Pausa humanizada (11.0s)
+2026-06-03 12:42:27,676 - INFO - 🔬 [obs] crash 22.97x | fase quente | 18% rosas | q67 3.72
+2026-06-03 12:42:45,988 - INFO - ☕ Pausa humanizada (13.1s)
+2026-06-03 12:42:46,853 - INFO - 🔬 [obs] crash 1.67x | fase quente | 18% rosas | q67 3.72
+2026-06-03 12:43:03,375 - INFO - 🔬 [obs] crash 2.10x | fase quente | 18% rosas | q67 3.72
+2026-06-03 12:43:33,308 - INFO - ☕ Pausa humanizada (7.3s)
+2026-06-03 12:43:34,197 - INFO - 🔬 [obs] crash 3.27x | fase quente | 18% rosas | q67 3.72
+2026-06-03 12:43:41,820 - INFO - 🔬 [obs] crash 1.11x | fase quente | 18% rosas | q67 3.72
+2026-06-03 12:44:16,334 - INFO - ☕ Pausa humanizada (7.9s)
+2026-06-03 12:44:26,062 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:44:26,063 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:44:57,135 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:44:58,936 - INFO - 🔬 [obs] crash 77.00x | fase quente | 18% rosas | q67 3.72
+2026-06-03 12:45:12,919 - INFO - ☕ Pausa humanizada (7.1s)
+2026-06-03 12:45:29,901 - INFO - ☕ Pausa humanizada (7.2s)
+2026-06-03 12:45:30,698 - INFO - 🔬 [obs] crash 12.26x | fase quente | 19% rosas | q67 3.79
+2026-06-03 12:46:02,737 - INFO - 🔬 [obs] crash 6.54x | fase quente | 19% rosas | q67 3.82
+2026-06-03 12:46:28,756 - INFO - 🔬 [obs] crash 3.39x | fase quente | 19% rosas | q67 3.79
+2026-06-03 12:46:47,485 - INFO - 🔬 [obs] crash 1.55x | fase quente | 19% rosas | q67 3.79
+2026-06-03 12:47:07,975 - INFO - 🔬 [obs] crash 2.21x | fase quente | 19% rosas | q67 3.72
+2026-06-03 12:47:24,798 - INFO - 🔬 [obs] crash 1.56x | fase quente | 19% rosas | q67 3.39
+2026-06-03 12:47:46,377 - INFO - ☕ Pausa humanizada (12.7s)
+2026-06-03 12:47:47,242 - INFO - 🔬 [obs] crash 1.85x | fase quente | 18% rosas | q67 3.27
+2026-06-03 12:48:09,869 - INFO - ☕ Pausa humanizada (6.0s)
+2026-06-03 12:48:17,928 - INFO - 🔬 [obs] crash 6.32x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:48:41,298 - INFO - ☕ Pausa humanizada (9.2s)
+2026-06-03 12:48:42,067 - INFO - 🔬 [obs] crash 2.87x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:48:56,840 - INFO - 🔬 [obs] crash 1.18x | fase quente | 18% rosas | q67 3.27
+2026-06-03 12:48:58,871 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:48:58,872 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:49:08,180 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:49:24,163 - INFO - 🔬 [obs] crash 3.48x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:49:48,087 - INFO - ☕ Pausa humanizada (8.0s)
+2026-06-03 12:49:48,898 - INFO - 🔬 [obs] crash 1.85x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:50:01,982 - INFO - 🔬 [obs] crash 1.76x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:50:25,501 - INFO - 🔬 [obs] crash 2.88x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:51:10,690 - INFO - ☕ Pausa humanizada (7.5s)
+2026-06-03 12:51:11,574 - INFO - 🔬 [obs] crash 10.27x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:51:29,248 - INFO - ☕ Pausa humanizada (14.7s)
+2026-06-03 12:51:52,181 - INFO - ☕ Pausa humanizada (14.2s)
+2026-06-03 12:51:52,991 - INFO - 🔬 [obs] crash 11.47x | fase quente | 19% rosas | q67 3.48
+2026-06-03 12:52:09,467 - INFO - 🔬 [obs] crash 2.35x | fase quente | 19% rosas | q67 3.48
+2026-06-03 12:52:25,314 - INFO - ☕ Pausa humanizada (10.7s)
+2026-06-03 12:52:26,135 - INFO - 🔬 [obs] crash 1.39x | fase quente | 19% rosas | q67 3.48
+2026-06-03 12:52:33,302 - INFO - ☕ Pausa humanizada (6.2s)
+2026-06-03 12:52:50,069 - INFO - ☕ Pausa humanizada (11.5s)
+2026-06-03 12:52:50,937 - INFO - 🔬 [obs] crash 2.25x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:53:09,375 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:53:09,375 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:53:25,605 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:53:29,127 - INFO - 🔬 [obs] crash 3.46x | fase quente | 18% rosas | q67 3.46
+2026-06-03 12:53:31,174 - INFO - 🔬 [obs] crash 2.25x | fase quente | 18% rosas | q67 3.46
+2026-06-03 12:53:33,018 - INFO - 🔬 [obs] crash 1.58x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:53:50,658 - INFO - 🔬 [obs] crash 1.80x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:54:07,627 - INFO - ☕ Pausa humanizada (10.2s)
+2026-06-03 12:54:10,174 - INFO - 🔬 [obs] crash 1.53x | fase quente | 18% rosas | q67 3.39
+2026-06-03 12:54:26,558 - INFO - 🔬 [obs] crash 1.73x | fase quente | 18% rosas | q67 3.27
+2026-06-03 12:54:43,851 - INFO - ☕ Pausa humanizada (14.1s)
+2026-06-03 12:54:49,922 - INFO - 🔬 [obs] crash 2.11x | fase quente | 18% rosas | q67 3.27
+2026-06-03 12:55:08,959 - INFO - ☕ Pausa humanizada (6.8s)
+2026-06-03 12:55:11,457 - INFO - 🔬 [obs] crash 3.06x | fase quente | 16% rosas | q67 3.22
+2026-06-03 12:55:27,956 - INFO - 🔬 [obs] crash 1.39x | fase quente | 16% rosas | q67 3.06
+2026-06-03 12:55:48,154 - INFO - 🔬 [obs] crash 1.74x | fase quente | 16% rosas | q67 3.06
+2026-06-03 12:56:06,427 - INFO - ☕ Pausa humanizada (13.1s)
+2026-06-03 12:56:07,232 - INFO - 🔬 [obs] crash 2.18x | fase quente | 16% rosas | q67 2.97
+2026-06-03 12:56:18,736 - INFO - ☕ Pausa humanizada (8.4s)
+2026-06-03 12:56:24,930 - INFO - 🔬 [obs] crash 1.40x | fase quente | 16% rosas | q67 2.97
+2026-06-03 12:56:40,252 - INFO - ☕ Pausa humanizada (10.2s)
+2026-06-03 12:56:41,094 - INFO - 🔬 [obs] crash 1.00x | fase quente | 16% rosas | q67 2.88
+2026-06-03 12:56:46,980 - INFO - 🔬 [obs] crash 1.04x | fase quente | 16% rosas | q67 2.88
+2026-06-03 12:57:10,930 - INFO - ☕ Pausa humanizada (9.7s)
+2026-06-03 12:57:11,838 - INFO - 🔬 [obs] crash 2.75x | fase quente | 16% rosas | q67 2.88
+2026-06-03 12:57:25,860 - INFO - 🔬 [obs] crash 1.49x | fase quente | 15% rosas | q67 2.87
+2026-06-03 12:57:25,861 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 12:57:25,861 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 12:57:35,607 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 12:57:37,461 - INFO - 🔬 [obs] crash 1.00x | fase quente | 15% rosas | q67 2.87
+2026-06-03 12:57:52,345 - INFO - 🔬 [obs] crash 1.32x | fase quente | 15% rosas | q67 2.87
+2026-06-03 12:58:10,682 - INFO - 🔬 [obs] crash 1.66x | fase quente | 15% rosas | q67 2.87
+2026-06-03 12:58:43,598 - INFO - ☕ Pausa humanizada (8.1s)
+2026-06-03 12:58:44,427 - INFO - 🔬 [obs] crash 4.68x | fase quente | 14% rosas | q67 2.87
+2026-06-03 12:58:48,457 - INFO - 🔬 [obs] crash 1.00x | fase quente | 14% rosas | q67 2.87
+2026-06-03 12:59:06,422 - INFO - 🔬 [obs] crash 1.82x | fase quente | 14% rosas | q67 2.87
+2026-06-03 12:59:33,939 - INFO - 🔬 [obs] crash 3.90x | fase quente | 14% rosas | q67 2.88
+2026-06-03 12:59:57,140 - INFO - ☕ Pausa humanizada (14.6s)
+2026-06-03 12:59:57,961 - INFO - 🔬 [obs] crash 2.82x | fase quente | 14% rosas | q67 2.87
+2026-06-03 13:00:25,294 - INFO - 🔬 [obs] crash 272.82x | fase quente | 15% rosas | q67 2.88
+2026-06-03 13:00:27,361 - INFO - 🔬 [obs] crash 4.27x | fase quente | 15% rosas | q67 2.88
+2026-06-03 13:00:38,962 - INFO - 🔬 [obs] crash 1.18x | fase quente | 15% rosas | q67 2.88
+2026-06-03 13:01:00,839 - INFO - ☕ Pausa humanizada (13.4s)
+2026-06-03 13:01:17,870 - INFO - 🔬 [obs] crash 10.66x | fase quente | 16% rosas | q67 2.97
+2026-06-03 13:01:33,053 - INFO - ☕ Pausa humanizada (12.1s)
+2026-06-03 13:01:33,890 - INFO - 🔬 [obs] crash 1.13x | fase quente | 15% rosas | q67 2.88
+2026-06-03 13:01:35,854 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:01:35,854 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:01:43,395 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:01:54,084 - INFO - 🔬 [obs] crash 2.25x | fase quente | 15% rosas | q67 2.88
+2026-06-03 13:02:17,966 - INFO - 🔬 [obs] crash 2.96x | fase quente | 15% rosas | q67 2.96
+2026-06-03 13:02:32,936 - INFO - 🔬 [obs] crash 1.32x | fase quente | 15% rosas | q67 2.96
+2026-06-03 13:02:46,032 - INFO - 🔬 [obs] crash 1.33x | fase quente | 15% rosas | q67 2.96
+2026-06-03 13:03:00,782 - INFO - 🔬 [obs] crash 11.33x | fase quente | 15% rosas | q67 2.96
+2026-06-03 13:03:02,963 - INFO - 🔬 [obs] crash 1.41x | fase quente | 15% rosas | q67 2.96
+2026-06-03 13:03:15,660 - INFO - 🔬 [obs] crash 381.41x | fase quente | 16% rosas | q67 2.96
+2026-06-03 13:03:17,855 - INFO - 🔬 [obs] crash 1.38x | fase quente | 16% rosas | q67 2.96
+2026-06-03 13:03:43,977 - INFO - 🔬 [obs] crash 4.02x | fase quente | 16% rosas | q67 2.97
+2026-06-03 13:04:10,761 - INFO - 🔬 [obs] crash 3.63x | fase quente | 16% rosas | q67 3.06
+2026-06-03 13:04:25,536 - INFO - 🔬 [obs] crash 1.44x | fase quente | 16% rosas | q67 3.06
+2026-06-03 13:04:44,706 - INFO - ☕ Pausa humanizada (8.7s)
+2026-06-03 13:04:45,582 - INFO - 🔬 [obs] crash 1.18x | fase quente | 16% rosas | q67 3.06
+2026-06-03 13:05:11,207 - INFO - 🔬 [obs] crash 4.80x | fase quente | 16% rosas | q67 3.06
+2026-06-03 13:05:26,851 - INFO - ☕ Pausa humanizada (8.2s)
+2026-06-03 13:05:29,721 - INFO - 🔬 [obs] crash 1.59x | fase quente | 16% rosas | q67 3.06
+2026-06-03 13:05:56,899 - INFO - ☕ Pausa humanizada (12.6s)
+2026-06-03 13:05:57,685 - INFO - 🔬 [obs] crash 1.82x | fase quente | 15% rosas | q67 2.97
+2026-06-03 13:05:57,685 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:05:57,685 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:06:32,076 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:06:33,878 - INFO - 🔬 [obs] crash 13.85x | fase quente | 16% rosas | q67 3.06
+2026-06-03 13:06:45,052 - INFO - 🔬 [obs] crash 1.79x | fase quente | 16% rosas | q67 3.06
+2026-06-03 13:07:02,554 - INFO - 🔬 [obs] crash 1.58x | fase quente | 15% rosas | q67 2.97
+2026-06-03 13:07:20,367 - INFO - ☕ Pausa humanizada (14.4s)
+2026-06-03 13:07:21,166 - INFO - 🔬 [obs] crash 1.64x | fase quente | 15% rosas | q67 2.97
+2026-06-03 13:07:30,926 - INFO - ☕ Pausa humanizada (6.8s)
+2026-06-03 13:07:42,897 - INFO - ☕ Pausa humanizada (10.1s)
+2026-06-03 13:08:00,688 - INFO - ☕ Pausa humanizada (14.3s)
+2026-06-03 13:08:01,557 - INFO - 🔬 [obs] crash 6.20x | fase quente | 15% rosas | q67 2.97
+2026-06-03 13:08:09,193 - INFO - 🔬 [obs] crash 1.63x | fase quente | 14% rosas | q67 2.96
+2026-06-03 13:08:30,860 - INFO - 🔬 [obs] crash 2.49x | fase quente | 14% rosas | q67 2.96
+2026-06-03 13:08:51,044 - INFO - 🔬 [obs] crash 2.34x | fase quente | 14% rosas | q67 2.96
+2026-06-03 13:09:03,973 - INFO - 🔬 [obs] crash 1.13x | fase quente | 14% rosas | q67 2.88
+2026-06-03 13:09:22,309 - INFO - 🔬 [obs] crash 11.13x | fase quente | 14% rosas | q67 2.88
+2026-06-03 13:09:24,472 - INFO - 🔬 [obs] crash 2.09x | fase quente | 14% rosas | q67 2.88
+2026-06-03 13:09:49,301 - INFO - 🔬 [obs] crash 3.13x | fase normal | 12% rosas | q67 2.88
+2026-06-03 13:10:03,966 - INFO - 🔬 [obs] crash 1.30x | fase normal | 12% rosas | q67 2.88
+2026-06-03 13:10:20,380 - INFO - 🔬 [obs] crash 1.68x | fase normal | 12% rosas | q67 2.88
+2026-06-03 13:10:33,666 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:10:33,668 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:10:55,447 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:10:57,733 - INFO - 🔬 [obs] crash 3.06x | fase normal | 12% rosas | q67 2.88
+2026-06-03 13:11:07,814 - INFO - 🔬 [obs] crash 8.06x | fase normal | 12% rosas | q67 2.96
+2026-06-03 13:11:09,599 - INFO - 🔬 [obs] crash 3.13x | fase normal | 11% rosas | q67 2.96
+2026-06-03 13:11:31,388 - INFO - 🔬 [obs] crash 2.49x | fase normal | 10% rosas | q67 2.88
+2026-06-03 13:12:02,313 - INFO - 🔬 [obs] crash 5.51x | fase normal | 10% rosas | q67 2.88
+2026-06-03 13:12:17,209 - INFO - 🔬 [obs] crash 1.21x | fase normal | 10% rosas | q67 2.87
+2026-06-03 13:12:37,901 - INFO - 🔬 [obs] crash 31.21x | fase normal | 11% rosas | q67 2.88
+2026-06-03 13:12:39,985 - INFO - 🔬 [obs] crash 2.53x | fase normal | 11% rosas | q67 2.88
+2026-06-03 13:12:54,371 - INFO - 🔬 [obs] crash 1.35x | fase normal | 11% rosas | q67 2.88
+2026-06-03 13:13:13,034 - INFO - ☕ Pausa humanizada (9.9s)
+2026-06-03 13:13:17,430 - INFO - 🔬 [obs] crash 2.93x | fase normal | 11% rosas | q67 2.93
+2026-06-03 13:13:30,371 - INFO - 🔬 [obs] crash 1.21x | fase normal | 11% rosas | q67 2.88
+2026-06-03 13:14:30,429 - INFO - 🔬 [obs] crash 55.48x | fase normal | 12% rosas | q67 2.93
+2026-06-03 13:14:48,716 - INFO - 🔬 [obs] crash 1.81x | fase normal | 12% rosas | q67 2.93
+2026-06-03 13:14:56,366 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:14:56,367 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:15:29,728 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:15:31,573 - INFO - 🔬 [obs] crash 1.00x | fase normal | 12% rosas | q67 2.88
+2026-06-03 13:15:42,731 - INFO - 🔬 [obs] crash 1.01x | fase normal | 12% rosas | q67 2.88
+2026-06-03 13:16:00,185 - INFO - ☕ Pausa humanizada (8.6s)
+2026-06-03 13:16:15,345 - INFO - 🔬 [obs] crash 6.38x | fase normal | 12% rosas | q67 2.93
+2026-06-03 13:16:30,170 - INFO - 🔬 [obs] crash 1.10x | fase normal | 12% rosas | q67 2.93
+2026-06-03 13:16:59,436 - INFO - 🔬 [obs] crash 4.98x | fase normal | 11% rosas | q67 2.93
+2026-06-03 13:17:10,371 - INFO - ☕ Pausa humanizada (7.9s)
+2026-06-03 13:17:23,781 - INFO - 🔬 [obs] crash 3.15x | fase normal | 10% rosas | q67 2.93
+2026-06-03 13:17:42,143 - INFO - 🔬 [obs] crash 1.71x | fase normal | 10% rosas | q67 2.93
+2026-06-03 13:18:04,837 - INFO - ☕ Pausa humanizada (14.0s)
+2026-06-03 13:18:05,641 - INFO - 🔬 [obs] crash 1.78x | fase normal | 10% rosas | q67 2.93
+2026-06-03 13:18:38,329 - INFO - ☕ Pausa humanizada (13.0s)
+2026-06-03 13:18:39,421 - INFO - 🔬 [obs] crash 5.02x | fase normal | 10% rosas | q67 2.96
+2026-06-03 13:18:55,371 - INFO - 🔬 [obs] crash 2.95x | fase normal | 10% rosas | q67 2.95
+2026-06-03 13:19:26,381 - INFO - 🔬 [obs] crash 4.98x | fase normal | 10% rosas | q67 2.96
+2026-06-03 13:19:30,602 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:19:30,603 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:19:35,221 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:19:37,022 - INFO - 🔬 [obs] crash 1.00x | fase normal | 10% rosas | q67 2.96
+2026-06-03 13:19:52,483 - INFO - ☕ Pausa humanizada (12.4s)
+2026-06-03 13:19:53,280 - INFO - 🔬 [obs] crash 1.46x | fase normal | 10% rosas | q67 2.96
+2026-06-03 13:20:11,719 - INFO - 🔬 [obs] crash 1.87x | fase normal | 10% rosas | q67 2.96
+2026-06-03 13:20:43,341 - INFO - 🔬 [obs] crash 5.59x | fase normal | 10% rosas | q67 3.06
+2026-06-03 13:21:19,118 - INFO - ☕ Pausa humanizada (12.6s)
+2026-06-03 13:21:30,730 - INFO - 🔬 [obs] crash 20.63x | fase normal | 11% rosas | q67 3.06
+2026-06-03 13:21:48,821 - INFO - 🔬 [obs] crash 1.21x | fase normal | 11% rosas | q67 3.06
+2026-06-03 13:21:59,969 - INFO - 🔬 [obs] crash 1.00x | fase normal | 11% rosas | q67 3.06
+2026-06-03 13:22:20,139 - INFO - 🔬 [obs] crash 2.10x | fase normal | 11% rosas | q67 3.06
+2026-06-03 13:22:36,643 - INFO - 🔬 [obs] crash 762.10x | fase normal | 12% rosas | q67 3.13
+2026-06-03 13:22:38,645 - INFO - 🔬 [obs] crash 1.76x | fase normal | 12% rosas | q67 3.13
+2026-06-03 13:23:06,235 - INFO - ☕ Pausa humanizada (12.1s)
+2026-06-03 13:23:15,921 - INFO - 🔬 [obs] crash 10.17x | fase quente | 14% rosas | q67 3.13
+2026-06-03 13:23:36,350 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:23:36,350 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:23:50,408 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:23:52,280 - INFO - 🔬 [obs] crash 2.54x | fase quente | 14% rosas | q67 3.13
+2026-06-03 13:24:44,370 - INFO - ☕ Pausa humanizada (14.5s)
+2026-06-03 13:24:59,561 - INFO - 🔬 [obs] crash 334.69x | fase quente | 15% rosas | q67 3.15
+2026-06-03 13:25:13,338 - INFO - ☕ Pausa humanizada (8.7s)
+2026-06-03 13:25:14,160 - INFO - 🔬 [obs] crash 1.03x | fase quente | 15% rosas | q67 3.15
+2026-06-03 13:25:37,989 - INFO - 🔬 [obs] crash 3.10x | fase quente | 15% rosas | q67 3.15
+2026-06-03 13:26:19,467 - INFO - 🔬 [obs] crash 1.03x | fase quente | 15% rosas | q67 3.15
+2026-06-03 13:26:21,365 - INFO - 🔬 [obs] crash 13.44x | fase quente | 16% rosas | q67 3.63
+2026-06-03 13:26:41,077 - INFO - 🔬 [obs] crash 1.94x | fase quente | 16% rosas | q67 3.15
+2026-06-03 13:27:02,803 - INFO - 🔬 [obs] crash 2.23x | fase quente | 16% rosas | q67 3.15
+2026-06-03 13:27:26,387 - INFO - 🔬 [obs] crash 2.83x | fase quente | 16% rosas | q67 3.15
+2026-06-03 13:27:41,114 - INFO - 🔬 [obs] crash 1.09x | fase quente | 16% rosas | q67 3.13
+2026-06-03 13:27:50,562 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:27:50,562 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:28:02,490 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:28:04,310 - INFO - 🔬 [obs] crash 1.00x | fase quente | 16% rosas | q67 3.13
+2026-06-03 13:28:19,244 - INFO - 🔬 [obs] crash 1.32x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:28:21,246 - INFO - 🔬 [obs] crash 4.32x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:28:49,743 - INFO - ☕ Pausa humanizada (7.8s)
+2026-06-03 13:28:50,618 - INFO - 🔬 [obs] crash 3.07x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:28:57,898 - INFO - 🔬 [obs] crash 53.07x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:28:59,934 - INFO - 🔬 [obs] crash 1.05x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:29:22,952 - INFO - 🔬 [obs] crash 3.08x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:29:42,900 - INFO - ☕ Pausa humanizada (11.7s)
+2026-06-03 13:29:49,109 - INFO - 🔬 [obs] crash 3.06x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:30:00,081 - INFO - 🔬 [obs] crash 1.00x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:30:16,545 - INFO - ☕ Pausa humanizada (9.8s)
+2026-06-03 13:30:22,665 - INFO - 🔬 [obs] crash 2.65x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:30:48,207 - INFO - ☕ Pausa humanizada (11.6s)
+2026-06-03 13:30:48,972 - INFO - 🔬 [obs] crash 1.11x | fase quente | 14% rosas | q67 3.10
+2026-06-03 13:31:28,209 - INFO - ☕ Pausa humanizada (12.6s)
+2026-06-03 13:31:29,044 - INFO - 🔬 [obs] crash 8.46x | fase quente | 14% rosas | q67 3.13
+2026-06-03 13:31:49,063 - INFO - ☕ Pausa humanizada (13.1s)
+2026-06-03 13:31:49,864 - INFO - 🔬 [obs] crash 2.02x | fase normal | 12% rosas | q67 3.10
+2026-06-03 13:32:09,436 - INFO - ☕ Pausa humanizada (14.7s)
+2026-06-03 13:32:10,249 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:32:10,250 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:32:21,966 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:32:23,798 - INFO - 🔬 [obs] crash 1.00x | fase normal | 12% rosas | q67 3.10
+2026-06-03 13:32:36,664 - INFO - 🔬 [obs] crash 1.01x | fase normal | 12% rosas | q67 3.08
+2026-06-03 13:32:58,560 - INFO - 🔬 [obs] crash 2.69x | fase normal | 12% rosas | q67 3.07
+2026-06-03 13:33:13,148 - INFO - ☕ Pausa humanizada (11.4s)
+2026-06-03 13:33:35,320 - INFO - 🔬 [obs] crash 22.69x | fase quente | 14% rosas | q67 3.08
+2026-06-03 13:33:37,373 - INFO - 🔬 [obs] crash 8.32x | fase quente | 14% rosas | q67 3.10
+2026-06-03 13:34:01,033 - INFO - 🔬 [obs] crash 2.62x | fase quente | 14% rosas | q67 3.08
+2026-06-03 13:34:12,484 - INFO - 🔬 [obs] crash 1.07x | fase quente | 14% rosas | q67 3.08
+2026-06-03 13:34:33,543 - INFO - 🔬 [obs] crash 2.54x | fase quente | 14% rosas | q67 3.08
+2026-06-03 13:34:50,695 - INFO - 🔬 [obs] crash 1.53x | fase normal | 12% rosas | q67 3.07
+2026-06-03 13:35:18,855 - INFO - 🔬 [obs] crash 4.16x | fase normal | 12% rosas | q67 3.08
+2026-06-03 13:36:11,834 - INFO - ☕ Pausa humanizada (12.4s)
+2026-06-03 13:36:14,748 - INFO - 🔬 [obs] crash 43.32x | fase quente | 14% rosas | q67 3.10
+2026-06-03 13:36:22,334 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:36:22,334 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:36:40,376 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:36:42,293 - INFO - 🔬 [obs] crash 201.03x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:36:44,455 - INFO - 🔬 [obs] crash 1.20x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:37:09,635 - INFO - ☕ Pausa humanizada (13.4s)
+2026-06-03 13:37:23,060 - INFO - ☕ Pausa humanizada (11.6s)
+2026-06-03 13:37:23,882 - INFO - 🔬 [obs] crash 4.70x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:37:29,862 - INFO - 🔬 [obs] crash 1.59x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:37:54,761 - INFO - ☕ Pausa humanizada (14.1s)
+2026-06-03 13:37:55,616 - INFO - 🔬 [obs] crash 1.36x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:37:57,714 - INFO - 🔬 [obs] crash 1.06x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:38:19,412 - INFO - 🔬 [obs] crash 2.59x | fase quente | 14% rosas | q67 3.10
+2026-06-03 13:38:34,698 - INFO - ☕ Pausa humanizada (10.0s)
+2026-06-03 13:38:54,246 - INFO - ☕ Pausa humanizada (8.3s)
+2026-06-03 13:38:55,103 - INFO - 🔬 [obs] crash 7.38x | fase quente | 14% rosas | q67 3.13
+2026-06-03 13:39:19,265 - INFO - 🔬 [obs] crash 2.75x | fase quente | 14% rosas | q67 3.10
+2026-06-03 13:39:37,699 - INFO - 🔬 [obs] crash 1.54x | fase quente | 14% rosas | q67 3.10
+2026-06-03 13:40:06,511 - INFO - ☕ Pausa humanizada (11.0s)
+2026-06-03 13:40:14,843 - INFO - 🔬 [obs] crash 9.19x | fase quente | 14% rosas | q67 3.13
+2026-06-03 13:40:40,882 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:40:40,883 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:41:05,861 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:41:07,716 - INFO - 🔬 [obs] crash 10.55x | fase quente | 15% rosas | q67 3.15
+2026-06-03 13:41:19,354 - INFO - 🔬 [obs] crash 3.00x | fase quente | 15% rosas | q67 3.13
+2026-06-03 13:41:34,365 - INFO - 🔬 [obs] crash 1.16x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:41:48,519 - INFO - ☕ Pausa humanizada (9.1s)
+2026-06-03 13:42:05,948 - INFO - 🔬 [obs] crash 5.35x | fase quente | 15% rosas | q67 3.15
+2026-06-03 13:42:30,565 - INFO - ☕ Pausa humanizada (11.1s)
+2026-06-03 13:42:31,308 - INFO - 🔬 [obs] crash 1.75x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:42:47,860 - INFO - 🔬 [obs] crash 2.84x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:43:08,965 - INFO - ☕ Pausa humanizada (7.2s)
+2026-06-03 13:43:09,769 - INFO - 🔬 [obs] crash 1.47x | fase quente | 14% rosas | q67 3.08
+2026-06-03 13:43:25,233 - INFO - ☕ Pausa humanizada (10.0s)
+2026-06-03 13:43:27,789 - INFO - 🔬 [obs] crash 611.47x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:43:37,982 - INFO - ☕ Pausa humanizada (9.2s)
+2026-06-03 13:43:38,814 - INFO - 🔬 [obs] crash 2.61x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:43:46,450 - INFO - 🔬 [obs] crash 1.82x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:44:02,315 - INFO - ☕ Pausa humanizada (14.9s)
+2026-06-03 13:44:03,087 - INFO - 🔬 [obs] crash 1.14x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:44:12,307 - INFO - 🔬 [obs] crash 121.14x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:44:14,388 - INFO - 🔬 [obs] crash 1.12x | fase quente | 15% rosas | q67 3.10
+2026-06-03 13:44:36,267 - INFO - ☕ Pausa humanizada (11.6s)
+2026-06-03 13:44:58,158 - INFO - 🔬 [obs] crash 16.49x | fase quente | 16% rosas | q67 3.15
+2026-06-03 13:45:07,661 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:45:07,661 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:45:36,813 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:45:38,677 - INFO - 🔬 [obs] crash 1.11x | fase quente | 16% rosas | q67 3.15
+2026-06-03 13:46:02,715 - INFO - 🔬 [obs] crash 2.85x | fase quente | 16% rosas | q67 3.10
+2026-06-03 13:46:26,334 - INFO - 🔬 [obs] crash 2.54x | fase quente | 16% rosas | q67 3.10
+2026-06-03 13:46:44,542 - INFO - ☕ Pausa humanizada (7.5s)
+2026-06-03 13:46:45,428 - INFO - 🔬 [obs] crash 1.13x | fase quente | 16% rosas | q67 3.08
+2026-06-03 13:47:09,334 - INFO - 🔬 [obs] crash 4.59x | fase quente | 16% rosas | q67 3.08
+2026-06-03 13:47:27,895 - INFO - 🔬 [obs] crash 1.82x | fase quente | 16% rosas | q67 3.08
+2026-06-03 13:47:49,682 - INFO - ☕ Pausa humanizada (14.9s)
+2026-06-03 13:48:03,118 - INFO - ☕ Pausa humanizada (11.7s)
+2026-06-03 13:48:03,880 - INFO - 🔬 [obs] crash 3.74x | fase quente | 16% rosas | q67 3.10
+2026-06-03 13:48:15,284 - INFO - 🔬 [obs] crash 1.75x | fase quente | 16% rosas | q67 3.08
+2026-06-03 13:48:32,110 - INFO - 🔬 [obs] crash 1.53x | fase quente | 16% rosas | q67 3.08
+2026-06-03 13:48:54,213 - INFO - 🔬 [obs] crash 2.51x | fase quente | 16% rosas | q67 3.07
+2026-06-03 13:49:35,062 - INFO - ☕ Pausa humanizada (14.3s)
+2026-06-03 13:49:37,812 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:49:37,812 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:50:04,146 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:50:05,950 - INFO - 🔬 [obs] crash 55.49x | fase quente | 18% rosas | q67 3.08
+2026-06-03 13:50:25,444 - INFO - ☕ Pausa humanizada (8.7s)
+2026-06-03 13:50:31,608 - INFO - 🔬 [obs] crash 10.01x | fase quente | 19% rosas | q67 3.10
+2026-06-03 13:50:44,771 - INFO - 🔬 [obs] crash 710.01x | fase quente | 20% rosas | q67 3.74
+2026-06-03 13:50:46,843 - INFO - 🔬 [obs] crash 1.17x | fase quente | 20% rosas | q67 3.10
+2026-06-03 13:50:56,549 - INFO - ☕ Pausa humanizada (6.6s)
+2026-06-03 13:51:13,596 - INFO - 🔬 [obs] crash 3.49x | fase quente | 19% rosas | q67 3.10
+2026-06-03 13:51:26,613 - INFO - 🔬 [obs] crash 1.10x | fase quente | 19% rosas | q67 3.10
+2026-06-03 13:51:44,366 - INFO - ☕ Pausa humanizada (7.7s)
+2026-06-03 13:51:45,214 - INFO - 🔬 [obs] crash 1.46x | fase quente | 19% rosas | q67 3.10
+2026-06-03 13:52:10,232 - INFO - 🔬 [obs] crash 3.94x | fase quente | 19% rosas | q67 3.49
+2026-06-03 13:52:43,805 - INFO - ☕ Pausa humanizada (14.3s)
+2026-06-03 13:52:44,590 - INFO - 🔬 [obs] crash 4.16x | fase quente | 18% rosas | q67 3.49
+2026-06-03 13:53:13,025 - INFO - ☕ Pausa humanizada (14.2s)
+2026-06-03 13:53:13,813 - INFO - 🔬 [obs] crash 3.41x | fase quente | 18% rosas | q67 3.49
+2026-06-03 13:53:23,255 - INFO - 🔬 [obs] crash 1.42x | fase quente | 16% rosas | q67 3.41
+2026-06-03 13:53:46,838 - INFO - ☕ Pausa humanizada (13.1s)
+2026-06-03 13:53:47,688 - INFO - 🔬 [obs] crash 3.25x | fase quente | 16% rosas | q67 3.41
+2026-06-03 13:54:08,155 - INFO - ☕ Pausa humanizada (9.9s)
+2026-06-03 13:54:09,014 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 13:54:09,014 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 13:54:34,121 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 13:54:35,930 - INFO - 🔬 [obs] crash 6.50x | fase quente | 15% rosas | q67 3.41
+2026-06-03 13:54:38,020 - INFO - 🔬 [obs] crash 1.24x | fase quente | 15% rosas | q67 3.41
+2026-06-03 13:54:50,840 - INFO - 🔬 [obs] crash 1.13x | fase quente | 15% rosas | q67 3.41
+2026-06-03 13:55:16,398 - INFO - 🔬 [obs] crash 3.23x | fase quente | 15% rosas | q67 3.41
+2026-06-03 13:55:48,095 - INFO - ☕ Pausa humanizada (8.4s)
+2026-06-03 13:55:48,920 - INFO - 🔬 [obs] crash 3.88x | fase quente | 14% rosas | q67 3.41
+2026-06-03 13:56:03,826 - INFO - 🔬 [obs] crash 33.88x | fase quente | 15% rosas | q67 3.49
+2026-06-03 13:56:05,932 - INFO - 🔬 [obs] crash 1.88x | fase quente | 15% rosas | q67 3.49
+2026-06-03 13:56:20,718 - INFO - 🔬 [obs] crash 1.44x | fase quente | 15% rosas | q67 3.49
+2026-06-03 13:56:36,751 - INFO - ✋ Paragem pedida — a sair do loop principal.
+2026-06-03 13:56:36,751 - INFO - 📊 Resumo final: 9W / 6L
+2026-06-03 13:56:36,752 - INFO - 👋 Bot encerrado. Até à próxima!
+2026-06-03 13:59:32,540 - INFO - 🚀 Robô Aviator iniciado...
+2026-06-03 13:59:32,541 - INFO -     💡 Carrega Ctrl+C UMA vez para parar com segurança após o round actual.
+2026-06-03 13:59:32,541 - INFO -     💡 Carrega Ctrl+C DUAS vezes para forçar paragem imediata.
+2026-06-03 13:59:32,542 - INFO - 🎯 ESTRATÉGIA 'FOLLOW PATTERNS' ACTIVA
+2026-06-03 13:59:32,542 - INFO -    📐 Padrões detectados em tempo real (cashouts do JSON):
+2026-06-03 13:59:32,542 - INFO -       P1 Pós-mega       → não apostar
+2026-06-03 13:59:32,543 - INFO -       P2 6+ azuis       → cashout 2.00x (especulativo)
+2026-06-03 13:59:32,543 - INFO -       P3 Combo quente   → cashout 3.0-5.0x (jackpot)
+2026-06-03 13:59:32,543 - INFO -       P4 Hot streak     → cashout 1.50x
+2026-06-03 13:59:32,543 - INFO -       P5 Rosa queimada  → cashout 1.50x
+2026-06-03 13:59:32,543 - INFO -       P6 Default        → cashout 1.50x (cadeia)
+2026-06-03 13:59:32,544 - INFO -    🎯 Sistema de 3 FASES:
+2026-06-03 13:59:32,544 - INFO -       FASE 1: cold start — usa lista visível no ecrã
+2026-06-03 13:59:32,544 - INFO -       FASE 2: warm-up — primeiros 3 rounds novos
+2026-06-03 13:59:32,544 - INFO -       FASE 3: operação normal — janela 20 crashes
+2026-06-03 13:59:32,545 - INFO - 🧠 Inteligência adaptativa: tudo OFF (modo conservador)
+2026-06-03 13:59:32,561 - INFO - 📂 Histórico em ficheiro: 200 entradas (para PDF/dados)
+2026-06-03 13:59:32,562 - INFO - 💰 Estado aposta: Cadeia: 0/3 | Aposta: 50 | Cofre: 56 AOA
+2026-06-03 13:59:32,568 - INFO - ⏳ FASE 1: A captar lista visível (cold start)...
+2026-06-03 13:59:33,518 - INFO - ✅ Sync: 13 crashes visíveis (último = 1.14x)
+2026-06-03 13:59:33,528 - INFO - 📊 Janela inicial Follow Patterns: 13 crashes
+2026-06-03 13:59:33,529 - INFO -    Recentes: ['1.14', '3.04', '2.09', '1.00', '9.00']...
+2026-06-03 13:59:33,530 - INFO -    A aguardar próximo round terminar...
+2026-06-03 13:59:33,531 - INFO - 
+2026-06-03 13:59:33,532 - INFO - 🔬 ═══════════════════════════════════════════════
+2026-06-03 13:59:33,533 - INFO - 🔬  MODO OBSERVADOR ACTIVADO (meta/stop atingido)
+2026-06-03 13:59:33,534 - INFO - 🔬  O bot PAROU de apostar mas continua a OBSERVAR
+2026-06-03 13:59:33,534 - INFO - 🔬  as fases para aprender as transições do jogo.
+2026-06-03 13:59:33,534 - INFO - 🔬  A cada ~4 min faz 1 aposta mínima (anti-inatividade).
+2026-06-03 13:59:33,535 - INFO - 🔬  Carrega PARAR quando quiseres terminar.
+2026-06-03 13:59:33,535 - INFO - 🔬 ═══════════════════════════════════════════════
+2026-06-03 13:59:33,535 - INFO - 
+2026-06-03 13:59:58,163 - INFO - ☕ Pausa humanizada (10.6s)
+2026-06-03 13:59:59,016 - INFO - 🔬 [obs] crash 2.74x | fase fria | 0% rosas | q67 3.04
+2026-06-03 14:00:06,738 - INFO - 🔬 [obs] crash 1.40x | fase fria | 0% rosas | q67 3.04
+2026-06-03 14:00:19,630 - INFO - 🔬 [obs] crash 1.18x | fase fria | 0% rosas | q67 2.74
+2026-06-03 14:00:35,969 - INFO - 🔬 [obs] crash 1.61x | fase fria | 0% rosas | q67 2.74
+2026-06-03 14:00:45,688 - INFO - ☕ Pausa humanizada (6.9s)
+2026-06-03 14:01:03,214 - INFO - ☕ Pausa humanizada (6.5s)
+2026-06-03 14:01:04,071 - INFO - 🔬 [obs] crash 2.95x | fase fria | 0% rosas | q67 2.95
+2026-06-03 14:01:17,006 - INFO - 🔬 [obs] crash 32.95x | fase fria | 5% rosas | q67 2.95
+2026-06-03 14:01:18,880 - INFO - 🔬 [obs] crash 1.63x | fase fria | 5% rosas | q67 2.95
+2026-06-03 14:01:43,189 - INFO - 🔬 [obs] crash 2.60x | fase fria | 5% rosas | q67 2.95
+2026-06-03 14:02:08,956 - INFO - 🔬 [obs] crash 3.55x | fase fria | 5% rosas | q67 2.95
+2026-06-03 14:02:47,641 - INFO - ☕ Pausa humanizada (14.8s)
+2026-06-03 14:02:48,434 - INFO - 🔬 [obs] crash 98.55x | fase normal | 9% rosas | q67 3.04
+2026-06-03 14:02:50,573 - INFO - 🔬 [obs] crash 12.59x | fase normal | 12% rosas | q67 3.23
+2026-06-03 14:03:08,832 - INFO - 🔬 [obs] crash 1.70x | fase normal | 12% rosas | q67 3.04
+2026-06-03 14:03:29,395 - INFO - 🔬 [obs] crash 2.15x | fase normal | 12% rosas | q67 3.04
+2026-06-03 14:03:34,378 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:03:34,378 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:03:41,279 - INFO -    💉 Não conseguiu apostar (anti-inatividade) — sem problema.
+2026-06-03 14:03:47,732 - INFO - 🔬 [obs] crash 1.19x | fase normal | 11% rosas | q67 3.04
+2026-06-03 14:04:10,077 - INFO - ☕ Pausa humanizada (14.9s)
+2026-06-03 14:04:11,060 - INFO - 🔬 [obs] crash 2.24x | fase normal | 11% rosas | q67 2.95
+2026-06-03 14:05:04,115 - INFO - 🔬 [obs] crash 37.45x | fase quente | 14% rosas | q67 3.04
+2026-06-03 14:05:21,932 - INFO - 🔬 [obs] crash 137.45x | fase quente | 17% rosas | q67 3.23
+2026-06-03 14:05:23,905 - INFO - 🔬 [obs] crash 1.74x | fase quente | 16% rosas | q67 3.04
+2026-06-03 14:05:52,142 - INFO - 🔬 [obs] crash 1.00x | fase quente | 16% rosas | q67 3.04
+2026-06-03 14:06:10,873 - INFO - 🔬 [obs] crash 1.65x | fase quente | 15% rosas | q67 3.04
+2026-06-03 14:06:37,156 - INFO - ☕ Pausa humanizada (14.0s)
+2026-06-03 14:06:38,038 - INFO - 🔬 [obs] crash 1.31x | fase quente | 15% rosas | q67 2.95
+2026-06-03 14:06:42,256 - INFO - 🔬 [obs] crash 1.56x | fase quente | 14% rosas | q67 2.95
+2026-06-03 14:07:11,775 - INFO - 🔬 [obs] crash 5.19x | fase quente | 14% rosas | q67 3.04
+2026-06-03 14:07:32,090 - INFO - 🔬 [obs] crash 1.88x | fase quente | 14% rosas | q67 2.95
+2026-06-03 14:07:45,034 - INFO - ☕ Pausa humanizada (9.9s)
+2026-06-03 14:07:45,800 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:07:45,801 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:08:13,343 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:08:15,153 - INFO - 🔬 [obs] crash 5.02x | fase quente | 13% rosas | q67 3.04
+2026-06-03 14:08:33,354 - INFO - ☕ Pausa humanizada (14.9s)
+2026-06-03 14:08:34,216 - INFO - 🔬 [obs] crash 4.80x | fase normal | 13% rosas | q67 3.23
+2026-06-03 14:08:47,510 - INFO - ☕ Pausa humanizada (8.1s)
+2026-06-03 14:08:48,619 - INFO - 🔬 [obs] crash 1.33x | fase normal | 12% rosas | q67 3.04
+2026-06-03 14:09:27,444 - INFO - 🔬 [obs] crash 11.94x | fase quente | 15% rosas | q67 3.23
+2026-06-03 14:09:58,941 - INFO - 🔬 [obs] crash 4.56x | fase quente | 14% rosas | q67 3.55
+2026-06-03 14:10:19,993 - INFO - ☕ Pausa humanizada (14.2s)
+2026-06-03 14:10:41,020 - INFO - 🔬 [obs] crash 15.88x | fase quente | 16% rosas | q67 3.55
+2026-06-03 14:11:00,227 - INFO - 🔬 [obs] crash 1.55x | fase quente | 16% rosas | q67 3.55
+2026-06-03 14:11:23,300 - INFO - ☕ Pausa humanizada (12.6s)
+2026-06-03 14:11:24,132 - INFO - 🔬 [obs] crash 1.77x | fase quente | 16% rosas | q67 3.55
+2026-06-03 14:11:44,867 - INFO - ☕ Pausa humanizada (8.5s)
+2026-06-03 14:11:53,047 - INFO - 🔬 [obs] crash 6.79x | fase quente | 15% rosas | q67 3.55
+2026-06-03 14:12:08,978 - INFO - 🔬 [obs] crash 1.46x | fase quente | 15% rosas | q67 3.55
+2026-06-03 14:12:14,780 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:12:14,780 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:12:50,924 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:12:52,754 - INFO - 🔬 [obs] crash 5.58x | fase quente | 15% rosas | q67 3.88
+2026-06-03 14:13:11,423 - INFO - 🔬 [obs] crash 4.37x | fase quente | 14% rosas | q67 3.88
+2026-06-03 14:13:46,162 - INFO - ☕ Pausa humanizada (9.8s)
+2026-06-03 14:13:47,007 - INFO - 🔬 [obs] crash 6.61x | fase quente | 14% rosas | q67 4.37
+2026-06-03 14:14:00,366 - INFO - 🔬 [obs] crash 1.23x | fase quente | 14% rosas | q67 4.37
+2026-06-03 14:14:20,216 - INFO - ☕ Pausa humanizada (11.0s)
+2026-06-03 14:14:22,831 - INFO - 🔬 [obs] crash 2.32x | fase quente | 13% rosas | q67 3.88
+2026-06-03 14:14:35,974 - INFO - 🔬 [obs] crash 1.20x | fase quente | 13% rosas | q67 3.88
+2026-06-03 14:14:45,128 - INFO - ☕ Pausa humanizada (8.2s)
+2026-06-03 14:14:51,284 - INFO - 🔬 [obs] crash 1.25x | fase normal | 13% rosas | q67 3.88
+2026-06-03 14:15:12,038 - INFO - 🔬 [obs] crash 1.80x | fase normal | 13% rosas | q67 3.55
+2026-06-03 14:15:29,400 - INFO - 🔬 [obs] crash 1.69x | fase normal | 12% rosas | q67 3.55
+2026-06-03 14:15:49,231 - INFO - 🔬 [obs] crash 2.02x | fase normal | 12% rosas | q67 3.55
+2026-06-03 14:16:11,034 - INFO - 🔬 [obs] crash 2.33x | fase normal | 12% rosas | q67 3.23
+2026-06-03 14:16:28,326 - INFO - 🔬 [obs] crash 1.60x | fase normal | 12% rosas | q67 3.23
+2026-06-03 14:16:51,146 - INFO - 🔬 [obs] crash 2.81x | fase normal | 12% rosas | q67 3.23
+2026-06-03 14:16:51,146 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:16:51,146 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:17:03,433 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:17:25,304 - INFO - ☕ Pausa humanizada (8.1s)
+2026-06-03 14:17:26,125 - INFO - 🔬 [obs] crash 5.20x | fase normal | 11% rosas | q67 3.23
+2026-06-03 14:17:44,872 - INFO - 🔬 [obs] crash 6.20x | fase normal | 11% rosas | q67 3.55
+2026-06-03 14:17:47,024 - INFO - 🔬 [obs] crash 2.44x | fase normal | 11% rosas | q67 3.55
+2026-06-03 14:18:01,515 - INFO - 🔬 [obs] crash 1.45x | fase normal | 11% rosas | q67 3.23
+2026-06-03 14:18:21,102 - INFO - ☕ Pausa humanizada (12.8s)
+2026-06-03 14:18:38,626 - INFO - 🔬 [obs] crash 8.06x | fase normal | 11% rosas | q67 3.55
+2026-06-03 14:18:51,825 - INFO - 🔬 [obs] crash 1.08x | fase normal | 11% rosas | q67 3.55
+2026-06-03 14:19:06,942 - INFO - 🔬 [obs] crash 1.43x | fase normal | 10% rosas | q67 3.23
+2026-06-03 14:19:23,044 - INFO - ☕ Pausa humanizada (9.0s)
+2026-06-03 14:19:23,958 - INFO - 🔬 [obs] crash 1.23x | fase normal | 10% rosas | q67 3.23
+2026-06-03 14:19:45,213 - INFO - ☕ Pausa humanizada (14.4s)
+2026-06-03 14:19:46,066 - INFO - 🔬 [obs] crash 1.51x | fase normal | 10% rosas | q67 3.23
+2026-06-03 14:19:48,325 - INFO - 🔬 [obs] crash 1.01x | fase normal | 10% rosas | q67 3.04
+2026-06-03 14:19:59,863 - INFO - 🔬 [obs] crash 1.11x | fase normal | 10% rosas | q67 3.04
+2026-06-03 14:20:32,516 - INFO - ☕ Pausa humanizada (10.2s)
+2026-06-03 14:20:35,281 - INFO - 🔬 [obs] crash 8.54x | fase normal | 10% rosas | q67 3.23
+2026-06-03 14:20:55,867 - INFO - 🔬 [obs] crash 78.54x | fase normal | 11% rosas | q67 3.23
+2026-06-03 14:20:57,973 - INFO - 🔬 [obs] crash 2.37x | fase normal | 11% rosas | q67 3.23
+2026-06-03 14:21:03,795 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:21:03,796 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:21:24,565 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:21:26,426 - INFO - 🔬 [obs] crash 1.59x | fase normal | 11% rosas | q67 3.23
+2026-06-03 14:21:36,186 - INFO - 🔬 [obs] crash 2.63x | fase normal | 11% rosas | q67 3.04
+2026-06-03 14:21:49,550 - INFO - 🔬 [obs] crash 1.05x | fase normal | 10% rosas | q67 3.04
+2026-06-03 14:22:02,889 - INFO - 🔬 [obs] crash 1.15x | fase normal | 10% rosas | q67 3.04
+2026-06-03 14:22:13,068 - INFO - 🔬 [obs] crash 1.08x | fase normal | 10% rosas | q67 2.95
+2026-06-03 14:22:40,810 - INFO - 🔬 [obs] crash 4.36x | fase normal | 10% rosas | q67 3.04
+2026-06-03 14:23:01,099 - INFO - 🔬 [obs] crash 2.05x | fase normal | 10% rosas | q67 3.04
+2026-06-03 14:23:23,162 - INFO - 🔬 [obs] crash 2.94x | fase normal | 10% rosas | q67 2.95
+2026-06-03 14:23:43,197 - INFO - ☕ Pausa humanizada (9.4s)
+2026-06-03 14:24:13,164 - INFO - 🔬 [obs] crash 25.93x | fase normal | 11% rosas | q67 2.95
+2026-06-03 14:24:40,482 - INFO - 🔬 [obs] crash 3.15x | fase normal | 11% rosas | q67 3.04
+2026-06-03 14:25:00,205 - INFO - ☕ Pausa humanizada (10.7s)
+2026-06-03 14:25:12,919 - INFO - ☕ Pausa humanizada (10.8s)
+2026-06-03 14:25:15,827 - INFO - 🔬 [obs] crash 7.87x | fase normal | 11% rosas | q67 3.15
+2026-06-03 14:25:32,528 - INFO - ☕ Pausa humanizada (8.4s)
+2026-06-03 14:25:33,331 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:25:33,331 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:26:02,187 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:26:04,020 - INFO - 🔬 [obs] crash 7.26x | fase normal | 11% rosas | q67 3.55
+2026-06-03 14:26:06,108 - INFO - 🔬 [obs] crash 1.38x | fase normal | 11% rosas | q67 3.15
+2026-06-03 14:26:26,233 - INFO - 🔬 [obs] crash 191.38x | fase normal | 12% rosas | q67 3.55
+2026-06-03 14:26:28,287 - INFO - 🔬 [obs] crash 2.19x | fase normal | 12% rosas | q67 3.15
+2026-06-03 14:26:58,091 - INFO - ☕ Pausa humanizada (12.7s)
+2026-06-03 14:26:58,916 - INFO - 🔬 [obs] crash 4.68x | fase normal | 12% rosas | q67 3.55
+2026-06-03 14:27:21,361 - INFO - ☕ Pausa humanizada (12.1s)
+2026-06-03 14:27:22,220 - INFO - 🔬 [obs] crash 2.16x | fase normal | 12% rosas | q67 3.55
+2026-06-03 14:27:44,440 - INFO - 🔬 [obs] crash 3.60x | fase normal | 12% rosas | q67 3.60
+2026-06-03 14:28:12,599 - INFO - ☕ Pausa humanizada (12.2s)
+2026-06-03 14:28:13,423 - INFO - 🔬 [obs] crash 3.06x | fase normal | 12% rosas | q67 3.60
+2026-06-03 14:28:38,941 - INFO - ☕ Pausa humanizada (11.8s)
+2026-06-03 14:28:39,761 - INFO - 🔬 [obs] crash 4.34x | fase normal | 12% rosas | q67 4.34
+2026-06-03 14:28:54,528 - INFO - 🔬 [obs] crash 1.44x | fase normal | 12% rosas | q67 4.34
+2026-06-03 14:29:11,201 - INFO - 🔬 [obs] crash 1.63x | fase normal | 12% rosas | q67 4.34
+2026-06-03 14:29:32,259 - INFO - 🔬 [obs] crash 2.31x | fase normal | 12% rosas | q67 4.34
+2026-06-03 14:29:54,316 - INFO - 🔬 [obs] crash 2.36x | fase normal | 12% rosas | q67 4.34
+2026-06-03 14:30:02,238 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:30:02,238 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:30:36,806 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:30:38,610 - INFO - 🔬 [obs] crash 7.66x | fase normal | 11% rosas | q67 4.34
+2026-06-03 14:30:50,469 - INFO - 🔬 [obs] crash 2.14x | fase normal | 11% rosas | q67 4.34
+2026-06-03 14:31:19,112 - INFO - ☕ Pausa humanizada (14.3s)
+2026-06-03 14:31:32,807 - INFO - 🔬 [obs] crash 11.79x | fase normal | 12% rosas | q67 4.36
+2026-06-03 14:32:05,154 - INFO - ☕ Pausa humanizada (14.5s)
+2026-06-03 14:32:05,957 - INFO - 🔬 [obs] crash 2.27x | fase normal | 12% rosas | q67 4.36
+2026-06-03 14:32:10,111 - INFO - 🔬 [obs] crash 1.00x | fase normal | 11% rosas | q67 4.34
+2026-06-03 14:32:32,820 - INFO - ☕ Pausa humanizada (8.3s)
+2026-06-03 14:32:33,648 - INFO - 🔬 [obs] crash 2.38x | fase normal | 10% rosas | q67 3.60
+2026-06-03 14:32:41,308 - INFO - 🔬 [obs] crash 1.00x | fase normal | 10% rosas | q67 3.60
+2026-06-03 14:33:03,703 - INFO - 🔬 [obs] crash 2.55x | fase normal | 10% rosas | q67 3.60
+2026-06-03 14:33:18,528 - INFO - 🔬 [obs] crash 1.25x | fase normal | 10% rosas | q67 3.60
+2026-06-03 14:33:28,225 - INFO - ☕ Pausa humanizada (8.7s)
+2026-06-03 14:33:54,160 - INFO - 🔬 [obs] crash 8.91x | fase normal | 10% rosas | q67 4.34
+2026-06-03 14:34:20,576 - INFO - 🔬 [obs] crash 3.32x | fase normal | 9% rosas | q67 3.60
+2026-06-03 14:34:31,908 - INFO - ☕ Pausa humanizada (8.1s)
+2026-06-03 14:34:48,250 - INFO - ☕ Pausa humanizada (11.7s)
+2026-06-03 14:34:49,125 - INFO - 🔬 [obs] crash 3.31x | fase normal | 8% rosas | q67 3.32
+2026-06-03 14:34:49,126 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:34:49,126 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:34:58,561 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:35:16,641 - INFO - 🔬 [obs] crash 4.46x | fase normal | 8% rosas | q67 3.60
+2026-06-03 14:35:31,598 - INFO - 🔬 [obs] crash 1.27x | fase normal | 8% rosas | q67 3.60
+2026-06-03 14:35:50,106 - INFO - 🔬 [obs] crash 1.73x | fase normal | 8% rosas | q67 3.60
+2026-06-03 14:36:05,222 - INFO - 🔬 [obs] crash 1.37x | fase normal | 8% rosas | q67 3.60
+2026-06-03 14:37:00,250 - INFO - ☕ Pausa humanizada (13.4s)
+2026-06-03 14:37:15,840 - INFO - ☕ Pausa humanizada (6.5s)
+2026-06-03 14:37:20,356 - INFO - 🔬 [obs] crash 240.02x | fase normal | 9% rosas | q67 4.34
+2026-06-03 14:37:38,898 - INFO - 🔬 [obs] crash 1.42x | fase normal | 9% rosas | q67 3.60
+2026-06-03 14:38:17,424 - INFO - 🔬 [obs] crash 10.02x | fase normal | 10% rosas | q67 4.34
+2026-06-03 14:38:45,520 - INFO - ☕ Pausa humanizada (12.3s)
+2026-06-03 14:38:58,918 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:38:58,919 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:39:13,239 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:39:15,146 - INFO - 🔬 [obs] crash 13.99x | fase normal | 11% rosas | q67 4.34
+2026-06-03 14:39:32,097 - INFO - 🔬 [obs] crash 4.39x | fase normal | 11% rosas | q67 4.34
+2026-06-03 14:40:02,680 - INFO - 🔬 [obs] crash 5.65x | fase normal | 11% rosas | q67 4.36
+2026-06-03 14:40:27,370 - INFO - ☕ Pausa humanizada (11.5s)
+2026-06-03 14:40:28,216 - INFO - 🔬 [obs] crash 2.29x | fase normal | 10% rosas | q67 4.34
+2026-06-03 14:40:39,791 - INFO - 🔬 [obs] crash 1.19x | fase normal | 10% rosas | q67 3.60
+2026-06-03 14:41:13,800 - INFO - ☕ Pausa humanizada (9.4s)
+2026-06-03 14:41:18,312 - INFO - 🔬 [obs] crash 9.82x | fase normal | 9% rosas | q67 3.60
+2026-06-03 14:41:31,790 - INFO - 🔬 [obs] crash 1.05x | fase normal | 9% rosas | q67 3.60
+2026-06-03 14:41:56,203 - INFO - 🔬 [obs] crash 2.41x | fase normal | 9% rosas | q67 3.60
+2026-06-03 14:42:11,165 - INFO - 🔬 [obs] crash 1.34x | fase normal | 9% rosas | q67 3.32
+2026-06-03 14:42:29,569 - INFO - 🔬 [obs] crash 1.83x | fase normal | 9% rosas | q67 3.32
+2026-06-03 14:43:13,599 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:43:13,600 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:43:32,145 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:43:40,107 - INFO - ☕ Pausa humanizada (7.0s)
+2026-06-03 14:43:40,948 - INFO - 🔬 [obs] crash 1.37x | fase normal | 9% rosas | q67 3.31
+2026-06-03 14:43:57,698 - INFO - ☕ Pausa humanizada (13.7s)
+2026-06-03 14:43:58,539 - INFO - 🔬 [obs] crash 2.35x | fase normal | 9% rosas | q67 3.15
+2026-06-03 14:44:10,573 - INFO - ☕ Pausa humanizada (11.0s)
+2026-06-03 14:44:11,368 - INFO - 🔬 [obs] crash 1.09x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:44:27,546 - INFO - ☕ Pausa humanizada (9.2s)
+2026-06-03 14:44:31,923 - INFO - 🔬 [obs] crash 1.91x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:44:44,365 - INFO - ☕ Pausa humanizada (9.5s)
+2026-06-03 14:44:59,942 - INFO - 🔬 [obs] crash 4.10x | fase normal | 9% rosas | q67 3.15
+2026-06-03 14:45:13,045 - INFO - ☕ Pausa humanizada (8.1s)
+2026-06-03 14:45:14,035 - INFO - 🔬 [obs] crash 1.02x | fase normal | 9% rosas | q67 3.15
+2026-06-03 14:45:25,412 - INFO - 🔬 [obs] crash 1.28x | fase normal | 9% rosas | q67 3.15
+2026-06-03 14:45:40,750 - INFO - 🔬 [obs] crash 1.38x | fase normal | 9% rosas | q67 3.15
+2026-06-03 14:46:09,513 - INFO - 🔬 [obs] crash 3.64x | fase normal | 9% rosas | q67 3.31
+2026-06-03 14:46:27,622 - INFO - 🔬 [obs] crash 1.75x | fase normal | 9% rosas | q67 3.31
+2026-06-03 14:46:45,547 - INFO - 🔬 [obs] crash 1.95x | fase normal | 9% rosas | q67 3.31
+2026-06-03 14:47:03,103 - INFO - 🔬 [obs] crash 1.68x | fase normal | 9% rosas | q67 3.31
+2026-06-03 14:47:19,760 - INFO - 🔬 [obs] crash 1.50x | fase normal | 9% rosas | q67 3.31
+2026-06-03 14:47:33,074 - INFO - 🔬 [obs] crash 1.13x | fase normal | 9% rosas | q67 3.15
+2026-06-03 14:47:33,075 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:47:33,075 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:47:41,232 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:47:43,031 - INFO - 🔬 [obs] crash 1.00x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:47:58,140 - INFO - 🔬 [obs] crash 1.38x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:48:15,827 - INFO - 🔬 [obs] crash 1.85x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:48:31,785 - INFO - 🔬 [obs] crash 1.49x | fase normal | 9% rosas | q67 2.94
+2026-06-03 14:48:55,674 - INFO - ☕ Pausa humanizada (13.3s)
+2026-06-03 14:48:56,451 - INFO - 🔬 [obs] crash 3.56x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:49:18,356 - INFO - 🔬 [obs] crash 2.62x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:49:31,660 - INFO - 🔬 [obs] crash 1.09x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:49:53,872 - INFO - ☕ Pausa humanizada (13.4s)
+2026-06-03 14:49:54,713 - INFO - 🔬 [obs] crash 1.25x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:50:07,940 - INFO - 🔬 [obs] crash 3.20x | fase normal | 9% rosas | q67 3.15
+2026-06-03 14:50:24,845 - INFO - 🔬 [obs] crash 1.56x | fase normal | 9% rosas | q67 3.15
+2026-06-03 14:50:42,794 - INFO - ☕ Pausa humanizada (14.9s)
+2026-06-03 14:50:43,615 - INFO - 🔬 [obs] crash 1.31x | fase normal | 9% rosas | q67 3.06
+2026-06-03 14:50:57,206 - INFO - ☕ Pausa humanizada (8.6s)
+2026-06-03 14:50:59,902 - INFO - 🔬 [obs] crash 2.41x | fase normal | 8% rosas | q67 2.94
+2026-06-03 14:51:26,247 - INFO - 🔬 [obs] crash 3.92x | fase normal | 8% rosas | q67 3.06
+2026-06-03 14:51:43,183 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:51:43,183 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:51:56,228 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:51:58,030 - INFO - 🔬 [obs] crash 1.26x | fase normal | 8% rosas | q67 3.06
+2026-06-03 14:52:10,231 - INFO - 🔬 [obs] crash 1.20x | fase normal | 8% rosas | q67 3.06
+2026-06-03 14:52:23,435 - INFO - 🔬 [obs] crash 1.27x | fase normal | 8% rosas | q67 3.06
+2026-06-03 14:52:30,860 - INFO - ☕ Pausa humanizada (6.4s)
+2026-06-03 14:52:35,383 - INFO - 🔬 [obs] crash 1.08x | fase normal | 8% rosas | q67 3.06
+2026-06-03 14:52:52,360 - INFO - 🔬 [obs] crash 1.80x | fase normal | 8% rosas | q67 3.06
+2026-06-03 14:53:01,856 - INFO - 🔬 [obs] crash 1.08x | fase normal | 8% rosas | q67 2.94
+2026-06-03 14:53:03,851 - INFO - 🔬 [obs] crash 1.12x | fase normal | 8% rosas | q67 2.94
+2026-06-03 14:53:12,946 - INFO - 🔬 [obs] crash 1.00x | fase normal | 8% rosas | q67 2.62
+2026-06-03 14:53:50,303 - INFO - 🔬 [obs] crash 9.07x | fase normal | 6% rosas | q67 2.62
+2026-06-03 14:54:09,675 - INFO - 🔬 [obs] crash 2.20x | fase normal | 6% rosas | q67 2.55
+2026-06-03 14:54:27,743 - INFO - 🔬 [obs] crash 1.87x | fase normal | 6% rosas | q67 2.41
+2026-06-03 14:54:39,222 - INFO - 🔬 [obs] crash 1.07x | fase normal | 6% rosas | q67 2.41
+2026-06-03 14:54:59,737 - INFO - ☕ Pausa humanizada (7.8s)
+2026-06-03 14:55:07,993 - INFO - 🔬 [obs] crash 4.81x | fase normal | 6% rosas | q67 2.41
+2026-06-03 14:55:33,038 - INFO - 🔬 [obs] crash 3.23x | fase fria | 5% rosas | q67 2.41
+2026-06-03 14:55:46,174 - INFO - 🔬 [obs] crash 1.15x | fase fria | 5% rosas | q67 2.41
+2026-06-03 14:55:57,461 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 14:55:57,461 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 14:56:14,711 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 14:56:16,722 - INFO - 🔬 [obs] crash 4.61x | fase fria | 5% rosas | q67 2.41
+2026-06-03 14:56:42,437 - INFO - 🔬 [obs] crash 4.29x | fase fria | 5% rosas | q67 2.55
+2026-06-03 14:57:13,981 - INFO - ☕ Pausa humanizada (13.6s)
+2026-06-03 14:57:37,933 - INFO - ☕ Pausa humanizada (14.8s)
+2026-06-03 14:57:42,456 - INFO - 🔬 [obs] crash 54.11x | fase normal | 6% rosas | q67 2.55
+2026-06-03 14:57:59,524 - INFO - ☕ Pausa humanizada (10.2s)
+2026-06-03 14:58:09,044 - INFO - ☕ Pausa humanizada (7.6s)
+2026-06-03 14:58:17,037 - INFO - 🔬 [obs] crash 4.11x | fase normal | 6% rosas | q67 2.55
+2026-06-03 14:58:19,201 - INFO - 🔬 [obs] crash 7.91x | fase normal | 6% rosas | q67 2.55
+2026-06-03 14:58:33,354 - INFO - 🔬 [obs] crash 1.19x | fase normal | 6% rosas | q67 2.55
+2026-06-03 14:58:46,798 - INFO - ☕ Pausa humanizada (8.8s)
+2026-06-03 14:58:47,627 - INFO - 🔬 [obs] crash 1.05x | fase normal | 6% rosas | q67 2.55
+2026-06-03 14:59:12,622 - INFO - ☕ Pausa humanizada (14.6s)
+2026-06-03 14:59:13,400 - INFO - 🔬 [obs] crash 2.25x | fase normal | 6% rosas | q67 2.55
+2026-06-03 14:59:32,276 - INFO - ☕ Pausa humanizada (8.1s)
+2026-06-03 14:59:33,095 - INFO - 🔬 [obs] crash 2.49x | fase normal | 6% rosas | q67 2.55
+2026-06-03 14:59:39,052 - INFO - 🔬 [obs] crash 1.02x | fase normal | 6% rosas | q67 2.49
+2026-06-03 14:59:51,850 - INFO - ☕ Pausa humanizada (9.7s)
+2026-06-03 15:00:10,434 - INFO - 🔬 [obs] crash 6.16x | fase normal | 6% rosas | q67 2.55
+2026-06-03 15:00:16,406 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 15:00:16,406 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 15:00:23,425 - INFO -    💉 Não conseguiu apostar (anti-inatividade) — sem problema.
+2026-06-03 15:00:28,814 - INFO - 🔬 [obs] crash 1.01x | fase fria | 5% rosas | q67 2.49
+2026-06-03 15:00:32,714 - INFO - 🔬 [obs] crash 1.00x | fase fria | 5% rosas | q67 2.49
+2026-06-03 15:00:57,678 - INFO - ☕ Pausa humanizada (7.8s)
+2026-06-03 15:00:58,442 - INFO - 🔬 [obs] crash 1.69x | fase fria | 5% rosas | q67 2.49
+2026-06-03 15:01:20,222 - INFO - 🔬 [obs] crash 4.27x | fase fria | 5% rosas | q67 2.55
+2026-06-03 15:01:42,216 - INFO - 🔬 [obs] crash 2.52x | fase fria | 5% rosas | q67 2.55
+2026-06-03 15:01:58,468 - INFO - 🔬 [obs] crash 1.41x | fase fria | 5% rosas | q67 2.52
+2026-06-03 15:02:23,159 - INFO - ☕ Pausa humanizada (7.1s)
+2026-06-03 15:02:25,722 - INFO - 🔬 [obs] crash 4.01x | fase fria | 5% rosas | q67 2.62
+2026-06-03 15:02:35,333 - INFO - ☕ Pausa humanizada (6.4s)
+2026-06-03 15:02:47,026 - INFO - ☕ Pausa humanizada (6.2s)
+2026-06-03 15:02:47,829 - INFO - 🔬 [obs] crash 2.21x | fase fria | 5% rosas | q67 2.52
+2026-06-03 15:03:30,046 - INFO - 🔬 [obs] crash 4.01x | fase fria | 5% rosas | q67 2.52
+2026-06-03 15:03:32,197 - INFO - 🔬 [obs] crash 18.56x | fase normal | 6% rosas | q67 2.52
+2026-06-03 15:03:55,753 - INFO - ☕ Pausa humanizada (7.9s)
+2026-06-03 15:04:04,178 - INFO - 🔬 [obs] crash 5.47x | fase normal | 6% rosas | q67 2.52
+2026-06-03 15:04:19,588 - INFO - 🔬 [obs] crash 1.47x | fase normal | 6% rosas | q67 2.52
+2026-06-03 15:04:23,445 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 15:04:23,445 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 15:04:28,565 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 15:04:48,935 - INFO - ☕ Pausa humanizada (13.9s)
+2026-06-03 15:04:49,786 - INFO - 🔬 [obs] crash 2.08x | fase normal | 6% rosas | q67 2.52
+2026-06-03 15:04:51,830 - INFO - 🔬 [obs] crash 1.02x | fase normal | 6% rosas | q67 2.52
+2026-06-03 15:05:16,136 - INFO - 🔬 [obs] crash 3.33x | fase fria | 5% rosas | q67 2.52
+2026-06-03 15:05:29,111 - INFO - 🔬 [obs] crash 1.12x | fase fria | 5% rosas | q67 2.52
+2026-06-03 15:05:46,292 - INFO - 🔬 [obs] crash 1.77x | fase fria | 4% rosas | q67 2.49
+2026-06-03 15:05:57,650 - INFO - 🔬 [obs] crash 1.07x | fase fria | 2% rosas | q67 2.41
+2026-06-03 15:06:09,345 - INFO - 🔬 [obs] crash 1.02x | fase fria | 2% rosas | q67 2.41
+2026-06-03 15:06:22,137 - INFO - 🔬 [obs] crash 1.14x | fase fria | 2% rosas | q67 2.35
+2026-06-03 15:06:39,803 - INFO - ☕ Pausa humanizada (10.6s)
+2026-06-03 15:06:40,663 - INFO - 🔬 [obs] crash 1.26x | fase fria | 2% rosas | q67 2.35
+2026-06-03 15:06:55,227 - INFO - ☕ Pausa humanizada (7.2s)
+2026-06-03 15:07:10,118 - INFO - ☕ Pausa humanizada (7.7s)
+2026-06-03 15:07:25,271 - INFO - 🔬 [obs] crash 31.25x | fase fria | 4% rosas | q67 2.41
+2026-06-03 15:07:39,477 - INFO - ☕ Pausa humanizada (13.2s)
+2026-06-03 15:07:40,400 - INFO - 🔬 [obs] crash 1.48x | fase fria | 4% rosas | q67 2.35
+2026-06-03 15:08:29,108 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 15:08:29,109 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 15:08:36,175 - INFO -    💉 Não conseguiu apostar (anti-inatividade) — sem problema.
+2026-06-03 15:08:46,890 - INFO - 🔬 [obs] crash 31.25x | fase fria | 5% rosas | q67 2.41
+2026-06-03 15:08:48,967 - INFO - 🔬 [obs] crash 115.85x | fase normal | 6% rosas | q67 2.41
+2026-06-03 15:09:03,073 - INFO - 🔬 [obs] crash 1.19x | fase normal | 6% rosas | q67 2.41
+2026-06-03 15:09:26,324 - INFO - ☕ Pausa humanizada (11.4s)
+2026-06-03 15:09:27,082 - INFO - 🔬 [obs] crash 2.69x | fase normal | 6% rosas | q67 2.49
+2026-06-03 15:09:44,256 - INFO - ☕ Pausa humanizada (8.5s)
+2026-06-03 15:09:58,686 - INFO - ☕ Pausa humanizada (12.6s)
+2026-06-03 15:09:59,492 - INFO - 🔬 [obs] crash 2.54x | fase normal | 6% rosas | q67 2.52
+2026-06-03 15:10:14,274 - INFO - 🔬 [obs] crash 3.57x | fase normal | 6% rosas | q67 2.54
+2026-06-03 15:10:50,197 - INFO - 🔬 [obs] crash 8.63x | fase normal | 6% rosas | q67 2.62
+2026-06-03 15:11:05,543 - INFO - ☕ Pausa humanizada (6.9s)
+2026-06-03 15:11:09,897 - INFO - 🔬 [obs] crash 1.82x | fase normal | 6% rosas | q67 2.62
+2026-06-03 15:11:20,863 - INFO - 🔬 [obs] crash 1.00x | fase normal | 6% rosas | q67 2.54
+2026-06-03 15:11:48,404 - INFO - 🔬 [obs] crash 3.99x | fase normal | 6% rosas | q67 2.62
+2026-06-03 15:12:25,155 - INFO - 🔬 [obs] crash 7.97x | fase normal | 6% rosas | q67 2.69
+2026-06-03 15:12:36,175 - INFO - ⏱️ 4 min em observação — aposta mínima anti-inatividade...
+2026-06-03 15:12:36,176 - INFO -    💉 Aposta anti-inatividade: 65 AOA @ 1.10x
+2026-06-03 15:12:43,839 - INFO -    💉 Aposta anti-inatividade concluída.
+2026-06-03 15:12:45,597 - INFO - 🔬 [obs] crash 1.19x | fase normal | 6% rosas | q67 2.69
+2026-06-03 15:12:56,715 - INFO - 🔬 [obs] crash 1.06x | fase normal | 6% rosas | q67 2.62
+2026-06-03 15:13:25,022 - INFO - ☕ Pausa humanizada (12.3s)
+2026-06-03 15:13:25,797 - INFO - ✋ Paragem pedida — fim da observação (73.9 min).
+2026-06-03 15:13:25,798 - INFO - 📊 Resumo final: 0W / 0L
+2026-06-03 15:13:25,826 - INFO - 👋 Bot encerrado. Até à próxima!

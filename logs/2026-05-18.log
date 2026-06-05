@@ -1,0 +1,82 @@
+2026-05-18 14:49:11,340 - INFO - 🚀 Robô Aviator iniciado...
+2026-05-18 14:49:12,983 - INFO - ✅ Modelo carregado com sucesso.
+2026-05-18 14:49:13,123 - INFO - 📂 Histórico carregado: 146 entradas
+2026-05-18 14:49:13,123 - INFO - ⏳ A sincronizar com o jogo — aguardando 2 rounds consecutivos...
+2026-05-18 14:49:38,287 - INFO -    Sync 1/2: 1.46x detectado
+2026-05-18 14:49:39,329 - INFO -    Sync 2/2: 21.46x detectado
+2026-05-18 14:49:39,329 - INFO - ✅ Sincronizado! A começar a apostar a partir da próxima rodada.
+2026-05-18 14:49:39,894 - INFO - 📈 Crash: 24.12x | Histórico: 147
+2026-05-18 14:49:41,375 - INFO - [IA] Prev:1 | Conf:0.98 | Confiança 0.98 >= limiar 0.65
+2026-05-18 14:49:41,401 - INFO - 🧠 A apostar | cashout alvo: 1.50x
+2026-05-18 14:50:21,687 - INFO - 💰 Cashout OK em 2.16x!
+2026-05-18 14:50:23,742 - INFO - 📈 Crash: 2.67x | Histórico: 148
+2026-05-18 14:50:23,764 - INFO - [IA] Prev:1 | Conf:0.90 | Confiança 0.90 >= limiar 0.65
+2026-05-18 14:50:23,765 - INFO - 🧠 A apostar | cashout alvo: 1.50x
+2026-05-18 14:50:49,193 - INFO - 💰 Cashout OK em 2.04x!
+2026-05-18 14:50:51,242 - INFO - 📈 Crash: 1.03x | Histórico: 149
+2026-05-18 14:50:51,262 - INFO - [IA] Prev:1 | Conf:0.95 | Confiança 0.95 >= limiar 0.65
+2026-05-18 14:50:51,262 - INFO - 🧠 A apostar | cashout alvo: 1.50x
+2026-05-18 14:50:59,371 - WARNING - ⚠️ Janela de aposta perdida.
+2026-05-18 14:51:03,180 - INFO - 📈 Crash: 2.76x | Histórico: 150
+2026-05-18 14:51:03,206 - INFO - [IA] Prev:1 | Conf:0.94 | Confiança 0.94 >= limiar 0.65
+2026-05-18 14:51:03,207 - INFO - 🧠 A apostar | cashout alvo: 1.50x
+2026-05-18 14:51:36,722 - INFO - 💥 Perdeu em 1.29x.
+2026-05-18 14:51:38,598 - INFO - 📈 Crash: 1.12x | Histórico: 151
+2026-05-18 14:51:38,623 - INFO - [IA] Prev:1 | Conf:0.95 | Confiança 0.95 >= limiar 0.65
+2026-05-18 14:51:38,624 - INFO - 🧠 A apostar | cashout alvo: 1.50x
+2026-05-18 14:52:23,832 - INFO - 💰 Cashout OK em 1.77x!
+2026-05-18 14:52:25,747 - INFO - 📈 Crash: 34.00x | Histórico: 152
+2026-05-18 14:52:25,771 - INFO - [IA] Prev:1 | Conf:0.99 | Confiança 0.99 >= limiar 0.65
+2026-05-18 14:52:25,772 - INFO - 🧠 A apostar | cashout alvo: 1.50x
+2026-05-18 14:52:57,614 - INFO - 💥 Perdeu em 1.27x.
+2026-05-18 14:52:59,569 - INFO - 📈 Crash: 1.21x | Histórico: 153
+2026-05-18 14:52:59,590 - INFO - [IA] Prev:1 | Conf:0.82 | Confiança 0.82 >= limiar 0.65
+2026-05-18 14:52:59,591 - INFO - 🧠 A apostar | cashout alvo: 1.50x
+2026-05-18 14:52:59,986 - INFO - 
+🛑 Robô encerrado manualmente.
+2026-05-18 15:30:13,387 - INFO - 🚀 Robô Aviator iniciado...
+2026-05-18 15:30:14,691 - INFO - 📂 Histórico: 153 entradas
+2026-05-18 15:30:14,692 - INFO - ⏳ A sincronizar — aguardando 2 rounds novos...
+2026-05-18 15:33:59,671 - INFO - 🚀 Robô Aviator iniciado...
+2026-05-18 15:33:59,704 - INFO - 📂 Histórico: 153 entradas
+2026-05-18 15:33:59,705 - INFO - ⏳ A sincronizar — aguardando 2 rounds novos...
+2026-05-18 15:34:03,904 - INFO -    Sync 1/2: 3.37x
+2026-05-18 15:34:06,076 - INFO -    Sync 2/2: 2.38x
+2026-05-18 15:34:06,076 - INFO - ✅ Sincronizado.
+2026-05-18 15:34:19,215 - INFO - 📈 Novo crash: 1.32x
+2026-05-18 15:34:19,280 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:34:20,586 - WARNING - ⚠️ Falhou a apostar — vai esperar próximo round.
+2026-05-18 15:34:31,880 - INFO - 📈 Novo crash: 1.23x
+2026-05-18 15:34:31,881 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:34:49,639 - INFO - 💰 GANHOU em 1.52x
+2026-05-18 15:34:51,559 - INFO - 📈 Novo crash: 2.08x
+2026-05-18 15:34:51,675 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:35:07,459 - INFO - 💰 GANHOU em 1.60x
+2026-05-18 15:35:26,806 - INFO - 📈 Novo crash: 432.41x
+2026-05-18 15:35:26,831 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:35:49,368 - INFO - 💥 PERDEU em 1.31x
+2026-05-18 15:35:51,408 - INFO - 📈 Novo crash: 1.38x
+2026-05-18 15:35:51,556 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:36:01,845 - INFO - 💰 GANHOU em 1.55x
+2026-05-18 15:36:03,699 - INFO - 📈 Novo crash: 2.75x
+2026-05-18 15:36:03,701 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:36:19,905 - INFO - 💰 GANHOU em 1.77x
+2026-05-18 15:36:22,141 - INFO - 📈 Novo crash: 1.96x
+2026-05-18 15:36:22,143 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:36:39,564 - INFO - 💰 GANHOU em 1.56x
+2026-05-18 15:36:41,438 - INFO - 📈 Novo crash: 2.48x
+2026-05-18 15:36:41,447 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:37:06,626 - INFO - 💰 GANHOU em 1.57x
+2026-05-18 15:37:08,826 - INFO - 📈 Novo crash: 1.07x
+2026-05-18 15:37:08,909 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:37:20,978 - WARNING - ⚠️ Falhou a apostar — vai esperar próximo round.
+2026-05-18 15:37:23,425 - INFO - 📈 Novo crash: 2.59x
+2026-05-18 15:37:23,425 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:37:35,455 - WARNING - ⚠️ Falhou a apostar — vai esperar próximo round.
+2026-05-18 15:38:09,898 - INFO - 📈 Novo crash: 59.76x
+2026-05-18 15:38:09,899 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:38:26,959 - INFO - 💰 GANHOU em 1.52x
+2026-05-18 15:38:28,833 - INFO - 📈 Novo crash: 2.17x
+2026-05-18 15:38:28,842 - INFO - 🧠 A tentar apostar | cashout: 1.50x
+2026-05-18 15:38:46,014 - INFO - 
+🛑 Robô encerrado manualmente.

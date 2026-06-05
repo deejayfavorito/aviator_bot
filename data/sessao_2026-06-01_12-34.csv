@@ -1,0 +1,4 @@
+timestamp,multiplicador_round,cashout_alvo,valor_apostado,resultado,cashout_obtido,lucro_aposta,banca_acumulada,cadeia_pos,cofre,estrategia
+2026-06-01T12:35:09,1.53,1.20,1000.00,ganhou,1.20,200.00,200.00,0,853.78,P6_default
+2026-06-01T12:35:24,1.62,1.20,1200.00,ganhou,1.20,240.00,440.00,0,853.78,P6_default
+2026-06-01T12:35:37,1.36,1.20,1440.00,ganhou,1.21,302.40,742.40,0,853.78,P6_default
